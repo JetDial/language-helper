@@ -37,7 +37,9 @@ const Recordings = (function () {
    * native speaker.
    */
   function sourceOf(lang, word) {
-    return (source[lang] && source[lang][word]) || 'human';
+    /* When in doubt, say it was made here. Understating is harmless; calling a
+     * synthetic clip a native speaker is not. */
+    return (source[lang] && source[lang][word]) || 'made';
   }
 
   function load() {

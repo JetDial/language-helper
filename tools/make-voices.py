@@ -52,6 +52,7 @@ _spec.loader.exec_module(getrec)
 
 sys.path.insert(0, HERE)
 import espeak_engine                                     # noqa: E402
+import coqui_engine                                      # noqa: E402
 
 # One good default voice per language. Any other name from --voices works too.
 DEFAULT_VOICE = {
@@ -136,6 +137,12 @@ def check(args):
         can = sorted(set(DEFAULT_VOICE) & set(words))
         cannot = sorted(set(words) - set(DEFAULT_VOICE))
         print('Piper can speak %d of the %d languages here.\n' % (len(can), len(words)))
+    elif args.engine == 'coqui':
+        can = sorted(set(coqui_engine.ISO3) & set(words))
+        cannot = sorted(set(words) - set(coqui_engine.ISO3))
+        best = sorted(set(coqui_engine.XTTS_LANGS) & set(words))
+        print('Coqui can speak %d of the %d languages here.' % (len(can), len(words)))
+        print('Its best model, XTTS, covers %d of them: %s\n' % (len(best), ' '.join(best)))
     else:
         engine = espeak_engine.Espeak(rate=args.rate)
         can, cannot = [], []
@@ -148,6 +155,64 @@ def check(args):
         print('\n  no:  ' + ' '.join(cannot))
         print('\nThose keep whatever they already have: a human recording if one was '
               'downloaded, otherwise the browser sounding the word out.')
+    return 0
+
+
+def run_coqui(args, words, targets):
+    engine = coqui_engine.Coqui(prefer_xtts=not args.no_xtts,
+                                accept_licence=args.accept_licence)
+    index_path, index, credits = open_index()
+
+    if not args.accept_licence and not args.no_xtts:
+        wanted = [l for l in targets if l in coqui_engine.XTTS_LANGS]
+        if wanted:
+            print('XTTS, the best Coqui model, is under the Coqui Public Model '
+                  'License:\n  https://coqui.ai/cpml\nIt permits non-commercial use '
+                  'only. Read it, then re-run with --accept-licence to use it for\n  '
+                  + ' '.join(wanted)
+                  + '\nWithout that, the smaller per-language models are used, which '
+                    'are CC BY-NC 4.0.\n')
+
+    for lang in targets:
+        if lang not in words:
+            print('%s: not a language here' % lang)
+            continue
+
+        print('\n%s - loading %s' % (lang, engine.model_for(lang) or 'nothing'))
+        ok, info = engine.load(lang)
+        if not ok:
+            print('  %s, skipping' % info)
+            continue
+        print('  using %s' % info)
+
+        folder = os.path.join(AUDIO, lang)
+        os.makedirs(folder, exist_ok=True)
+        index.setdefault(lang, {})
+        made = kept = 0
+
+        for written, _roman in words[lang]:
+            if index[lang].get(written) and not args.replace:
+                kept += 1
+                continue
+            name = getrec.safe_name(written, '.wav')
+            good, detail = engine.say(written, os.path.join(folder, name))
+            if not good:
+                print('  FAIL %-24s %s' % (written[:24], detail))
+                continue
+            index[lang][written] = name
+            credits.setdefault(lang, {})[name] = {
+                'word': written, 'file': 'made by Coqui TTS',
+                'author': engine._model_name, 'licence': 'generated locally',
+            }
+            made += 1
+            print('  ok   %-24s %.0f kB' % (written[:24], detail / 1024.0))
+
+        getrec.save_all(index_path, index, credits)
+        print('  %d spoken, %d already had audio, %d of %d words covered'
+              % (made, kept, len(index[lang]), len(words[lang])))
+
+    total = sum(len(v) for k, v in index.items() if not k.startswith('_'))
+    print('\nDone. %d clips in audio/. Reload the site.' % total)
     return 0
 
 
@@ -207,9 +272,17 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('languages', nargs='*', help='language codes, e.g. es ru de')
-    ap.add_argument('--engine', choices=['espeak', 'piper'], default='espeak',
-                    help='espeak covers every language including Japanese; piper '
-                         'sounds better but has fewer (default: espeak)')
+    ap.add_argument('--engine', choices=['coqui', 'espeak', 'piper'], default='coqui',
+                    help='coqui sounds best and covers the most; espeak is tiny and '
+                         'instant; piper is in between (default: coqui)')
+    ap.add_argument('--accept-licence', '--accept-license', action='store_true',
+                    dest='accept_licence',
+                    help='accept the Coqui Public Model License for XTTS, which '
+                         'permits non-commercial use only. Read it first; without '
+                         'this the smaller per-language models are used instead.')
+    ap.add_argument('--no-xtts', action='store_true',
+                    help='use the smaller per-language Coqui models even for the '
+                         'languages XTTS covers')
     ap.add_argument('--voice', help='use this exact Piper voice for every language given')
     ap.add_argument('--voices', action='store_true', help='list every Piper voice and stop')
     ap.add_argument('--check', action='store_true',
@@ -223,6 +296,12 @@ def main():
                          'human recordings already there are kept)')
     args = ap.parse_args()
 
+    if args.engine == 'coqui' and not coqui_engine.available():
+        print('Coqui TTS is not installed. Run:\n\n'
+              '    pip install coqui-tts\n'
+              '    pip install torch torchaudio --index-url '
+              'https://download.pytorch.org/whl/cpu\n')
+        return 1
     if args.engine == 'espeak' and not espeak_engine.available():
         print('eSpeak NG is not installed. Run:\n\n    pip install espeakng-loader\n')
         return 1
@@ -243,15 +322,20 @@ def main():
     words = getrec.word_lists()
     targets = args.languages
     if args.all:
-        targets = (sorted(set(espeak_engine.LANG_CANDIDATES) & set(words))
-                   if args.engine == 'espeak'
-                   else sorted(set(DEFAULT_VOICE) & set(words)))
+        if args.engine == 'espeak':
+            targets = sorted(set(espeak_engine.LANG_CANDIDATES) & set(words))
+        elif args.engine == 'coqui':
+            targets = sorted(set(coqui_engine.ISO3) & set(words))
+        else:
+            targets = sorted(set(DEFAULT_VOICE) & set(words))
     if not targets:
         ap.print_help()
         return 1
 
     if args.engine == 'espeak':
         return run_espeak(args, words, targets)
+    if args.engine == 'coqui':
+        return run_coqui(args, words, targets)
 
     os.makedirs(AUDIO, exist_ok=True)
     index_path = os.path.join(AUDIO, 'index.json')

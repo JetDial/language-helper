@@ -306,6 +306,64 @@ def download(url, path, tries=4):
 
 # ---------------------------------------------------------------- the job
 
+def repair():
+    """Rebuild the index from the clips actually sitting in audio/.
+
+    The audio files are the real record; the index is only a lookup table. If it
+    ever disagrees with the folder — an interrupted run, two runs racing — this
+    puts it right without downloading anything again.
+    """
+    words = word_lists()
+    index_path = os.path.join(AUDIO, 'index.json')
+    index, credits = {}, {}
+    if os.path.exists(index_path):
+        with open(index_path, encoding='utf-8') as fh:
+            existing = json.load(fh)
+        credits = existing.pop('_credits', {})
+        existing.pop('_source', None)
+        index = existing
+
+    found = added = 0
+    for lang in sorted(words):
+        folder = os.path.join(AUDIO, lang)
+        if not os.path.isdir(folder):
+            continue
+        index.setdefault(lang, {})
+        for written, _roman in words[lang]:
+            here = [ext for ext in ('.ogg', '.oga', '.flac', '.opus', '.mp3', '.wav')
+                    if os.path.exists(os.path.join(folder, safe_name(written, ext)))]
+            if not here:
+                continue
+            found += 1
+
+            # A word can have both: a downloaded recording and one an engine
+            # made later. The person always wins, and since our engines only
+            # ever write .wav, the non-wav files are the downloads.
+            known = credits.get(lang, {})
+            human = [e for e in here
+                     if known.get(safe_name(written, e), {}).get('licence',
+                                                                 'x') != 'generated locally'
+                     and e != '.wav']
+            ext = (human or here)[0]
+            name = safe_name(written, ext)
+
+            if index[lang].get(written) != name:
+                index[lang][written] = name
+                added += 1
+            if name not in known:
+                generated = ext == '.wav'
+                credits.setdefault(lang, {})[name] = {
+                    'word': written,
+                    'file': 'made locally' if generated else 'downloaded from Commons',
+                    'author': '' if generated else 'see Commons',
+                    'licence': 'generated locally' if generated else 'see Commons',
+                }
+
+    save_all(index_path, index, credits)
+    print('%d clips on disk, %d index entries put back.' % (found, added))
+    return 0
+
+
 def safe_name(word, ext):
     stem = re.sub(r'[^\w]+', '_', word, flags=re.UNICODE).strip('_')
     return (stem or 'word')[:60] + ext
@@ -317,6 +375,9 @@ def main():
     ap.add_argument('languages', nargs='*', help='language codes, e.g. ja ru ko')
     ap.add_argument('--all', action='store_true', help='every language the site knows')
     ap.add_argument('--list', action='store_true', help='show the language codes and stop')
+    ap.add_argument('--repair', action='store_true',
+                    help='rebuild the index from the clips already in audio/, '
+                         'downloading nothing')
     ap.add_argument('--fast', action='store_true',
                     help='exact filenames only; skips the slow search that finds '
                          'the Lingua Libre recordings')
@@ -324,6 +385,9 @@ def main():
                     help='wait between searches (default 1; raise it if Commons '
                          'starts asking you to slow down)')
     args = ap.parse_args()
+
+    if args.repair:
+        return repair()
 
     words = word_lists()
 
@@ -450,14 +514,41 @@ def main():
 
 def save_all(index_path, index, credits):
     """Write the index and the credits. Called as the run goes, not just at the
-    end, so that stopping half way never loses what has been fetched."""
+    end, so that stopping half way never loses what has been fetched.
+
+    Whatever is already on disk is merged in first. Two of these tools can be
+    run at once — or one left running while another finishes — and without this
+    the slower one writes its own stale picture over the other's work.
+    """
+    if os.path.exists(index_path):
+        try:
+            with open(index_path, encoding='utf-8') as fh:
+                on_disk = json.load(fh)
+        except ValueError:
+            on_disk = {}
+        disk_credits = on_disk.pop('_credits', {})
+        on_disk.pop('_source', None)
+        for lang, files in on_disk.items():
+            merged = dict(files)
+            merged.update(index.get(lang, {}))          # ours wins on a clash
+            index[lang] = merged
+        for lang, files in disk_credits.items():
+            merged = dict(files)
+            merged.update(credits.get(lang, {}))
+            credits[lang] = merged
+
     # Which clips are a recording of a person and which were generated here.
     # The site says which out loud, and must never call a synthetic clip human.
+    #
+    # This has to follow the index, not the credits: a word can have a
+    # downloaded recording *and* a generated one sitting next to each other, and
+    # only the file the index points at is the one that actually gets played.
     sources = {}
-    for lang, files in credits.items():
-        for name, c in files.items():
-            kind = 'made' if c.get('licence') == 'generated locally' else 'human'
-            sources.setdefault(lang, {})[c['word']] = kind
+    for lang, files in index.items():
+        for word, name in files.items():
+            c = credits.get(lang, {}).get(name)
+            kind = 'human' if c and c.get('licence') != 'generated locally' else 'made'
+            sources.setdefault(lang, {})[word] = kind
 
     out = dict(index)
     out['_credits'] = credits

@@ -112,6 +112,7 @@ and drops them in `audio/`:
 python tools/get-recordings.py --list        # the language codes
 python tools/get-recordings.py ja ru ko      # a few languages
 python tools/get-recordings.py --all         # everything
+python tools/get-recordings.py --repair      # rebuild the index from the folder
 ```
 
 Free, permanently licensed, no account and no key. Once downloaded it all works
@@ -127,7 +128,32 @@ languages often do not. Anything without a recording falls back to speech.
 The clips are not in git — they are other people's recordings and can run to
 hundreds of megabytes. Run the tool to create the folder.
 
-### 2. eSpeak NG — every word, every language, offline
+### 2. Coqui TTS — the best-sounding offline engine
+
+[Coqui TTS](https://github.com/idiap/coqui-ai-TTS) is a neural engine that runs
+locally. It is the heaviest of the three — it pulls in PyTorch, and each voice
+is its own download — and the best sounding.
+
+```
+pip install coqui-tts[codec,ja]
+pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+python tools/make-voices.py --engine coqui --check
+python tools/make-voices.py --engine coqui ja ko ru
+```
+
+It uses Coqui's own single-language models by default. Its best model, **XTTS
+v2**, covers seventeen languages at once and sounds better still, but it is
+released under a licence that permits **non-commercial use only** — so the tool
+will not download it until you have read that licence and passed
+`--accept-licence`. It never agrees on your behalf.
+
+Notes from getting it working here: it needs `transformers` below version 5,
+the `codec` extra for audio, and the `ja` extra before it will speak Japanese.
+Meta's MMS models (`fairseq`), which would add another fifty languages, are
+served from a host that refused the download here — the tool falls back
+automatically.
+
+### 3. eSpeak NG — every word, every language, offline
 
 [eSpeak NG](https://github.com/espeak-ng/espeak-ng) is a tiny free speech engine
 that covers **47 of the 53 languages here, Japanese included**. It sounds
@@ -147,7 +173,7 @@ already has audio, so human recordings are never painted over.
 
 Missing from eSpeak: Hausa, Mongolian, Somali, Tagalog, Yoruba and Zulu.
 
-### 3. Piper, a more natural offline voice
+### 4. Piper, a middle option
 
 [Piper](https://github.com/OHF-Voice/piper1-gpl) is an open-source neural
 speech engine that runs on your own machine. It sounds far closer to a person
@@ -173,7 +199,7 @@ speech pack, use Chrome's built-in Google voice, or try
 Also worth knowing: **RHVoice** installs as a Windows voice, so it turns up in
 the browser by itself — good for Russian, Ukrainian, Georgian and Esperanto.
 
-### 4. A real voice for the language
+### 5. A real voice for the language
 
 **A web page can only use voices the computer already has.** This is the one
 part the site genuinely cannot do for itself: there is no way to synthesise a
@@ -192,7 +218,7 @@ Free, and it takes a minute:
 * **Chrome** — ships Google voices for dozens of languages with nothing to
   install. If a language looks missing, try the page in Chrome first.
 
-### 5. Sounding it out
+### 6. Sounding it out
 
 When there is no recording and no voice for the language, the app does **not** read the respelling on the screen out
 loud — that spelling was written for your eyes, and an English voice handed
@@ -233,5 +259,6 @@ js/speech.js         speaking, and the fallback voice
 tools/get-recordings.py  downloads human recordings from Wikimedia Commons
 tools/make-voices.py     speaks every word with eSpeak NG or Piper
 tools/espeak_engine.py   drives the eSpeak NG library directly
+tools/coqui_engine.py    picks and drives Coqui's models
 js/app.js            the interface
 ```
