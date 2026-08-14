@@ -85,12 +85,34 @@ function pronFor(text) {
  * pronounce.
  */
 function playTarget(scriptText, pron, rate) {
+  /* A recording of a real person beats anything synthesised, so try the
+   * audio/ folder first. It is empty until tools/get-recordings.py has been
+   * run, and missing words simply fall through to speech. */
+  if (Recordings.has(state.learning, scriptText)) {
+    Speech.cancel();
+    Recordings.play(state.learning, scriptText, { rate: rate || 1 }).then(played => {
+      if (played) noteRecording();
+      else speakIt(scriptText, pron, rate);
+    });
+    return 'recording';
+  }
+  return speakIt(scriptText, pron, rate);
+}
+
+function speakIt(scriptText, pron, rate) {
   const res = Speech.speakWord(scriptText, pron, targetVoice(), {
     rate: rate || 1, preferTag: myVoice()
   });
   if (res.how === 'fallback') noteFallback(res);
   if (res.how === 'silent') noteSilent();
   return res.how;
+}
+
+function noteRecording() {
+  setStatus('ok', 'real recording — a native speaker',
+    'This is not synthesised speech: it is a recording of someone who speaks '
+    + LANGUAGES[state.learning].name + ', from the audio/ folder. See audio/CREDITS.md '
+    + 'for the speaker and licence.');
 }
 
 /** Read back something the user wrote in their own spelling. */
@@ -169,6 +191,16 @@ function renderVoiceDialog() {
   LANGUAGE_ORDER.forEach(code => { tags[code] = LANGUAGES[code].voice; });
   const cover = Speech.coverage(tags);
   const have = LANGUAGE_ORDER.filter(c => cover[c].count).length;
+
+  const clips = Recordings.count();
+  const clipsHere = Recordings.count(state.learning);
+  $('#vd-recordings').innerHTML = clips
+    ? '<strong>' + clips + ' real recordings</strong> are installed in the audio folder ('
+      + clipsHere + ' for ' + esc(LANGUAGES[state.learning].name) + '). Those words are '
+      + 'played as a native speaker actually said them, and nothing is synthesised. '
+      + 'Run the tool again to add more languages.'
+    : 'No recordings are installed yet. Real human pronunciations can be downloaded '
+      + 'into the audio folder — see the box below. They beat any synthetic voice.';
 
   $('#vd-summary').textContent = Speech.supported()
     ? 'This browser can speak ' + have + ' of the ' + LANGUAGE_ORDER.length
@@ -377,6 +409,11 @@ function wordCard(w) {
   row.appendChild(bd);
 
   if (say.own) row.appendChild(el('span', 'tag', 'yours'));
+  if (Recordings.has(state.learning, w.script)) {
+    const t = el('span', 'tag voice', '● real voice');
+    t.title = 'A recording of a native speaker saying this word.';
+    row.appendChild(t);
+  }
   card.appendChild(row);
 
   if (state.openBreakdowns[w.id]) card.appendChild(breakdownBlock(w.pron));
@@ -1103,6 +1140,10 @@ function init() {
   $('#vd-close').onclick = () => $('#voice-dialog').close();
   Speech.onVoices(() => {
     updateVoiceStatus();
+    if ($('#voice-dialog').open) renderVoiceDialog();
+  });
+  Recordings.onReady(() => {
+    if (Recordings.count()) render();
     if ($('#voice-dialog').open) renderVoiceDialog();
   });
 

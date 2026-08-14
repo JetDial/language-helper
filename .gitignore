@@ -3,3 +3,8 @@ Thumbs.db
 *.log
 node_modules/
 my-spellings.json
+
+# Downloaded pronunciation clips — recreate with tools/get-recordings.py.
+# They are other people's recordings, they can run to hundreds of megabytes,
+# and they are specific to whichever languages you chose.
+audio/

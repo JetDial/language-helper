@@ -99,6 +99,36 @@ accents, Devanagari conjuncts and the dropped final vowel, and Arabic roots.
 
 ## Sound
 
+There are three ways this site can say a word, best first.
+
+### 1. A recording of a real person
+
+The best pronunciation is not synthesised at all. `tools/get-recordings.py`
+downloads clips of actual native speakers from Wikimedia Commons — most of them
+from Lingua Libre, where volunteers record their own language word by word —
+and drops them in `audio/`:
+
+```
+python tools/get-recordings.py --list        # the language codes
+python tools/get-recordings.py ja ru ko      # a few languages
+python tools/get-recordings.py --all         # everything
+```
+
+Free, permanently licensed, no account and no key. Once downloaded it all works
+offline, and nothing is sent anywhere when you press play. The tool is
+resumable — stop it and run it again whenever. Every speaker and licence is
+recorded in `audio/CREDITS.md`, and the words that have one are marked
+**● real voice** in the app.
+
+Coverage varies a lot by language: common words in well-covered languages
+(Russian, German, French, Swahili) usually have one, rarer words and smaller
+languages often do not. Anything without a recording falls back to speech.
+
+The clips are not in git — they are other people's recordings and can run to
+hundreds of megabytes. Run the tool to create the folder.
+
+### 2. A real voice for the language
+
 **A web page can only use voices the computer already has.** This is the one
 part the site genuinely cannot do for itself: there is no way to synthesise a
 Japanese accent out of nothing. When a real voice for the language is installed,
@@ -116,10 +146,9 @@ Free, and it takes a minute:
 * **Chrome** — ships Google voices for dozens of languages with nothing to
   install. If a language looks missing, try the page in Chrome first.
 
-Words are spoken by a real voice for the language when the machine has one
-installed.
+### 3. Sounding it out
 
-When it does not, the app does **not** read the respelling on the screen out
+When there is no recording and no voice for the language, the app does **not** read the respelling on the screen out
 loud — that spelling was written for your eyes, and an English voice handed
 `kòn-ni-tchi-wa` says something ridiculous. Instead the *sounds* are respelled
 a second time for the language of whichever voice is actually installed, and
@@ -153,6 +182,8 @@ js/data-scripts.js   the writing systems
 js/transcribe.js     real script -> sounds, by rule
 js/dictionary.js     meanings, word splitting for Japanese and Chinese
 js/mywords.js        your own spellings and meanings
+js/recordings.js     real human clips from the audio/ folder
 js/speech.js         speaking, and the fallback voice
+tools/get-recordings.py  downloads those clips from Wikimedia Commons
 js/app.js            the interface
 ```

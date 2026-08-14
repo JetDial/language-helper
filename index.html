@@ -90,12 +90,26 @@
   <h2>Voices on this computer</h2>
   <p class="hint" id="vd-summary"></p>
 
+  <p class="hint" id="vd-recordings"></p>
+
   <div id="vd-current"></div>
 
   <h3 class="section-title">Every language here</h3>
   <div id="vd-list" class="voice-list"></div>
 
   <div class="vd-help">
+    <h3>Real human recordings (best of all)</h3>
+    <p>A folder of clips of actual native speakers, from Wikimedia Commons and
+       Lingua Libre, where volunteers record their own language word by word.
+       Free, permanently licensed, and once downloaded they work offline with
+       nothing sent anywhere. In a terminal, in the site's folder:</p>
+    <pre>python tools/get-recordings.py --list
+python tools/get-recordings.py ja ru ko</pre>
+    <p>It fills <code>audio/</code>, notes every speaker and licence in
+       <code>audio/CREDITS.md</code>, and can be stopped and re-run whenever —
+       it picks up where it left off. Reload this page afterwards. Words with no
+       recording keep using the computer's own speech.</p>
+
     <h3>Getting real voices</h3>
     <p>A web page can only use voices the computer already has, so this is the
        one thing the site cannot do for you. Both routes below are free.</p>
@@ -124,6 +138,8 @@
 <script src="js/mywords.js"></script>
 <script src="js/dictionary.js"></script>
 <script src="js/transcribe.js"></script>
+<script src="audio/index.js" onerror="void 0"></script>
+<script src="js/recordings.js"></script>
 <script src="js/speech.js"></script>
 <script src="js/app.js"></script>
 </body>
