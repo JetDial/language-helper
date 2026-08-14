@@ -345,6 +345,7 @@ def main():
         with open(index_path, encoding='utf-8') as fh:
             index = json.load(fh)
     credits = index.pop('_credits', {})
+    index.pop('_source', None)
 
     for lang in targets:
         if lang not in words:
@@ -440,18 +441,30 @@ def main():
 def save_all(index_path, index, credits):
     """Write the index and the credits. Called as the run goes, not just at the
     end, so that stopping half way never loses what has been fetched."""
+    # Which clips are a recording of a person and which were generated here.
+    # The site says which out loud, and must never call a synthetic clip human.
+    sources = {}
+    for lang, files in credits.items():
+        for name, c in files.items():
+            kind = 'made' if c.get('licence') == 'generated locally' else 'human'
+            sources.setdefault(lang, {})[c['word']] = kind
+
     out = dict(index)
     out['_credits'] = credits
+    out['_source'] = sources
     with open(index_path, 'w', encoding='utf-8') as fh:
         json.dump(out, fh, ensure_ascii=False, indent=1, sort_keys=True)
 
     # The same index as a script, so the site can read it when the page is
     # opened straight from disk, where fetch() is not allowed to.
-    plain = {k: v for k, v in index.items() if k != '_credits'}
+    plain = {k: v for k, v in index.items() if not k.startswith('_')}
     with open(os.path.join(AUDIO, 'index.js'), 'w', encoding='utf-8') as fh:
         fh.write('/* written by tools/get-recordings.py - do not edit */\n')
         fh.write('window.RECORDINGS = ')
         json.dump(plain, fh, ensure_ascii=False, indent=1, sort_keys=True)
+        fh.write(';\n')
+        fh.write('window.RECORDINGS_SOURCE = ')
+        json.dump(sources, fh, ensure_ascii=False, indent=1, sort_keys=True)
         fh.write(';\n')
 
     lines = ['# Where these recordings came from', '',

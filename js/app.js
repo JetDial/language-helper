@@ -91,7 +91,7 @@ function playTarget(scriptText, pron, rate) {
   if (Recordings.has(state.learning, scriptText)) {
     Speech.cancel();
     Recordings.play(state.learning, scriptText, { rate: rate || 1 }).then(played => {
-      if (played) noteRecording();
+      if (played) noteRecording(Recordings.sourceOf(state.learning, scriptText));
       else speakIt(scriptText, pron, rate);
     });
     return 'recording';
@@ -108,10 +108,17 @@ function speakIt(scriptText, pron, rate) {
   return res.how;
 }
 
-function noteRecording() {
+function noteRecording(kind) {
+  if (kind === 'made') {
+    setStatus('ok', 'offline voice — made on this computer',
+      'A clip generated here by Piper, the free offline speech engine, and kept in the '
+      + 'audio folder. Much closer to a real accent than the browser voices, but still '
+      + 'synthetic — not a person.');
+    return;
+  }
   setStatus('ok', 'real recording — a native speaker',
-    'This is not synthesised speech: it is a recording of someone who speaks '
-    + LANGUAGES[state.learning].name + ', from the audio/ folder. See audio/CREDITS.md '
+    'Not synthesised: a recording of someone who actually speaks '
+    + LANGUAGES[state.learning].name + ', from the audio folder. See audio/CREDITS.md '
     + 'for the speaker and licence.');
 }
 
@@ -410,8 +417,11 @@ function wordCard(w) {
 
   if (say.own) row.appendChild(el('span', 'tag', 'yours'));
   if (Recordings.has(state.learning, w.script)) {
-    const t = el('span', 'tag voice', '● real voice');
-    t.title = 'A recording of a native speaker saying this word.';
+    const human = Recordings.sourceOf(state.learning, w.script) === 'human';
+    const t = el('span', 'tag voice', human ? '● real voice' : '● offline voice');
+    t.title = human
+      ? 'A recording of a native speaker saying this word.'
+      : 'Spoken by Piper, generated on this computer.';
     row.appendChild(t);
   }
   card.appendChild(row);

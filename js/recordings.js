@@ -15,21 +15,33 @@
 
 const Recordings = (function () {
   let index = null;          // { lang: { word: filename } }
+  let source = {};           // { lang: { word: 'human' | 'made' } }
   let ready = false;
   const listeners = [];
 
   function announce() { listeners.forEach(fn => fn()); }
 
-  function adopt(data) {
+  function adopt(data, sources) {
     if (!data) return;
     index = {};
     Object.keys(data).forEach(k => { if (k[0] !== '_') index[k] = data[k]; });
+    source = sources || data._source || {};
     ready = true;
     announce();
   }
 
+  /**
+   * 'human' — a recording of a person saying the word.
+   * 'made'  — generated on this computer by Piper.
+   * The difference matters: a synthetic clip must never be presented as a
+   * native speaker.
+   */
+  function sourceOf(lang, word) {
+    return (source[lang] && source[lang][word]) || 'human';
+  }
+
   function load() {
-    if (window.RECORDINGS) { adopt(window.RECORDINGS); return; }
+    if (window.RECORDINGS) { adopt(window.RECORDINGS, window.RECORDINGS_SOURCE); return; }
     fetch('audio/index.json')
       .then(r => (r.ok ? r.json() : null))
       .then(adopt)
@@ -82,6 +94,6 @@ const Recordings = (function () {
   function onReady(fn) { listeners.push(fn); if (ready) fn(); }
 
   load();
-  return { has, urlFor, play, stop, count, languages, onReady,
+  return { has, urlFor, play, stop, count, languages, sourceOf, onReady,
            get loaded() { return ready; } };
 })();

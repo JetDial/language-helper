@@ -8,3 +8,4 @@ my-spellings.json
 # They are other people's recordings, they can run to hundreds of megabytes,
 # and they are specific to whichever languages you chose.
 audio/
+tools/piper-voices/
