@@ -59,6 +59,16 @@ ISO3 = {
 
 AUDIO_EXT = ('.wav', '.ogg', '.oga', '.opus', '.flac', '.mp3')
 
+# Wikimedia will sometimes ask for a ten-minute wait. Sitting there is worse
+# than stopping: the run saves as it goes, so picking it up later costs nothing.
+MAX_WAIT = 60
+
+
+class Throttled(Exception):
+    def __init__(self, seconds):
+        super(Throttled, self).__init__(seconds)
+        self.seconds = seconds
+
 # Some Wiktionary recordings name the accent as well as the language, as in
 # Sw-ke-maji.flac or En-us-water.ogg.
 REGIONS = {
@@ -144,6 +154,8 @@ def api(params, tries=4):
             if exc.code not in (429, 503) or attempt == tries - 1:
                 raise
             wait = int(exc.headers.get('Retry-After') or 0) or delay
+            if wait > MAX_WAIT:
+                raise Throttled(wait)
             print('    (asked to wait %ds)' % wait)
             time.sleep(wait)
             delay *= 2
@@ -284,6 +296,8 @@ def download(url, path, tries=4):
             if exc.code not in (429, 503) or attempt == tries - 1:
                 raise
             wait = int(exc.headers.get('Retry-After') or 0) or delay
+            if wait > MAX_WAIT:
+                raise Throttled(wait)
             print('    (busy, waiting %ds)' % wait)
             time.sleep(wait)
             delay *= 3
@@ -348,6 +362,8 @@ def main():
             name = safe_name(written, os.path.splitext(clip['title'])[1])
             try:
                 size = download(clip['url'], os.path.join(folder, name))
+            except Throttled:
+                raise                       # the caller stops the run cleanly
             except Exception as exc:
                 print('  FAIL %-24s %s' % (written[:24], exc))
                 return False
@@ -357,6 +373,7 @@ def main():
                 'author': clip['author'], 'licence': clip['licence'],
             }
             print('  ok   %-24s %s (%.0f kB)' % (written[:24], clip['title'][:44], size / 1024.0))
+            save_all(index_path, index, credits)     # a stopped run keeps its work
             return True
 
         # Pass one: exact filenames, fifty per request.
@@ -365,32 +382,64 @@ def main():
             for title in guess_titles(written, roman, lang):
                 lookup[title] = (written, roman, lang)
                 batch.append(title)
-        hits = {}
+        hits, throttled = {}, None
         for i in range(0, len(batch), 50):
             try:
                 hits.update(find_by_title(batch[i:i + 50], lookup))
+            except Throttled as exc:
+                throttled = exc
+                break
             except Exception as exc:
                 print('    (lookup failed: %s)' % exc)
             time.sleep(0.4)
         for written, clip in sorted(hits.items()):
-            if keep(written, clip):
-                found += 1
+            try:
+                if keep(written, clip):
+                    found += 1
+            except Throttled as exc:
+                throttled = exc
+                break
+            except Exception as exc:
+                print('  FAIL %-24s %s' % (written[:24], exc))
 
         # Pass two: search for whatever is left. Slower, but this is where the
         # Lingua Libre recordings live, and those are the best of the lot.
-        if not args.fast:
+        if not args.fast and not throttled:
             for written, roman in todo:
                 if written in index[lang]:
                     continue
-                clip = find_by_search(written, roman, lang)
-                if clip and keep(written, clip):
-                    found += 1
-                else:
-                    print('  -    %-24s no recording' % written[:24])
+                try:
+                    clip = find_by_search(written, roman, lang)
+                    if clip and keep(written, clip):
+                        found += 1
+                    else:
+                        print('  -    %-24s no recording' % written[:24])
+                except Throttled as exc:
+                    throttled = exc
+                    break
+                except Exception as exc:
+                    print('  FAIL %-24s %s' % (written[:24], exc))
                 time.sleep(args.pause)
 
         print('  %d of %d have a recording' % (found, len(words[lang])))
 
+        if throttled:
+            save_all(index_path, index, credits)
+            print('\nCommons has asked for a %d second break, so stopping here.'
+                  % throttled.seconds)
+            print('Everything fetched so far is saved. Run the same command again '
+                  'later and it carries on from where it stopped.')
+            break
+
+    save_all(index_path, index, credits)
+    total = sum(len(v) for k, v in index.items() if k != '_credits')
+    print('\nDone. %d recordings in audio/. Reload the site.' % total)
+    return 0
+
+
+def save_all(index_path, index, credits):
+    """Write the index and the credits. Called as the run goes, not just at the
+    end, so that stopping half way never loses what has been fetched."""
     out = dict(index)
     out['_credits'] = credits
     with open(index_path, 'w', encoding='utf-8') as fh:
@@ -400,12 +449,10 @@ def main():
     # opened straight from disk, where fetch() is not allowed to.
     plain = {k: v for k, v in index.items() if k != '_credits'}
     with open(os.path.join(AUDIO, 'index.js'), 'w', encoding='utf-8') as fh:
-        fh.write('/* written by tools/get-recordings.py - do not edit */
-')
+        fh.write('/* written by tools/get-recordings.py - do not edit */\n')
         fh.write('window.RECORDINGS = ')
         json.dump(plain, fh, ensure_ascii=False, indent=1, sort_keys=True)
-        fh.write(';
-')
+        fh.write(';\n')
 
     lines = ['# Where these recordings came from', '',
              'Every clip here is a recording of a native speaker, downloaded from',
@@ -421,10 +468,6 @@ def main():
         lines.append('')
     with open(os.path.join(AUDIO, 'CREDITS.md'), 'w', encoding='utf-8') as fh:
         fh.write('\n'.join(lines))
-
-    total = sum(len(v) for k, v in index.items() if k != '_credits')
-    print('\nDone. %d recordings in audio/. Reload the site.' % total)
-    return 0
 
 
 if __name__ == '__main__':
