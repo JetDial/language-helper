@@ -76,39 +76,80 @@ function pronFor(text) {
 
 /* ---------- sound playback ---------------------------------------------- */
 
-function playTarget(text, fallbackText, rate) {
-  const how = Speech.speakTarget(text, targetVoice(), fallbackText, myVoice(), { rate: rate || 1 });
-  if (how === 'fallback') flashVoiceNote();
-  return how;
+/**
+ * Say a word. Hands over the sounds, not the letters, so that when there is no
+ * voice for the language being learned the sounds can be re-spelled for a
+ * voice that does exist rather than being read out in a spelling it cannot
+ * pronounce.
+ */
+function playTarget(scriptText, pron, rate) {
+  const res = Speech.speakWord(scriptText, pron, targetVoice(), {
+    rate: rate || 1, preferTag: myVoice()
+  });
+  if (res.how === 'fallback') noteFallback(res);
+  if (res.how === 'silent') noteSilent();
+  return res.how;
 }
-function playMine(text, rate) { Speech.speakOwn(text, myVoice(), { rate: rate || 1 }); }
 
-let voiceNoteShown = false;
-function flashVoiceNote() {
-  if (voiceNoteShown) return;
-  voiceNoteShown = true;
+/** Read back something the user wrote in their own spelling. */
+function playMine(text, rate) {
+  if (!canReadMySpelling()) { noteCannotReadMine(); return false; }
+  Speech.speakOwn(text, myVoice(), { rate: rate || 1 });
+  return true;
+}
+
+/** Only true when a voice exists that can actually read the user's spelling. */
+function canReadMySpelling() {
+  const reader = Speech.readerFor(myVoice());
+  return !!reader && reader.orth === state.speaks;
+}
+
+function setStatus(cls, text, title) {
   const b = $('#voice-status');
-  b.classList.add('warn');
-  $('#voice-label').textContent = 'no ' + (LANGUAGES[state.learning].name) + ' voice — reading your spelling instead';
+  b.classList.remove('ok', 'warn');
+  if (cls) b.classList.add(cls);
+  $('#voice-label').textContent = text;
+  if (title) b.title = title;
+}
+
+function noteFallback(res) {
+  const spelling = ORTHOGRAPHIES[res.orth].name;
+  setStatus('warn',
+    'no ' + LANGUAGES[state.learning].name + ' voice — sounding it out in ' + spelling,
+    'This computer has no ' + LANGUAGES[state.learning].name + ' voice, so the word is '
+    + 'respelled for the ' + res.voice.name + ' voice (' + spelling + ' spelling) and read '
+    + 'aloud with that. It is an imitation, not the real accent.');
+}
+
+function noteSilent() {
+  setStatus('warn', 'no sounds saved for that one yet',
+    'Nothing is known about how that word sounds, so nothing is played rather than '
+    + 'guessing. Click the word to write down how it sounds and it will be spoken from then on.');
+}
+
+function noteCannotReadMine() {
+  setStatus('warn', 'no ' + orthName() + ' voice to read your spelling back',
+    'Your own spelling can only be read back by a voice for ' + orthName()
+    + ', and this computer has none installed.');
 }
 
 function updateVoiceStatus() {
-  const b = $('#voice-status'), lbl = $('#voice-label');
-  b.classList.remove('ok', 'warn');
-  if (!Speech.supported()) { lbl.textContent = 'this browser has no speech'; return; }
-  const has = Speech.hasVoiceFor(targetVoice());
-  const mine = Speech.hasVoiceFor(myVoice());
-  if (has) { b.classList.add('ok'); lbl.textContent = LANGUAGES[state.learning].name + ' voice ready'; }
-  else {
-    b.classList.add('warn');
-    lbl.textContent = 'no ' + LANGUAGES[state.learning].name + ' voice' + (mine ? ' — using your spelling' : '');
+  if (!Speech.supported()) { setStatus('', 'this browser has no speech'); return; }
+  if (!Speech.list.length) { setStatus('', 'no voices installed'); return; }
+
+  const target = LANGUAGES[state.learning].name;
+  if (Speech.hasVoiceFor(targetVoice())) {
+    setStatus('ok', target + ' voice ready',
+      'Words are spoken by a real ' + target + ' voice.');
+    return;
   }
-  b.title = has
-    ? 'Words are spoken by a real ' + LANGUAGES[state.learning].name + ' voice.'
-    : 'This computer has no ' + LANGUAGES[state.learning].name + ' voice installed, so the '
-      + 'respelling is read aloud by a voice for the language you speak. Windows: '
-      + 'Settings → Time & language → Language & region → Add a language (include speech).';
-  voiceNoteShown = false;
+  const reader = Speech.readerFor(myVoice());
+  setStatus('warn',
+    'no ' + target + ' voice — sounding it out' + (reader ? ' in ' + ORTHOGRAPHIES[reader.orth].name : ''),
+    'This computer has no ' + target + ' voice. Words are respelled for a voice that is '
+    + 'installed' + (reader ? ' (' + reader.voice.name + ')' : '') + ' and read aloud with that, '
+    + 'which is an imitation rather than the real accent.\n\nWindows: Settings → Time & language '
+    + '→ Language & region → Add a language, and tick the speech option.');
 }
 
 /* ---------- the word editor dialog --------------------------------------- */
@@ -140,12 +181,10 @@ function openWordDialog(ctx) {
 function wireDialog() {
   const dlg = $('#word-dialog');
   $('#wd-play').onclick = () => {
-    const guess = dialogCtx.pron ? respell(dialogCtx.pron, orth()).text : dialogCtx.script;
-    playTarget(dialogCtx.script, guess);
+    playTarget(dialogCtx.script, dialogCtx.pron);
   };
   $('#wd-play-slow').onclick = () => {
-    const guess = dialogCtx.pron ? respell(dialogCtx.pron, orth()).text : dialogCtx.script;
-    playTarget(dialogCtx.script, guess, 0.6);
+    playTarget(dialogCtx.script, dialogCtx.pron, 0.6);
   };
   $('#wd-cancel').onclick = () => dlg.close();
   $('#wd-save').onclick = () => {
@@ -222,11 +261,11 @@ function wordCard(w) {
 
   const row = el('div', 'row');
   const hear = el('button', 'btn small', '▶ Hear it');
-  hear.onclick = () => playTarget(w.script, say.text);
+  hear.onclick = () => playTarget(w.script, w.pron);
   row.appendChild(hear);
 
   const slow = el('button', 'btn small ghost', 'Slowly');
-  slow.onclick = () => playTarget(w.script, say.text, 0.6);
+  slow.onclick = () => playTarget(w.script, w.pron, 0.6);
   row.appendChild(slow);
 
   const mineBtn = el('button', 'btn small ghost', say.own ? 'Edit mine' : 'Make it mine');
@@ -257,7 +296,7 @@ function breakdownBlock(pron) {
     s.appendChild(el('b', null, syl.spelled));
     s.appendChild(el('small', null, syl.sounds.map(x => x.ipa).join('')));
     s.title = syl.sounds.map(x => x.ipa + ' = ' + (x.letters || '–') + (x.hint ? ' (' + x.hint + ')' : '')).join('\n');
-    s.onclick = () => playMine(syl.spelled, 0.85);
+    s.onclick = () => playTarget(syl.spelled, syl.sounds.map(x => x.token).join(''), 0.8);
     rows.appendChild(s);
   });
   box.appendChild(rows);
@@ -335,8 +374,7 @@ function charCell(item, script) {
   cell.onclick = () => {
     state.char = item;
     renderWrite();
-    const spoken = pron ? respell(pron, orth()).text : ch;
-    playTarget(ch, spoken);
+    playTarget(ch, pron);
   };
   return cell;
 }
@@ -360,7 +398,7 @@ function renderStudio(script) {
 
   const row = el('div', 'row');
   const hear = el('button', 'btn small', '▶ Hear it');
-  hear.onclick = () => playTarget(ch, say || ch);
+  hear.onclick = () => playTarget(ch, pron);
   row.appendChild(hear);
   const clear = el('button', 'btn small ghost', 'Clear');
   const guide = el('button', 'btn small ghost', 'Hide guide');
@@ -495,6 +533,7 @@ function renderRead() {
   const pieces = segment(state.learning, state.readText.trim());
   const wordsBox = el('div', 'words' + (isRTL() ? ' rtl' : ''));
   const readLine = [];
+  const readProns = [];
   const glossLine = [];
 
   pieces.forEach(piece => {
@@ -519,7 +558,7 @@ function renderRead() {
     }
     w.title = 'Click to write it your way' + (pron ? '\nSounds: ' + pronToIpa(pron) : '');
     w.onclick = () => {
-      playTarget(text, say.text);
+      playTarget(text, pron);
       openWordDialog({
         script: text, pron: pron,
         translit: (phrasebook(state.learning)[text] || {}).translit || '',
@@ -529,6 +568,7 @@ function renderRead() {
     };
     wordsBox.appendChild(w);
     readLine.push(say.text || text);
+    readProns.push(pron);
   });
 
   out.appendChild(wordsBox);
@@ -540,10 +580,20 @@ function renderRead() {
   const actions = el('div', 'chips');
   actions.style.marginTop = '14px';
   const hearAll = el('button', 'btn', '▶ Hear the whole thing');
-  hearAll.onclick = () => playTarget(state.readText.trim(), readLine.join(', '));
+  hearAll.onclick = () => {
+    const res = Speech.speakSentence(state.readText.trim(), readProns, targetVoice(),
+      { preferTag: myVoice(), rate: 0.95 });
+    if (res.how === 'fallback') noteFallback(res);
+    if (res.how === 'silent') noteSilent();
+  };
   actions.appendChild(hearAll);
+
   const hearMine = el('button', 'btn ghost', '▶ Hear my spelling');
-  hearMine.onclick = () => playMine(readLine.join(', '), 0.95);
+  hearMine.disabled = !canReadMySpelling();
+  hearMine.title = hearMine.disabled
+    ? 'Reading your own spelling back needs a ' + orthName() + ' voice, and this computer has none.'
+    : 'Reads your spelling out loud with a ' + orthName() + ' voice.';
+  hearMine.onclick = () => playMine(readLine.filter(t => t && t !== '?').join(', '), 0.95);
   actions.appendChild(hearMine);
   const teachAll = el('button', 'btn ghost', 'Teach me these words');
   teachAll.onclick = () => {
@@ -637,9 +687,9 @@ function trainerBox() {
   const hearRow = el('div', 'chips');
   hearRow.style.justifyContent = 'center';
   const h1 = el('button', 'btn', '▶ Hear it');
-  h1.onclick = () => playTarget(item.script, guess);
+  h1.onclick = () => playTarget(item.script, item.pron);
   const h2 = el('button', 'btn ghost', 'Slowly');
-  h2.onclick = () => playTarget(item.script, guess, 0.6);
+  h2.onclick = () => playTarget(item.script, item.pron, 0.6);
   hearRow.appendChild(h1); hearRow.appendChild(h2);
   box.appendChild(hearRow);
 
@@ -803,7 +853,7 @@ function savedBox() {
     row.appendChild(mid);
     row.appendChild(el('div', 'spacer'));
     const play = el('button', 'btn small ghost', '▶');
-    play.onclick = () => playTarget(r.word, r.spell);
+    play.onclick = () => playTarget(r.word, r.pron);
     row.appendChild(play);
     const edit = el('button', 'btn small ghost', 'Edit');
     edit.onclick = () => openWordDialog({
@@ -846,7 +896,7 @@ function renderPractice() {
 
   if (state.quiz.mode === 'hear') {
     const play = el('button', 'btn primary', '▶ Play the word again');
-    play.onclick = () => playTarget(q.answer.script, sayOf(q.answer.script, q.answer.pron).text);
+    play.onclick = () => playTarget(q.answer.script, q.answer.pron);
     card.appendChild(play);
     card.appendChild(el('p', 'wd-meta', 'Which one did you hear?'));
     if (!q.played) { q.played = true; setTimeout(play.onclick, 260); }
@@ -873,7 +923,7 @@ function renderPractice() {
         if (q.options[i].id === q.answer.id) node.classList.add('right');
         else if (q.options[i].id === o.id) node.classList.add('wrong');
       });
-      playTarget(q.answer.script, sayOf(q.answer.script, q.answer.pron).text);
+      playTarget(q.answer.script, q.answer.pron);
       setTimeout(() => { state.quiz.q = makeQuestion(pool); renderPractice(); }, correct ? 750 : 1500);
     };
     opts.appendChild(b);

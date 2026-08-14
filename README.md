@@ -80,9 +80,25 @@ accents, Devanagari conjuncts and the dropped final vowel, and Arabic roots.
 ## Sound
 
 Words are spoken by a real voice for the language when the machine has one
-installed. When it does not, the app reads *your respelling* aloud using a
-voice for the language you speak — which lands surprisingly close. The dot in
-the top bar tells you which of the two is happening.
+installed.
+
+When it does not, the app does **not** read the respelling on the screen out
+loud — that spelling was written for your eyes, and an English voice handed
+`kòn-ni-tchi-wa` says something ridiculous. Instead the *sounds* are respelled
+a second time for the language of whichever voice is actually installed, and
+that is what gets spoken:
+
+```
+こんにちは   on screen (Kreyòl):  kòn-ni-tchi-wa
+            to the speaker:      kohn nee chee wah   (an English voice)
+```
+
+Stress capitals and syllable dashes are stripped first, because many engines
+read an all-caps syllable as an abbreviation and spell it out.
+
+A word whose sounds are not known stays silent rather than being guessed at,
+and the app says so — that is the cue to click it and teach it. The dot in the
+top bar always tells you which of the three is happening.
 
 To add voices on Windows: Settings → Time & language → Language & region → Add
 a language, and tick the speech option.
