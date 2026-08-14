@@ -86,9 +86,40 @@
   </form>
 </dialog>
 
+<dialog id="voice-dialog" class="dialog wide">
+  <h2>Voices on this computer</h2>
+  <p class="hint" id="vd-summary"></p>
+
+  <div id="vd-current"></div>
+
+  <h3 class="section-title">Every language here</h3>
+  <div id="vd-list" class="voice-list"></div>
+
+  <div class="vd-help">
+    <h3>Getting real voices</h3>
+    <p>A web page can only use voices the computer already has, so this is the
+       one thing the site cannot do for you. Both routes below are free.</p>
+    <p><strong>Windows</strong> — Settings → Time &amp; language → Language &amp; region →
+       <em>Add a language</em>. Pick the language, and on the options screen tick
+       <em>Speech</em>. Then restart the browser. The newer "Natural" voices sound
+       genuinely human.</p>
+    <p><strong>Chrome</strong> — Google ships its own voices for dozens of
+       languages and they need no installing at all. If a language shows as
+       missing here, try opening this page in Chrome before installing anything.</p>
+    <p><strong>Android / iOS</strong> — the system already carries many languages;
+       add more under accessibility or language settings.</p>
+  </div>
+
+  <div class="wd-actions">
+    <span class="spacer"></span>
+    <button type="button" class="btn primary" id="vd-close">Done</button>
+  </div>
+</dialog>
+
 <script src="js/sound.js"></script>
 <script src="js/orthographies.js"></script>
 <script src="js/data-words.js"></script>
+<script src="js/data-core.js"></script>
 <script src="js/data-scripts.js"></script>
 <script src="js/mywords.js"></script>
 <script src="js/dictionary.js"></script>

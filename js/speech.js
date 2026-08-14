@@ -29,18 +29,62 @@ const Speech = (function () {
 
   function supported() { return !!window.speechSynthesis; }
 
-  /** Best voice for a BCP-47 tag, matching the base language if need be. */
+  /* A voice the user picked by hand for a given language, by voice name. */
+  let chosen = {};
+  function setChosen(map) { chosen = map || {}; }
+
+  const langBase = (t) => String(t || '').toLowerCase().split(/[-_]/)[0];
+
+  /**
+   * How good a voice is for a tag. Anything at all beats nothing, but an exact
+   * regional match beats a cousin, and the neural voices ("Natural", Google's)
+   * beat the old robotic ones by a wide margin — which is the whole difference
+   * between "sounds like a native speaker" and "sounds like a 1998 satnav".
+   */
+  function scoreVoice(v, tag) {
+    const want = String(tag || '').toLowerCase().replace('_', '-');
+    const have = v.lang.toLowerCase().replace('_', '-');
+    if (langBase(have) !== langBase(want)) return -1;
+
+    let score = have === want ? 100 : 50;
+    const name = v.name.toLowerCase();
+    if (/natural|neural/.test(name)) score += 30;
+    if (/google/.test(name)) score += 22;
+    if (/online/.test(name)) score += 14;
+    if (v.localService === false) score += 8;
+    if (v.default) score += 3;
+    return score;
+  }
+
+  /** Every installed voice that can speak this language, best first. */
+  function voicesFor(tag) {
+    return voices
+      .map(v => ({ v: v, s: scoreVoice(v, tag) }))
+      .filter(x => x.s >= 0)
+      .sort((a, b) => b.s - a.s)
+      .map(x => x.v);
+  }
+
+  /** Best voice for a tag — the user's pick for that language if they made one. */
   function voiceFor(tag) {
     if (!tag || !voices.length) return null;
-    const want = tag.toLowerCase();
-    const base = want.split('-')[0];
-    return voices.find(v => v.lang.toLowerCase() === want)
-        || voices.find(v => v.lang.toLowerCase().replace('_', '-') === want)
-        || voices.find(v => v.lang.toLowerCase().split(/[-_]/)[0] === base)
-        || null;
+    const list = voicesFor(tag);
+    if (!list.length) return null;
+    const pick = chosen[langBase(tag)];
+    return (pick && list.find(v => v.name === pick)) || list[0];
   }
 
   function hasVoiceFor(tag) { return !!voiceFor(tag); }
+
+  /** Which of a set of languages this computer can actually speak. */
+  function coverage(tags) {
+    const out = {};
+    Object.keys(tags).forEach(k => {
+      const list = voicesFor(tags[k]);
+      out[k] = { count: list.length, best: list[0] || null };
+    });
+    return out;
+  }
 
   function cancel() { if (window.speechSynthesis) window.speechSynthesis.cancel(); }
 
@@ -87,16 +131,27 @@ const Speech = (function () {
     return voices.length ? { voice: voices[0], orth: 'en' } : null;
   }
 
-  /* Strip the marks that help a person read but derail a speech engine. The
-   * capitals matter most: plenty of engines read an all-caps syllable as an
-   * abbreviation and spell it out letter by letter. */
+  /* Turn a respelling meant for eyes into something an engine says smoothly.
+   *
+   * The syllable dashes have to go entirely, not become spaces: a space makes
+   * the engine treat every syllable as a separate word and read "ah-ree-gah-toh"
+   * as four chopped-up words instead of one flowing one. Capitals go too,
+   * because plenty of engines read an all-caps syllable as an abbreviation and
+   * spell it out letter by letter. */
   function speakable(text) {
-    return text
-      .toLowerCase()
-      .replace(/[-–—]/g, ' ')       // syllable dashes become little pauses
-      .replace(/['ʼ`ː:?!]/g, '')
-      .replace(/\s+/g, ' ')
-      .trim();
+    const clean = text.toLowerCase().replace(/['ʼ`ː:?!]/g, '');
+
+    return clean.split(/\s+/).map(word => {
+      const syllables = word.split(/[-–—]/).filter(Boolean);
+      return syllables.reduce((acc, syl) => {
+        if (!acc) return syl;
+        /* Run them together — except where the join would blur two syllables
+         * into one, as "ee" + "eh" would. There the break has to stay, because
+         * いいえ really is two beats. */
+        const collides = acc[acc.length - 1] === syl[0];
+        return acc + (collides ? '-' : '') + syl;
+      }, '');
+    }).join(' ').trim();
   }
 
   /**
@@ -138,6 +193,7 @@ const Speech = (function () {
 
   function onVoices(fn) { listeners.push(fn); if (voices.length) fn(voices); }
 
-  return { supported, voiceFor, hasVoiceFor, readerFor, speak, speakWord, speakSentence, speakOwn,
-           speakable, cancel, onVoices, get list() { return voices; } };
+  return { supported, voiceFor, hasVoiceFor, voicesFor, coverage, setChosen, readerFor,
+           speak, speakWord, speakSentence, speakOwn, speakable, cancel, onVoices,
+           get list() { return voices; } };
 })();

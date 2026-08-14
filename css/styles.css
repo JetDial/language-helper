@@ -306,6 +306,29 @@ main { padding: 22px; max-width: 1180px; margin: 0 auto; }
 .wd-suggest b { color: var(--accent); }
 .wd-actions { display: flex; gap: 8px; align-items: center; margin-top: 18px; }
 
+.dialog.wide { max-width: 640px; max-height: 86vh; overflow-y: auto; }
+.dialog .hint { color: var(--ink-dim); font-size: 13.5px; }
+.voice-list {
+  display: grid; gap: 5px; grid-template-columns: 1fr 1fr; margin-bottom: 18px;
+}
+@media (max-width: 560px) { .voice-list { grid-template-columns: 1fr; } }
+.voice-row {
+  display: flex; align-items: center; gap: 8px; cursor: pointer;
+  background: var(--card-2); border: 1px solid var(--line);
+  border-radius: 9px; padding: 7px 11px; font-size: 13.5px;
+}
+.voice-row:hover { border-color: var(--accent-2); }
+.voice-row .v-name { color: var(--ink); }
+.voice-row .v-ok { color: var(--accent-2); font-size: 12px; }
+.voice-row .v-no { color: var(--ink-faint); font-size: 12px; }
+.vd-help {
+  border-top: 1px solid var(--line); padding-top: 14px;
+  color: var(--ink-dim); font-size: 13.5px;
+}
+.vd-help h3 { font-size: 15px; color: var(--ink); margin-bottom: 6px; }
+.vd-help p { margin: 8px 0; }
+.vd-help strong { color: var(--ink); }
+
 .empty { color: var(--ink-faint); font-size: 14.5px; padding: 18px 0; }
 .foot { color: var(--ink-faint); font-size: 12.5px; text-align: center; padding: 26px 20px 34px; }
 .foot strong { color: var(--ink-dim); }

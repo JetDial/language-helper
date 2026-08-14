@@ -19,6 +19,7 @@ const LANGUAGES = {
 
   ja: {
     name: 'Japanese', native: '日本語', flag: '🇯🇵', voice: 'ja-JP',
+    latin: false,
     script: 'Hiragana, Katakana & Kanji',
     scripts: ['hiragana', 'katakana', 'kanji'],
     transcriber: 'ja',
@@ -66,6 +67,7 @@ const LANGUAGES = {
 
   ko: {
     name: 'Korean', native: '한국어', flag: '🇰🇷', voice: 'ko-KR',
+    latin: false,
     script: 'Hangul',
     scripts: ['hangul'],
     transcriber: 'ko',
@@ -108,6 +110,7 @@ const LANGUAGES = {
 
   zh: {
     name: 'Mandarin Chinese', native: '中文', flag: '🇨🇳', voice: 'zh-CN',
+    latin: false,
     script: 'Hanzi (characters) + Pinyin',
     scripts: ['pinyin', 'hanzi'],
     transcriber: 'zh',
@@ -150,6 +153,7 @@ const LANGUAGES = {
 
   ru: {
     name: 'Russian', native: 'Русский', flag: '🇷🇺', voice: 'ru-RU',
+    latin: false,
     script: 'Cyrillic',
     scripts: ['cyrillic'],
     transcriber: 'ru',
@@ -193,6 +197,7 @@ const LANGUAGES = {
 
   ar: {
     name: 'Arabic', native: 'العربية', flag: '🇸🇦', voice: 'ar-SA',
+    latin: false, rtl: true,
     script: 'Arabic abjad',
     scripts: ['arabic'],
     transcriber: 'ar',
@@ -235,6 +240,7 @@ const LANGUAGES = {
 
   hi: {
     name: 'Hindi', native: 'हिन्दी', flag: '🇮🇳', voice: 'hi-IN',
+    latin: false,
     script: 'Devanagari',
     scripts: ['devanagari'],
     transcriber: 'hi',
@@ -277,6 +283,7 @@ const LANGUAGES = {
 
   el: {
     name: 'Greek', native: 'Ελληνικά', flag: '🇬🇷', voice: 'el-GR',
+    latin: false,
     script: 'Greek alphabet',
     scripts: ['greek'],
     transcriber: 'el',
@@ -320,6 +327,7 @@ const LANGUAGES = {
 
   es: {
     name: 'Spanish', native: 'Español', flag: '🇪🇸', voice: 'es-ES',
+    latin: true,
     script: 'Latin alphabet',
     scripts: [],
     note: 'Spanish is spelled almost exactly as it sounds, so the respelling '
@@ -359,6 +367,7 @@ const LANGUAGES = {
 
   fr: {
     name: 'French', native: 'Français', flag: '🇫🇷', voice: 'fr-FR',
+    latin: true,
     script: 'Latin alphabet',
     scripts: [],
     note: 'French writes far more letters than it says — final consonants are '

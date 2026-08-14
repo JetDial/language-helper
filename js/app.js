@@ -37,7 +37,9 @@ const orth = () => MyWords.orthographyFor(state.speaks);
 const orthName = () => (ORTHOGRAPHIES[state.speaks] || ORTHOGRAPHIES.en).name;
 const myVoice = () => ORTH_VOICE[state.speaks] || 'en-US';
 const targetVoice = () => (LANGUAGES[state.learning] || {}).voice;
-const isRTL = () => state.learning === 'ar';
+const isRTL = () => !!(LANGUAGES[state.learning] || {}).rtl;
+/* The respelling itself runs right-to-left when the reader's script does. */
+const myRTL = () => !!(ORTHOGRAPHIES[state.speaks] || {}).rtl;
 
 /** The respelling for a word: the user's own if they wrote one. */
 function sayOf(scriptForm, pron) {
@@ -138,9 +140,11 @@ function updateVoiceStatus() {
   if (!Speech.list.length) { setStatus('', 'no voices installed'); return; }
 
   const target = LANGUAGES[state.learning].name;
-  if (Speech.hasVoiceFor(targetVoice())) {
+  const voice = Speech.voiceFor(targetVoice());
+  if (voice) {
     setStatus('ok', target + ' voice ready',
-      'Words are spoken by a real ' + target + ' voice.');
+      'Words are spoken by a real ' + target + ' voice (' + voice.name + '). '
+      + 'Click to switch voices or see the other languages.');
     return;
   }
   const reader = Speech.readerFor(myVoice());
@@ -150,6 +154,97 @@ function updateVoiceStatus() {
     + 'installed' + (reader ? ' (' + reader.voice.name + ')' : '') + ' and read aloud with that, '
     + 'which is an imitation rather than the real accent.\n\nWindows: Settings → Time & language '
     + '→ Language & region → Add a language, and tick the speech option.');
+}
+
+/* ---------- the voice panel ----------------------------------------------- */
+
+function openVoiceDialog() {
+  const dlg = $('#voice-dialog');
+  renderVoiceDialog();
+  dlg.showModal();
+}
+
+function renderVoiceDialog() {
+  const tags = {};
+  LANGUAGE_ORDER.forEach(code => { tags[code] = LANGUAGES[code].voice; });
+  const cover = Speech.coverage(tags);
+  const have = LANGUAGE_ORDER.filter(c => cover[c].count).length;
+
+  $('#vd-summary').textContent = Speech.supported()
+    ? 'This browser can speak ' + have + ' of the ' + LANGUAGE_ORDER.length
+      + ' languages here with a real voice. The rest are sounded out instead — '
+      + 'useful for learning the word, but not a native accent.'
+    : 'This browser has no speech support at all.';
+
+  /* voice chooser for the language being learned */
+  const cur = $('#vd-current');
+  cur.innerHTML = '';
+  const lang = LANGUAGES[state.learning];
+  const list = Speech.voicesFor(lang.voice);
+  const box = el('div', 'box');
+  box.appendChild(el('h3', null, 'Voice for ' + lang.name));
+
+  if (!list.length) {
+    box.appendChild(el('p', 'hint', 'No ' + lang.name + ' voice is installed, so '
+      + lang.name + ' words are sounded out with another voice. Follow the steps below '
+      + 'and this fills in by itself.'));
+  } else {
+    box.appendChild(el('p', 'hint', list.length === 1
+      ? 'One voice available. This is what you hear when you press play.'
+      : list.length + ' voices available — pick whichever sounds most natural to you.'));
+
+    const sel = el('select');
+    list.forEach(v => {
+      const o = el('option', null, v.name + '  ·  ' + v.lang
+        + (v.localService === false ? '  (online)' : ''));
+      o.value = v.name;
+      sel.appendChild(o);
+    });
+    const chosen = (MyWords.prefs().voices || {})[lang.voice.split('-')[0]];
+    if (chosen && list.some(v => v.name === chosen)) sel.value = chosen;
+    sel.onchange = () => {
+      const voices = Object.assign({}, MyWords.prefs().voices || {});
+      voices[lang.voice.split('-')[0]] = sel.value;
+      MyWords.setPref('voices', voices);
+      Speech.setChosen(voices);
+      const sample = wordsOf(state.learning)[0];
+      if (sample) playTarget(sample.script, sample.pron);
+      renderVoiceDialog();
+      updateVoiceStatus();
+    };
+    const field = el('label', 'field');
+    field.appendChild(el('span', null, 'Voice'));
+    field.appendChild(sel);
+    box.appendChild(field);
+
+    const test = el('button', 'btn', '▶ Test it');
+    test.onclick = () => {
+      const sample = wordsOf(state.learning)[0];
+      if (sample) playTarget(sample.script, sample.pron);
+    };
+    box.appendChild(test);
+  }
+  cur.appendChild(box);
+
+  /* the whole roster */
+  const listBox = $('#vd-list');
+  listBox.innerHTML = '';
+  LANGUAGE_ORDER.forEach(code => {
+    const l = LANGUAGES[code];
+    const info = cover[code];
+    const row = el('div', 'voice-row' + (info.count ? ' has' : ''));
+    row.appendChild(el('span', 'v-flag', l.flag));
+    row.appendChild(el('span', 'v-name', l.name));
+    row.appendChild(el('span', 'spacer'));
+    row.appendChild(el('span', info.count ? 'v-ok' : 'v-no',
+      info.count ? '✓ ' + info.best.name.replace(/^Microsoft |^Google /, '') : 'sounded out'));
+    row.onclick = () => {
+      $('#learning').value = code;
+      $('#learning').onchange();
+      renderVoiceDialog();
+    };
+    listBox.appendChild(row);
+  });
 }
 
 /* ---------- the word editor dialog --------------------------------------- */
@@ -252,7 +347,7 @@ function wordCard(w) {
   card.appendChild(scriptLine);
   card.appendChild(el('div', 'translit', w.translit));
 
-  const mine = el('div', 'mine');
+  const mine = el('div', 'mine' + (myRTL() ? ' rtl' : ''));
   const span = el('span', say.own ? 'own' : '', say.text);
   mine.appendChild(span);
   card.appendChild(mine);
@@ -317,10 +412,15 @@ function renderWrite() {
   if (!state.script || !SCRIPTS[state.script]) state.script = forLang[0] || 'hiragana';
 
   if (!forLang.length) {
+    const lang = LANGUAGES[state.learning];
     const l = el('div', 'lede');
-    l.innerHTML = '<strong>' + esc(LANGUAGES[state.learning].name) + '</strong> uses the same alphabet you '
-      + 'already write with, so there is no new script to learn. The scripts below belong to the other '
-      + 'languages — have a look anyway.';
+    l.innerHTML = lang.latin
+      ? '<strong>' + esc(lang.name) + '</strong> uses the same alphabet you already write with, so '
+        + 'there is no new script to learn. The scripts below belong to the other languages — have '
+        + 'a look anyway.'
+      : '<strong>' + esc(lang.name) + '</strong> is written in ' + esc(lang.script) + '. There is no '
+        + 'letter-by-letter table for it here yet, so learn its words in the <em>Learn</em> tab for '
+        + 'now — every word there shows the real writing. The scripts below are the ones with tables.';
     root.appendChild(l);
   }
 
@@ -370,7 +470,7 @@ function charCell(item, script) {
   cell.appendChild(g);
   cell.appendChild(el('div', 'rom', rom));
   const say = pron ? respell(pron, orth()).text : '';
-  cell.appendChild(el('div', 'say', say));
+  cell.appendChild(el('div', 'say' + (myRTL() ? ' rtl' : ''), say));
   cell.onclick = () => {
     state.char = item;
     renderWrite();
@@ -387,7 +487,7 @@ function renderStudio(script) {
 
   studio.appendChild(el('h3', null, rom));
   const say = pron ? respell(pron, orth()).text : '';
-  studio.appendChild(el('div', 'say-big', say || '—'));
+  studio.appendChild(el('div', 'say-big' + (myRTL() ? ' rtl' : ''), say || '—'));
   if (pron) studio.appendChild(el('div', 'wd-meta', pronToIpa(pron)));
 
   const box = el('div', 'trace-box');
@@ -546,7 +646,7 @@ function renderRead() {
 
     const w = el('div', 'word');
     w.appendChild(el('div', 'w-script' + (isRTL() ? ' rtl' : ''), text));
-    const sayEl = el('div', 'w-say' + (say.own ? ' own' : ''), say.text || '?');
+    const sayEl = el('div', 'w-say' + (say.own ? ' own' : '') + (myRTL() ? ' rtl' : ''), say.text || '?');
     w.appendChild(sayEl);
     if (meaning) {
       w.appendChild(el('div', 'w-mean' + (meaning.match === 'near' ? ' near' : ''),
@@ -573,7 +673,7 @@ function renderRead() {
 
   out.appendChild(wordsBox);
 
-  const line = el('div', 'readline' + (isRTL() ? '' : ''), readLine.join('   '));
+  const line = el('div', 'readline' + (myRTL() ? ' rtl' : ''), readLine.join('   '));
   out.appendChild(line);
   out.appendChild(el('div', 'gloss-line', 'Roughly: ' + glossLine.join(' · ')));
 
@@ -998,8 +1098,13 @@ function init() {
   };
 
   $$('.tab').forEach(b => { b.onclick = () => switchTab(b.dataset.tab); });
-  $('#voice-status').onclick = () => { Speech.cancel(); updateVoiceStatus(); };
-  Speech.onVoices(() => updateVoiceStatus());
+  Speech.setChosen(MyWords.prefs().voices || {});
+  $('#voice-status').onclick = () => { Speech.cancel(); openVoiceDialog(); };
+  $('#vd-close').onclick = () => $('#voice-dialog').close();
+  Speech.onVoices(() => {
+    updateVoiceStatus();
+    if ($('#voice-dialog').open) renderVoiceDialog();
+  });
 
   wireDialog();
   render();
