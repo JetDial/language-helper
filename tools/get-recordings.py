@@ -347,6 +347,14 @@ def main():
     credits = index.pop('_credits', {})
     index.pop('_source', None)
 
+    # A word that currently has a generated clip is still worth looking for: a
+    # recording of a real person beats any engine, so those count as missing.
+    generated = {}
+    for lang, files in credits.items():
+        for c in files.values():
+            if c.get('licence') == 'generated locally':
+                generated.setdefault(lang, set()).add(c['word'])
+
     for lang in targets:
         if lang not in words:
             print('%s: not a language here (try --list)' % lang)
@@ -354,7 +362,9 @@ def main():
         folder = os.path.join(AUDIO, lang)
         os.makedirs(folder, exist_ok=True)
         index.setdefault(lang, {})
-        todo = [(w, r) for w, r in words[lang] if w not in index[lang]]
+        made_here = generated.get(lang, set())
+        todo = [(w, r) for w, r in words[lang]
+                if w not in index[lang] or w in made_here]
         found = len(words[lang]) - len(todo)
         print('\n%s - %d words (%d already done)' % (lang, len(words[lang]), found))
 

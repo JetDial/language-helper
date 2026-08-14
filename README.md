@@ -127,7 +127,27 @@ languages often do not. Anything without a recording falls back to speech.
 The clips are not in git — they are other people's recordings and can run to
 hundreds of megabytes. Run the tool to create the folder.
 
-### 2. Piper, a free offline voice
+### 2. eSpeak NG — every word, every language, offline
+
+[eSpeak NG](https://github.com/espeak-ng/espeak-ng) is a tiny free speech engine
+that covers **47 of the 53 languages here, Japanese included**. It sounds
+robotic — it builds speech out of formants rather than recorded human sound —
+but it says the right sounds, which is the part that matters when you are
+learning a word, and it works for every word offline.
+
+```
+pip install espeakng-loader
+python tools/make-voices.py --check      # which languages it can speak
+python tools/make-voices.py --all        # speak every word, about 23 MB
+```
+
+No per-language download, no binary to install: `espeakng-loader` ships the
+library and its data, and the tool calls it directly. It skips anything that
+already has audio, so human recordings are never painted over.
+
+Missing from eSpeak: Hausa, Mongolian, Somali, Tagalog, Yoruba and Zulu.
+
+### 3. Piper, a more natural offline voice
 
 [Piper](https://github.com/OHF-Voice/piper1-gpl) is an open-source neural
 speech engine that runs on your own machine. It sounds far closer to a person
@@ -150,12 +170,10 @@ and the app does not pretend otherwise.
 speech pack, use Chrome's built-in Google voice, or try
 [VOICEVOX](https://voicevox.hiroshiba.jp/) — free, excellent, Japanese-only.
 
-Other free engines worth knowing: **RHVoice** (installs as a Windows voice, so
-it turns up in the browser by itself — good for Russian, Ukrainian, Georgian,
-Esperanto), and **eSpeak NG** (100+ languages, robotic but phonetically right,
-and the widest coverage of anything free).
+Also worth knowing: **RHVoice** installs as a Windows voice, so it turns up in
+the browser by itself — good for Russian, Ukrainian, Georgian and Esperanto.
 
-### 3. A real voice for the language
+### 4. A real voice for the language
 
 **A web page can only use voices the computer already has.** This is the one
 part the site genuinely cannot do for itself: there is no way to synthesise a
@@ -174,7 +192,7 @@ Free, and it takes a minute:
 * **Chrome** — ships Google voices for dozens of languages with nothing to
   install. If a language looks missing, try the page in Chrome first.
 
-### 4. Sounding it out
+### 5. Sounding it out
 
 When there is no recording and no voice for the language, the app does **not** read the respelling on the screen out
 loud — that spelling was written for your eyes, and an English voice handed
@@ -213,6 +231,7 @@ js/mywords.js        your own spellings and meanings
 js/recordings.js     real human clips from the audio/ folder
 js/speech.js         speaking, and the fallback voice
 tools/get-recordings.py  downloads human recordings from Wikimedia Commons
-tools/make-voices.py     speaks every word with Piper, into the same folder
+tools/make-voices.py     speaks every word with eSpeak NG or Piper
+tools/espeak_engine.py   drives the eSpeak NG library directly
 js/app.js            the interface
 ```

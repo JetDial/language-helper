@@ -98,6 +98,18 @@
   <div id="vd-list" class="voice-list"></div>
 
   <div class="vd-help">
+    <h3>Give every word a voice (start here)</h3>
+    <p>eSpeak NG is a small free speech engine that covers 47 of the languages
+       here, Japanese included. It sounds robotic, but it says the right sounds
+       and it works offline for every single word. In a terminal, in the site's
+       folder:</p>
+    <pre>pip install espeakng-loader
+python tools/make-voices.py --all</pre>
+    <p>That fills <code>audio/</code> with a clip for every word in every
+       language it can speak, about 23 MB. Reload afterwards. For a much more
+       natural voice in 47 languages (but not Japanese), install
+       <code>pip install piper-tts</code> and add <code>--engine piper</code>.</p>
+
     <h3>Real human recordings (best of all)</h3>
     <p>A folder of clips of actual native speakers, from Wikimedia Commons and
        Lingua Libre, where volunteers record their own language word by word.

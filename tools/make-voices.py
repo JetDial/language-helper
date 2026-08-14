@@ -1,27 +1,28 @@
 #!/usr/bin/env python3
-"""Speak every word with Piper, into the same audio/ folder the site reads.
+"""Speak every word, into the same audio/ folder the site reads.
 
-Piper is a free, open-source neural text-to-speech engine that runs entirely on
-your own machine — no account, no key, nothing sent anywhere. It sounds close to
-a real person, far better than the robotic voices Windows ships, and it covers
-47 of the languages here.
+Two free engines, both running entirely on your own machine with no account, no
+key and nothing sent anywhere:
 
-    pip install piper-tts
+  eSpeak NG  (default)  pip install espeakng-loader
+      Tiny and covers every language on this site, Japanese included. It sounds
+      robotic — it builds speech out of formants rather than recorded human
+      sound — but it says the right sounds, which is what you need when you are
+      learning a word. Nothing to download per language.
 
-    python tools/make-voices.py --voices              # which languages it has
-    python tools/make-voices.py es                    # do Spanish
-    python tools/make-voices.py es ru de --voice ru_RU-irina-medium
+  Piper      --engine piper, pip install piper-tts
+      A neural engine that sounds close to a real person, for 47 of the
+      languages here. Not Japanese. Downloads a 40-70 MB voice per language.
 
-The first run for a language downloads its voice (40-70 MB) into
-tools/piper-voices/ and then works offline forever.
+    python tools/make-voices.py --check           # what each engine can do
+    python tools/make-voices.py ja ko ru          # a few languages
+    python tools/make-voices.py --all             # every language at once
+    python tools/make-voices.py es --engine piper
 
 This fills the same audio/ folder as get-recordings.py, so the two work
-together: recordings of real people are kept, and Piper covers every word that
-has none. The site plays whatever is there without caring which made it.
-
-Piper has no Japanese voice. For Japanese, install the Windows Japanese speech
-pack (Settings -> Time & language -> Language & region), use Chrome's built-in
-Google voice, or try VOICEVOX, which is free and excellent but Japanese-only.
+together: recordings of real people are kept and never overwritten, and the
+engine covers every word that has none. The site plays whatever is there, and
+marks which is which.
 """
 
 import argparse
@@ -48,6 +49,9 @@ import importlib.util                                    # noqa: E402
 _spec = importlib.util.spec_from_file_location('getrec', os.path.join(HERE, 'get-recordings.py'))
 getrec = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(getrec)
+
+sys.path.insert(0, HERE)
+import espeak_engine                                     # noqa: E402
 
 # One good default voice per language. Any other name from --voices works too.
 DEFAULT_VOICE = {
@@ -112,21 +116,122 @@ def say(model, text, path):
     return os.path.exists(path) and os.path.getsize(path) > 1000, proc.stderr
 
 
+def open_index():
+    """The shared audio index, minus the bookkeeping keys."""
+    os.makedirs(AUDIO, exist_ok=True)
+    index_path = os.path.join(AUDIO, 'index.json')
+    index = {}
+    if os.path.exists(index_path):
+        with open(index_path, encoding='utf-8') as fh:
+            index = json.load(fh)
+    credits = index.pop('_credits', {})
+    index.pop('_source', None)
+    return index_path, index, credits
+
+
+def check(args):
+    """Report which languages the chosen engine can actually speak."""
+    words = getrec.word_lists()
+    if args.engine == 'piper':
+        can = sorted(set(DEFAULT_VOICE) & set(words))
+        cannot = sorted(set(words) - set(DEFAULT_VOICE))
+        print('Piper can speak %d of the %d languages here.\n' % (len(can), len(words)))
+    else:
+        engine = espeak_engine.Espeak(rate=args.rate)
+        can, cannot = [], []
+        for lang in sorted(words):
+            (can if engine.set_language(lang) else cannot).append(lang)
+        print('eSpeak NG can speak %d of the %d languages here.\n'
+              % (len(can), len(words)))
+    print('  yes: ' + ' '.join(can))
+    if cannot:
+        print('\n  no:  ' + ' '.join(cannot))
+        print('\nThose keep whatever they already have: a human recording if one was '
+              'downloaded, otherwise the browser sounding the word out.')
+    return 0
+
+
+def run_espeak(args, words, targets):
+    engine = espeak_engine.Espeak(rate=args.rate)
+    index_path, index, credits = open_index()
+    source = {}
+    for lang, files in credits.items():
+        for c in files.values():
+            source.setdefault(lang, {})[c['word']] = (
+                'made' if c.get('licence') == 'generated locally' else 'human')
+
+    for lang in targets:
+        if lang not in words:
+            print('%s: not a language here' % lang)
+            continue
+        voice = engine.set_language(lang)
+        if not voice:
+            print('\n%s - eSpeak has no voice for this one, skipping' % lang)
+            continue
+
+        print('\n%s - eSpeak voice "%s"' % (lang, voice))
+        folder = os.path.join(AUDIO, lang)
+        os.makedirs(folder, exist_ok=True)
+        index.setdefault(lang, {})
+        made = kept = 0
+
+        for written, _roman in words[lang]:
+            # Anything already there is either a recording of a person or a
+            # better engine's work, so leave it alone unless asked not to.
+            if index[lang].get(written) and not args.replace:
+                kept += 1
+                continue
+            name = getrec.safe_name(written, '.wav')
+            ok, info = engine.say(written, os.path.join(folder, name))
+            if not ok:
+                print('  FAIL %-24s %s' % (written[:24], info))
+                continue
+            index[lang][written] = name
+            credits.setdefault(lang, {})[name] = {
+                'word': written, 'file': 'made by eSpeak NG',
+                'author': 'espeak-ng voice "%s"' % voice,
+                'licence': 'generated locally',
+            }
+            made += 1
+
+        getrec.save_all(index_path, index, credits)
+        print('  %d spoken, %d already had audio, %d of %d words covered'
+              % (made, kept, len(index[lang]), len(words[lang])))
+
+    total = sum(len(v) for k, v in index.items() if not k.startswith('_'))
+    print('\nDone. %d clips in audio/. Reload the site.' % total)
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('languages', nargs='*', help='language codes, e.g. es ru de')
+    ap.add_argument('--engine', choices=['espeak', 'piper'], default='espeak',
+                    help='espeak covers every language including Japanese; piper '
+                         'sounds better but has fewer (default: espeak)')
     ap.add_argument('--voice', help='use this exact Piper voice for every language given')
     ap.add_argument('--voices', action='store_true', help='list every Piper voice and stop')
-    ap.add_argument('--all', action='store_true', help='every language Piper can do')
+    ap.add_argument('--check', action='store_true',
+                    help='say which languages the chosen engine can speak, and stop')
+    ap.add_argument('--all', action='store_true', help='every language the engine can do')
+    ap.add_argument('--rate', type=int, default=150, metavar='WPM',
+                    help='eSpeak speaking speed, words per minute (default 150; '
+                         'its own default of 175 is fast for a learner)')
     ap.add_argument('--replace', action='store_true',
                     help='overwrite words that already have audio (by default the '
                          'human recordings already there are kept)')
     args = ap.parse_args()
 
-    if not have_piper():
+    if args.engine == 'espeak' and not espeak_engine.available():
+        print('eSpeak NG is not installed. Run:\n\n    pip install espeakng-loader\n')
+        return 1
+    if args.engine == 'piper' and not have_piper():
         print('Piper is not installed. Run:\n\n    pip install piper-tts\n')
         return 1
+
+    if args.check:
+        return check(args)
 
     if args.voices:
         names = list_voices()
@@ -138,10 +243,15 @@ def main():
     words = getrec.word_lists()
     targets = args.languages
     if args.all:
-        targets = sorted(set(DEFAULT_VOICE) & set(words))
+        targets = (sorted(set(espeak_engine.LANG_CANDIDATES) & set(words))
+                   if args.engine == 'espeak'
+                   else sorted(set(DEFAULT_VOICE) & set(words)))
     if not targets:
         ap.print_help()
         return 1
+
+    if args.engine == 'espeak':
+        return run_espeak(args, words, targets)
 
     os.makedirs(AUDIO, exist_ok=True)
     index_path = os.path.join(AUDIO, 'index.json')
