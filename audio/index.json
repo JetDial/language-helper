@@ -3489,10 +3489,10 @@
     "licence": "generated locally",
     "word": "あ"
    },
-   "ありがとう.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "ありがとう.oga": {
+    "author": "Fête",
+    "file": "Ja-ありがとう.oga",
+    "licence": "CC BY-SA 3.0",
     "word": "ありがとう"
    },
    "い.mp3": {
@@ -3609,10 +3609,10 @@
     "licence": "generated locally",
     "word": "こ"
    },
-   "こんにちは.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "こんにちは.ogg": {
+    "author": "Spesco",
+    "file": "Ja-konnichiwa.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "こんにちは"
    },
    "こんばんは.mp3": {
@@ -3639,10 +3639,10 @@
     "licence": "generated locally",
     "word": "さ"
    },
-   "さようなら.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "さようなら.ogg": {
+    "author": "TAKASUGI Shinji",
+    "file": "Ja-sayōnara.ogg",
+    "licence": "CC BY-SA 3.0",
     "word": "さようなら"
    },
    "ざ.mp3": {
@@ -8525,7 +8525,7 @@
    "Strokes always go left to right, top to bottom.": "made",
    "Write top to bottom, left to right, horizontal before vertical.": "made",
    "あ": "made",
-   "ありがとう": "made",
+   "ありがとう": "human",
    "い": "made",
    "いいえ": "made",
    "いくらですか": "made",
@@ -8545,12 +8545,12 @@
    "け": "made",
    "げ": "made",
    "こ": "made",
-   "こんにちは": "made",
+   "こんにちは": "human",
    "こんばんは": "made",
    "ご": "made",
    "ご飯": "made",
    "さ": "made",
-   "さようなら": "made",
+   "さようなら": "human",
    "ざ": "made",
    "し": "made",
    "じ": "made",
@@ -9945,7 +9945,7 @@
   "Strokes always go left to right, top to bottom.": "Strokes_always_go_left_to_right_top_to_bottom.mp3",
   "Write top to bottom, left to right, horizontal before vertical.": "Write_top_to_bottom_left_to_right_horizontal_before_vertical.mp3",
   "あ": "あ.mp3",
-  "ありがとう": "ありがとう.mp3",
+  "ありがとう": "ありがとう.oga",
   "い": "い.mp3",
   "いいえ": "いいえ.mp3",
   "いくらですか": "いくらですか.mp3",
@@ -9965,12 +9965,12 @@
   "け": "け.mp3",
   "げ": "げ.mp3",
   "こ": "こ.mp3",
-  "こんにちは": "こんにちは.mp3",
+  "こんにちは": "こんにちは.ogg",
   "こんばんは": "こんばんは.mp3",
   "ご": "ご.mp3",
   "ご飯": "ご飯.mp3",
   "さ": "さ.mp3",
-  "さようなら": "さようなら.mp3",
+  "さようなら": "さようなら.ogg",
   "ざ": "ざ.mp3",
   "し": "し.mp3",
   "じ": "じ.mp3",

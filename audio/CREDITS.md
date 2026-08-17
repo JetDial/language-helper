@@ -587,7 +587,6 @@ was published under, listed below with the speaker.
 - **ուտելիք** — made by Piper · hy_AM-gor-medium · generated locally
 - **ջուր** — made by Piper · hy_AM-gor-medium · generated locally
 - **սեր** — made by Piper · hy_AM-gor-medium · generated locally
-- **ցտեսություն** — made locally · see Commons · generated locally
 
 ## id
 - **air** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
@@ -631,6 +630,7 @@ was published under, listed below with the speaker.
 - **Write top to bottom, left to right, horizontal before vertical.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **あ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ありがとう** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ありがとう** — Ja-ありがとう.oga · Fête · CC BY-SA 3.0
 - **い** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **いいえ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **いくらですか** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
@@ -651,11 +651,13 @@ was published under, listed below with the speaker.
 - **げ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **こ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **こんにちは** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **こんにちは** — Ja-konnichiwa.ogg · Spesco · CC BY-SA 4.0
 - **こんばんは** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ご** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ご飯** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **さ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **さようなら** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **さようなら** — Ja-sayōnara.ogg · TAKASUGI Shinji · CC BY-SA 3.0
 - **ざ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **し** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **じ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
@@ -824,42 +826,6 @@ was published under, listed below with the speaker.
 
 ## ko
 - **Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㄱ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㄲ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㄴ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㄷ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㄸ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㄹ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅁ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅂ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅃ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅅ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅆ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅇ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅈ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅉ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅊ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅋ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅌ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅍ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅎ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅏ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅐ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅑ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅓ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅔ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅕ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅗ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅘ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅚ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅛ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅜ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅝ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅟ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅠ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅡ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅢ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
-- **ㅣ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **감사합니다** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **고양이** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **괜찮아요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
