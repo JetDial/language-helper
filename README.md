@@ -4,8 +4,10 @@ A language-learning site that writes foreign words **the way you already read** 
 if you write Kreyòl, English *nice* comes out as `nays`, and Japanese ありがとう
 comes out as `a-ri-ga-to`, not as IPA and not as somebody else's romanisation.
 
-Open `index.html` in a browser. There is no build step, no install, no server
-required, and nothing is uploaded anywhere.
+**Try it live:** https://jetdial.github.io/language-helper/
+
+Or open `index.html` in a browser directly. There is no build step, no
+install, no server required, and nothing is uploaded anywhere.
 
 ## What it does
 
