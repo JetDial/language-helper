@@ -25,6 +25,49 @@ matter which engine is used.
 
 import asyncio
 import os
+import subprocess
+
+_ffmpeg = None               # path to a usable ffmpeg binary, resolved once
+
+
+def _ffmpeg_path():
+    """An ffmpeg binary if one is available, or None. Best-effort: trimming
+    is a nicety, not a requirement, so its absence never fails a generation."""
+    global _ffmpeg
+    if _ffmpeg is None:
+        try:
+            import imageio_ffmpeg
+            _ffmpeg = imageio_ffmpeg.get_ffmpeg_exe()
+        except Exception:
+            _ffmpeg = ''
+    return _ffmpeg or None
+
+
+def trim_silence(path):
+    """Cut the dead air Edge tends to pad every clip with -- often close to a
+    full second trailing a short word -- down to a natural, brief pause.
+
+    Silent by design if ffmpeg is not available: this is a polish step, and a
+    clip with extra silence at the end is still a correct clip.
+    """
+    ffmpeg = _ffmpeg_path()
+    if not ffmpeg:
+        return
+    tmp = path + '.trim.mp3'
+    try:
+        proc = subprocess.run(
+            [ffmpeg, '-y', '-i', path, '-af',
+             'silenceremove=start_periods=1:start_threshold=-45dB:start_silence=0.05:'
+             'stop_periods=1:stop_threshold=-45dB:stop_silence=0.15',
+             tmp],
+            capture_output=True, timeout=30)
+        if proc.returncode == 0 and os.path.exists(tmp) and os.path.getsize(tmp) > 200:
+            os.replace(tmp, path)
+        elif os.path.exists(tmp):
+            os.remove(tmp)
+    except Exception:
+        if os.path.exists(tmp):
+            os.remove(tmp)
 
 # Site language code -> the BCP-47 locale prefix Edge's catalogue uses, for
 # the handful where they differ. Anything not listed here is tried as-is.
@@ -84,12 +127,27 @@ class Edge(object):
         return self._voice
 
     def say(self, text, path):
+        # Edge sometimes reports success while writing nothing (a bare,
+        # unpronounceable Korean consonant jamo is one real case of this).
+        # Writing to a temp name and only replacing `path` on success means a
+        # failure here can never destroy whatever was already there.
+        tmp = path + '.new.mp3'
         try:
-            asyncio.run(_say(text, self._voice, path))
+            asyncio.run(_say(text, self._voice, tmp))
         except Exception as exc:
-            text = str(exc).strip()
-            line = text.splitlines()[-1] if text else ''
+            if os.path.exists(tmp):
+                os.remove(tmp)
+            err = str(exc).strip()
+            line = err.splitlines()[-1] if err else ''
             return False, (line or type(exc).__name__)[:160]
-        if not os.path.exists(path) or os.path.getsize(path) < 1000:
+        if not os.path.exists(tmp) or os.path.getsize(tmp) < 1000:
+            if os.path.exists(tmp):
+                os.remove(tmp)
             return False, 'no audio came back'
+        trim_silence(tmp)
+        if not os.path.exists(tmp) or os.path.getsize(tmp) < 200:
+            if os.path.exists(tmp):
+                os.remove(tmp)
+            return False, 'silent after trimming'
+        os.replace(tmp, path)
         return True, os.path.getsize(path)

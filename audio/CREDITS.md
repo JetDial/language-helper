@@ -1383,6 +1383,7 @@ Recorder: Tatiana Kerbush · CC BY-SA 4.0
 - **x** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **z** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **zh** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **ü** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **一** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **七** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **三** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally

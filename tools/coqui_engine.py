@@ -146,7 +146,13 @@ class Coqui(object):
         return True, name
 
     def say(self, text, path):
-        kwargs = {'text': text, 'file_path': path}
+        # tts_to_file() opens `file_path` itself and writes as it goes, so a
+        # mid-synthesis crash can leave a truncated file at the real
+        # destination -- wiping out whatever (possibly good) clip was there
+        # already. Writing to a temp name and renaming only on success means
+        # a crash can never do that.
+        tmp = path + '.new.wav'
+        kwargs = {'text': text, 'file_path': tmp}
         if self._language:
             kwargs['language'] = self._language
         if self._speaker:
@@ -154,7 +160,12 @@ class Coqui(object):
         try:
             self._tts.tts_to_file(**kwargs)
         except Exception as exc:
+            if os.path.exists(tmp):
+                os.remove(tmp)
             return False, describe_error(exc)
-        if not os.path.exists(path) or os.path.getsize(path) < 1000:
+        if not os.path.exists(tmp) or os.path.getsize(tmp) < 1000:
+            if os.path.exists(tmp):
+                os.remove(tmp)
             return False, 'no audio came back'
+        os.replace(tmp, path)
         return True, os.path.getsize(path)

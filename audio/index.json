@@ -3266,12 +3266,6 @@
     "file": "made by Piper",
     "licence": "generated locally",
     "word": "սեր"
-   },
-   "ցտեսություն.wav": {
-    "author": "",
-    "file": "made locally",
-    "licence": "generated locally",
-    "word": "ցտեսություն"
    }
   },
   "id": {
@@ -4638,222 +4632,6 @@
     "file": "made by edge-tts (Microsoft Edge, online)",
     "licence": "generated locally",
     "word": "Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한."
-   },
-   "ㄱ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㄱ"
-   },
-   "ㄲ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㄲ"
-   },
-   "ㄴ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㄴ"
-   },
-   "ㄷ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㄷ"
-   },
-   "ㄸ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㄸ"
-   },
-   "ㄹ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㄹ"
-   },
-   "ㅁ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅁ"
-   },
-   "ㅂ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅂ"
-   },
-   "ㅃ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅃ"
-   },
-   "ㅅ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅅ"
-   },
-   "ㅆ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅆ"
-   },
-   "ㅇ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅇ"
-   },
-   "ㅈ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅈ"
-   },
-   "ㅉ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅉ"
-   },
-   "ㅊ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅊ"
-   },
-   "ㅋ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅋ"
-   },
-   "ㅌ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅌ"
-   },
-   "ㅍ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅍ"
-   },
-   "ㅎ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅎ"
-   },
-   "ㅏ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅏ"
-   },
-   "ㅐ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅐ"
-   },
-   "ㅑ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅑ"
-   },
-   "ㅓ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅓ"
-   },
-   "ㅔ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅔ"
-   },
-   "ㅕ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅕ"
-   },
-   "ㅗ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅗ"
-   },
-   "ㅘ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅘ"
-   },
-   "ㅚ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅚ"
-   },
-   "ㅛ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅛ"
-   },
-   "ㅜ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅜ"
-   },
-   "ㅝ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅝ"
-   },
-   "ㅟ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅟ"
-   },
-   "ㅠ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅠ"
-   },
-   "ㅡ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅡ"
-   },
-   "ㅢ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅢ"
-   },
-   "ㅣ.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
-    "word": "ㅣ"
    },
    "감사합니다.mp3": {
     "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
@@ -7735,6 +7513,12 @@
     "licence": "generated locally",
     "word": "zh"
    },
+   "ü.mp3": {
+    "author": "Edge voice \"zh-CN-XiaoxiaoNeural\"",
+    "file": "made by edge-tts (Microsoft Edge, online)",
+    "licence": "generated locally",
+    "word": "ü"
+   },
    "一.mp3": {
     "author": "Edge voice \"zh-CN-XiaoxiaoNeural\"",
     "file": "made by edge-tts (Microsoft Edge, online)",
@@ -8698,8 +8482,7 @@
    "ոչ": "made",
    "ուտելիք": "made",
    "ջուր": "made",
-   "սեր": "made",
-   "ցտեսություն": "made"
+   "սեր": "made"
   },
   "id": {
    "air": "made",
@@ -8936,42 +8719,6 @@
   },
   "ko": {
    "Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한.": "made",
-   "ㄱ": "made",
-   "ㄲ": "made",
-   "ㄴ": "made",
-   "ㄷ": "made",
-   "ㄸ": "made",
-   "ㄹ": "made",
-   "ㅁ": "made",
-   "ㅂ": "made",
-   "ㅃ": "made",
-   "ㅅ": "made",
-   "ㅆ": "made",
-   "ㅇ": "made",
-   "ㅈ": "made",
-   "ㅉ": "made",
-   "ㅊ": "made",
-   "ㅋ": "made",
-   "ㅌ": "made",
-   "ㅍ": "made",
-   "ㅎ": "made",
-   "ㅏ": "made",
-   "ㅐ": "made",
-   "ㅑ": "made",
-   "ㅓ": "made",
-   "ㅔ": "made",
-   "ㅕ": "made",
-   "ㅗ": "made",
-   "ㅘ": "made",
-   "ㅚ": "made",
-   "ㅛ": "made",
-   "ㅜ": "made",
-   "ㅝ": "made",
-   "ㅟ": "made",
-   "ㅠ": "made",
-   "ㅡ": "made",
-   "ㅢ": "made",
-   "ㅣ": "made",
    "감사합니다": "made",
    "고양이": "made",
    "괜찮아요": "made",
@@ -9492,6 +9239,7 @@
    "x": "made",
    "z": "made",
    "zh": "made",
+   "ü": "made",
    "一": "made",
    "七": "made",
    "三": "made",
@@ -10154,8 +9902,7 @@
   "ոչ": "ոչ.wav",
   "ուտելիք": "ուտելիք.wav",
   "ջուր": "ջուր.wav",
-  "սեր": "սեր.wav",
-  "ցտեսություն": "ցտեսություն.wav"
+  "սեր": "սեր.wav"
  },
  "id": {
   "air": "air.mp3",
@@ -10392,42 +10139,6 @@
  },
  "ko": {
   "Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한.": "Letters_stack_into_square_blocks_one_block_per_syllable_ㅎ_ㅏ_.mp3",
-  "ㄱ": "ㄱ.mp3",
-  "ㄲ": "ㄲ.mp3",
-  "ㄴ": "ㄴ.mp3",
-  "ㄷ": "ㄷ.mp3",
-  "ㄸ": "ㄸ.mp3",
-  "ㄹ": "ㄹ.mp3",
-  "ㅁ": "ㅁ.mp3",
-  "ㅂ": "ㅂ.mp3",
-  "ㅃ": "ㅃ.mp3",
-  "ㅅ": "ㅅ.mp3",
-  "ㅆ": "ㅆ.mp3",
-  "ㅇ": "ㅇ.mp3",
-  "ㅈ": "ㅈ.mp3",
-  "ㅉ": "ㅉ.mp3",
-  "ㅊ": "ㅊ.mp3",
-  "ㅋ": "ㅋ.mp3",
-  "ㅌ": "ㅌ.mp3",
-  "ㅍ": "ㅍ.mp3",
-  "ㅎ": "ㅎ.mp3",
-  "ㅏ": "ㅏ.mp3",
-  "ㅐ": "ㅐ.mp3",
-  "ㅑ": "ㅑ.mp3",
-  "ㅓ": "ㅓ.mp3",
-  "ㅔ": "ㅔ.mp3",
-  "ㅕ": "ㅕ.mp3",
-  "ㅗ": "ㅗ.mp3",
-  "ㅘ": "ㅘ.mp3",
-  "ㅚ": "ㅚ.mp3",
-  "ㅛ": "ㅛ.mp3",
-  "ㅜ": "ㅜ.mp3",
-  "ㅝ": "ㅝ.mp3",
-  "ㅟ": "ㅟ.mp3",
-  "ㅠ": "ㅠ.mp3",
-  "ㅡ": "ㅡ.mp3",
-  "ㅢ": "ㅢ.mp3",
-  "ㅣ": "ㅣ.mp3",
   "감사합니다": "감사합니다.mp3",
   "고양이": "고양이.mp3",
   "괜찮아요": "괜찮아요.mp3",
@@ -10948,6 +10659,7 @@
   "x": "x.mp3",
   "z": "z.mp3",
   "zh": "zh.mp3",
+  "ü": "ü.mp3",
   "一": "一.mp3",
   "七": "七.mp3",
   "三": "三.mp3",

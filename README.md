@@ -221,6 +221,24 @@ Tagalog/Filipino and Zulu — four of the six eSpeak and Piper cannot speak at
 all. It has no voice for Hausa, Yoruba or Esperanto either, so those three
 stay silent under every engine unless a human recording exists.
 
+**A bare letter is not a word.** Feed Edge a whole word and it sounds great;
+feed it a single isolated character — the Write tab's alphabets — and it
+tends to come back as little more than silence, because there is no sentence
+for the model to find any prosody in. `make-voices.py` works around this by
+speaking a lone letter twice (`あ` → `ああ`), which reliably gives the voice
+enough to work with; a character that is *also* a real word on its own (many
+single kanji are both) is left alone, since doubling would repeat a whole
+word rather than a bare sound.
+
+Every Edge clip also gets its dead air trimmed — the raw clips otherwise
+carry close to a second of silence tacked onto the end, even for ordinary
+words. This step is optional: install
+[`imageio-ffmpeg`](https://pypi.org/project/imageio-ffmpeg/) (`pip install
+imageio-ffmpeg`, no separate ffmpeg install needed) and it happens
+automatically; without it, clips are simply left untrimmed. Already-generated
+clips can be re-trimmed in place, with no network call, using
+`python tools/make-voices.py --all --engine edge --trim`.
+
 ### 6. A real voice for the language
 
 **A web page can only use voices the computer already has.** This is the one

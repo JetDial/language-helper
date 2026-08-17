@@ -95,8 +95,47 @@ def unescape(s):
     return s.replace("\\'", "'").replace('\\\\', '\\')
 
 
-def word_lists():
-    """{lang: [(written, romanisation), ...]} pulled from the site's own data."""
+# kanji and hanzi are logographic: each character is a real word or morpheme
+# with its own meaning, so a voice reads one alone the same as any other
+# short word. Everything else here is a pure sound symbol -- a letter has no
+# meaning of its own -- which is exactly what a voice tends to swallow into
+# near-silence when it is given nothing else to say. See phonetic_script_words().
+LOGOGRAPHIC_SCRIPTS = {'kanji', 'hanzi'}
+
+
+def script_words(phonetic_only=False):
+    """{lang: [(character, romanisation), ...]} from the Write tab's alphabets.
+
+    Rows are [character, romanisation, pronunciation, strokes, note]. Kept
+    separate from the phrasebooks because a bare, isolated letter needs
+    different handling from a voice than a real word does -- see
+    run_edge()'s speak_twice in make-voices.py.
+
+    phonetic_only drops kanji/hanzi, keeping just the scripts where a
+    character is a bare sound rather than a word in its own right.
+    """
+    out = {}
+    src = read(os.path.join(JS, 'data-scripts.js'))
+    for m in LANG_KEY.finditer(src):
+        script_id = m.group(1)
+        if phonetic_only and script_id in LOGOGRAPHIC_SCRIPTS:
+            continue
+        block = src[m.end():]
+        end = block.find('\n  },')
+        block = block[:end if end != -1 else len(block)]
+        lang_m = LANG_FIELD.search(block)
+        if not lang_m:
+            continue
+        code = lang_m.group(1)
+        rows = [(unescape(a), unescape(b)) for a, b, _ in ROW3.findall(block)]
+        if rows:
+            out.setdefault(code, []).extend(rows)
+    return out
+
+
+def phrasebook_words():
+    """{lang: [(written, romanisation), ...]} from the Learn tab's phrasebooks
+    only -- data-words.js and data-core.js, no alphabets."""
     out = {}
 
     # the nine full phrasebooks: rows are [written, translit, pron, meaning, cat]
@@ -129,22 +168,20 @@ def word_lists():
         if rows:
             out.setdefault(code, []).extend(rows)
 
-    # the alphabets themselves, for the Write tab: rows are
-    # [character, romanisation, pronunciation, strokes, note]. A voice reads
-    # the bare character the same way it reads any other word here, so these
-    # go into the very same per-language lists.
-    src = read(os.path.join(JS, 'data-scripts.js'))
-    for m in LANG_KEY.finditer(src):
-        block = src[m.end():]
-        end = block.find('\n  },')
-        block = block[:end if end != -1 else len(block)]
-        lang_m = LANG_FIELD.search(block)
-        if not lang_m:
-            continue
-        code = lang_m.group(1)
-        rows = [(unescape(a), unescape(b)) for a, b, _ in ROW3.findall(block)]
-        if rows:
-            out.setdefault(code, []).extend(rows)
+    return out
+
+
+def word_lists():
+    """{lang: [(written, romanisation), ...]} pulled from the site's own data."""
+    out = {}
+    for code, rows in phrasebook_words().items():
+        out.setdefault(code, []).extend(rows)
+
+    # the alphabets themselves, for the Write tab. A voice reads the bare
+    # character the same way it reads any other word here, so these go into
+    # the very same per-language lists.
+    for code, rows in script_words().items():
+        out.setdefault(code, []).extend(rows)
 
     for code in out:                       # drop duplicates, keep order
         seen, keep = set(), []

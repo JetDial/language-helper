@@ -126,10 +126,20 @@ def ensure_voice(name):
 
 
 def say(model, text, path):
+    # Piper opens -f itself and writes as it goes, so a mid-synthesis crash
+    # can leave a truncated file sitting at the real destination -- wiping
+    # out whatever (possibly good) clip was there already. Writing to a temp
+    # name and renaming only on success means a crash can never do that.
+    tmp = path + '.new.wav'
     proc = subprocess.run(
-        [sys.executable, '-m', 'piper', '-m', model, '-f', path],
+        [sys.executable, '-m', 'piper', '-m', model, '-f', tmp],
         input=text, capture_output=True, text=True, encoding='utf-8')
-    return os.path.exists(path) and os.path.getsize(path) > 1000, proc.stderr
+    ok = os.path.exists(tmp) and os.path.getsize(tmp) > 1000
+    if ok:
+        os.replace(tmp, path)
+    elif os.path.exists(tmp):
+        os.remove(tmp)
+    return ok, proc.stderr
 
 
 def open_index():
@@ -302,9 +312,61 @@ def run_espeak(args, words, targets):
     return 0
 
 
+def trim_edge_clips(args, words, targets):
+    """Re-trim clips Edge already made, in place, no network call.
+
+    Edge tends to pad every clip with dead air -- often close to a full
+    second trailing a short word -- and edge_engine.trim_silence() now cuts
+    that down at generation time, but everything made before that existed
+    still has it. This applies the same cut to what is already on disk.
+    """
+    index_path, index, credits = open_index()
+    total_trimmed = total_skipped = 0
+    for lang in targets:
+        if lang not in words or lang not in index:
+            continue
+        folder = os.path.join(AUDIO, lang)
+        lang_trimmed = lang_skipped = 0
+        for written, _roman in words[lang]:
+            name = index[lang].get(written)
+            if not name or not name.endswith('.mp3'):
+                continue
+            c = credits.get(lang, {}).get(name, {})
+            if 'edge-tts' not in c.get('file', ''):
+                continue                   # only Edge's own output needs this
+            path = os.path.join(folder, name)
+            if not os.path.exists(path):
+                continue
+            before = os.path.getsize(path)
+            edge_engine.trim_silence(path)
+            after = os.path.getsize(path) if os.path.exists(path) else 0
+            if after and after < before:
+                lang_trimmed += 1
+            else:
+                lang_skipped += 1
+        if lang_trimmed or lang_skipped:
+            print('%s: trimmed %d clips, %d already tight' % (lang, lang_trimmed, lang_skipped))
+        total_trimmed += lang_trimmed
+        total_skipped += lang_skipped
+    print('\nDone. %d trimmed, %d already tight or missing.' % (total_trimmed, total_skipped))
+    return 0
+
+
 def run_edge(args, words, targets):
     engine = edge_engine.Edge()
     index_path, index, credits = open_index()
+
+    # A word that is only ever spoken alone -- a bare alphabet letter, never
+    # a real word in its own right -- comes back from Edge as little more
+    # than silence: there is no sentence for the model to find prosody in.
+    # Saying it twice reliably gives it enough to work with. Anything that is
+    # *also* a real phrasebook word (many single kanji are both) is left
+    # alone, since doubling would repeat a whole word, not a bare sound.
+    phrasebook_texts = {w for rows in getrec.phrasebook_words().values() for w, _ in rows}
+    speak_twice = {
+        lang: {ch for ch, _ in rows if ch not in phrasebook_texts}
+        for lang, rows in getrec.script_words(phonetic_only=True).items()
+    }
 
     for lang in targets:
         if lang not in words:
@@ -320,13 +382,15 @@ def run_edge(args, words, targets):
         os.makedirs(folder, exist_ok=True)
         index.setdefault(lang, {})
         made = kept = 0
+        twice = speak_twice.get(lang, set())
 
         for written, _roman in words[lang]:
             if index[lang].get(written) and (is_human(credits, lang, index, written) or not args.replace):
                 kept += 1
                 continue
             name = getrec.safe_name(written, '.mp3')
-            ok, info = engine.say(written, os.path.join(folder, name))
+            speak_text = written * 2 if written in twice else written
+            ok, info = engine.say(speak_text, os.path.join(folder, name))
             if not ok:
                 print('  FAIL %-24s %s' % (written[:24], info))
                 continue
@@ -375,6 +439,9 @@ def main():
     ap.add_argument('--replace', action='store_true',
                     help='overwrite words that already have audio (by default the '
                          'human recordings already there are kept)')
+    ap.add_argument('--trim', action='store_true',
+                    help='re-trim the dead air off clips edge-tts already made, in '
+                         'place, with no network call (--engine edge only)')
     args = ap.parse_args()
 
     if args.engine == 'coqui' and not coqui_engine.available():
@@ -417,6 +484,9 @@ def main():
     if not targets:
         ap.print_help()
         return 1
+
+    if args.trim:
+        return trim_edge_clips(args, words, targets)
 
     if args.engine == 'espeak':
         return run_espeak(args, words, targets)
