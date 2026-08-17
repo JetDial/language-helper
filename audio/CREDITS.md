@@ -48,7 +48,9 @@ was published under, listed below with the speaker.
 - **ا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **اثنان** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **اسم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **اسم** — Ar-اسم.ogg · Nhaily Mustapha, Vion Nicolas · CC BY 3.0 us
 - **السلام عليكم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **السلام عليكم** — Ar-السلام عليكم.oga · TwoThirty at English Wikibooks · CC BY-SA 3.0
 - **بّ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **بـ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **بيت** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
@@ -57,6 +59,7 @@ was published under, listed below with the speaker.
 - **ثلاثة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **ج** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **جميل** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **جميل** — Ar-جميل.ogg · Zannane Mohamed, Heulin Frederic · CC BY 3.0 us
 - **ح** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **حمام** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **خ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
@@ -655,6 +658,7 @@ was published under, listed below with the speaker.
 - **こんばんは** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ご** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ご飯** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ご飯** — Ja-gohan.ogg · FreeMediaKid! · CC0
 - **さ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **さようなら** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **さようなら** — Ja-sayōnara.ogg · TAKASUGI Shinji · CC BY-SA 3.0
@@ -720,6 +724,7 @@ was published under, listed below with the speaker.
 - **エ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **オ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **カ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **カ** — Ja-ka.ogg · Doughaque · Public domain
 - **キ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ク** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ケ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
@@ -780,6 +785,7 @@ was published under, listed below with the speaker.
 - **友達** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **口** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **名前** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **名前** — Ja-namae.ogg · FreeMediaKid! · CC0
 - **四** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **土** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **大** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
@@ -799,7 +805,9 @@ was published under, listed below with the speaker.
 - **水** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **火** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **犬** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **犬** — Ja-inu.ogg · FreeMediaKid! · CC0
 - **猫** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **猫** — Ja-neko.ogg · FreeMediaKid! · CC0
 - **田** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **目** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **美味しい** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
@@ -827,9 +835,11 @@ was published under, listed below with the speaker.
 ## ko
 - **Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **감사합니다** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **감사합니다** — Ko-감사합니다.oga · HappyMidnight · CC BY-SA 4.0
 - **고양이** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **괜찮아요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **글** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **글** — Ko-글.ogg · HappyMidnight · CC BY-SA 4.0
 - **김** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **김치** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **네** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
@@ -840,24 +850,31 @@ was published under, listed below with the speaker.
 - **맛있어요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **몰라요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **물** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **물** — Ko-물.ogg · HappyMidnight · CC BY-SA 4.0
 - **밥** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **사** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **사랑해요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **선생님** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **선생님** — Ko-선생님.ogg · HappyMidnight · CC BY-SA 4.0
 - **셋** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **아니요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **안녕하세요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **안녕히 가세요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **얼마예요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **여기** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **여기** — Ko-여기.ogg · HappyMidnight · CC BY-SA 4.0
 - **이름** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **이름** — Ko-이름.ogg · HappyMidnight · CC BY-SA 4.0
 - **잘 자요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **죄송합니다** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **집** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **집** — Ko-집.ogg · HappyMidnight · CC BY-SA 4.0
 - **치** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **친구** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **친구** — Ko-친구.ogg · HappyMidnight · CC BY-SA 4.0
 - **하나** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **학교** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **학교** — Ko-학교.ogg · HappyMidnight · CC BY-SA 4.0
 - **한** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **한국** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **행복해요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
@@ -1351,8 +1368,10 @@ Recorder: Tatiana Kerbush · CC BY-SA 4.0
 - **zh** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **ü** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **一** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **一** — Zh-yī.ogg · Wei Gao, Vion Nicolas · CC BY 2.0 fr
 - **七** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **三** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **三** — Zh-sān.ogg · Wei Gao, Vion Nicolas · CC BY 2.0 fr
 - **不客气** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **不是** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **中** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
@@ -1360,6 +1379,7 @@ Recorder: Tatiana Kerbush · CC BY-SA 4.0
 - **九** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **二** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **五** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **五** — Zh-wǔ.ogg · Wei Gao, Vion Nicolas · CC BY 2.0 fr
 - **人** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **你好** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **八** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally

@@ -227,16 +227,16 @@
     "licence": "generated locally",
     "word": "اثنان"
    },
-   "اسم.mp3": {
-    "author": "Edge voice \"ar-DZ-AminaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "اسم.ogg": {
+    "author": "Nhaily Mustapha, Vion Nicolas",
+    "file": "Ar-اسم.ogg",
+    "licence": "CC BY 3.0 us",
     "word": "اسم"
    },
-   "السلام_عليكم.mp3": {
-    "author": "Edge voice \"ar-DZ-AminaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "السلام_عليكم.oga": {
+    "author": "TwoThirty at English Wikibooks",
+    "file": "Ar-السلام عليكم.oga",
+    "licence": "CC BY-SA 3.0",
     "word": "السلام عليكم"
    },
    "ب.mp3": {
@@ -281,10 +281,10 @@
     "licence": "generated locally",
     "word": "ج"
    },
-   "جميل.mp3": {
-    "author": "Edge voice \"ar-DZ-AminaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "جميل.ogg": {
+    "author": "Zannane Mohamed, Heulin Frederic",
+    "file": "Ar-جميل.ogg",
+    "licence": "CC BY 3.0 us",
     "word": "جميل"
    },
    "ح.mp3": {
@@ -3489,6 +3489,12 @@
     "licence": "generated locally",
     "word": "あ"
    },
+   "ありがとう.mp3": {
+    "author": "Edge voice \"ja-JP-KeitaNeural\"",
+    "file": "made by edge-tts (Microsoft Edge, online)",
+    "licence": "generated locally",
+    "word": "ありがとう"
+   },
    "ありがとう.oga": {
     "author": "Fête",
     "file": "Ja-ありがとう.oga",
@@ -3609,6 +3615,12 @@
     "licence": "generated locally",
     "word": "こ"
    },
+   "こんにちは.mp3": {
+    "author": "Edge voice \"ja-JP-KeitaNeural\"",
+    "file": "made by edge-tts (Microsoft Edge, online)",
+    "licence": "generated locally",
+    "word": "こんにちは"
+   },
    "こんにちは.ogg": {
     "author": "Spesco",
     "file": "Ja-konnichiwa.ogg",
@@ -3627,10 +3639,10 @@
     "licence": "generated locally",
     "word": "ご"
    },
-   "ご飯.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "ご飯.ogg": {
+    "author": "FreeMediaKid!",
+    "file": "Ja-gohan.ogg",
+    "licence": "CC0",
     "word": "ご飯"
    },
    "さ.mp3": {
@@ -3638,6 +3650,12 @@
     "file": "made by edge-tts (Microsoft Edge, online)",
     "licence": "generated locally",
     "word": "さ"
+   },
+   "さようなら.mp3": {
+    "author": "Edge voice \"ja-JP-KeitaNeural\"",
+    "file": "made by edge-tts (Microsoft Edge, online)",
+    "licence": "generated locally",
+    "word": "さようなら"
    },
    "さようなら.ogg": {
     "author": "TAKASUGI Shinji",
@@ -4011,10 +4029,10 @@
     "licence": "generated locally",
     "word": "オ"
    },
-   "カ.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "カ.ogg": {
+    "author": "Doughaque",
+    "file": "Ja-ka.ogg",
+    "licence": "Public domain",
     "word": "カ"
    },
    "キ.mp3": {
@@ -4371,10 +4389,10 @@
     "licence": "generated locally",
     "word": "口"
    },
-   "名前.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "名前.ogg": {
+    "author": "FreeMediaKid!",
+    "file": "Ja-namae.ogg",
+    "licence": "CC0",
     "word": "名前"
    },
    "四.mp3": {
@@ -4485,16 +4503,16 @@
     "licence": "generated locally",
     "word": "火"
    },
-   "犬.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "犬.ogg": {
+    "author": "FreeMediaKid!",
+    "file": "Ja-inu.ogg",
+    "licence": "CC0",
     "word": "犬"
    },
-   "猫.mp3": {
-    "author": "Edge voice \"ja-JP-KeitaNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "猫.ogg": {
+    "author": "FreeMediaKid!",
+    "file": "Ja-neko.ogg",
+    "licence": "CC0",
     "word": "猫"
    },
    "田.mp3": {
@@ -4633,10 +4651,10 @@
     "licence": "generated locally",
     "word": "Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한."
    },
-   "감사합니다.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "감사합니다.oga": {
+    "author": "HappyMidnight",
+    "file": "Ko-감사합니다.oga",
+    "licence": "CC BY-SA 4.0",
     "word": "감사합니다"
    },
    "고양이.mp3": {
@@ -4651,10 +4669,10 @@
     "licence": "generated locally",
     "word": "괜찮아요"
    },
-   "글.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "글.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-글.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "글"
    },
    "김.mp3": {
@@ -4711,10 +4729,10 @@
     "licence": "generated locally",
     "word": "몰라요"
    },
-   "물.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "물.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-물.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "물"
    },
    "밥.mp3": {
@@ -4735,10 +4753,10 @@
     "licence": "generated locally",
     "word": "사랑해요"
    },
-   "선생님.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "선생님.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-선생님.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "선생님"
    },
    "셋.mp3": {
@@ -4771,16 +4789,16 @@
     "licence": "generated locally",
     "word": "얼마예요"
    },
-   "여기.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "여기.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-여기.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "여기"
    },
-   "이름.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "이름.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-이름.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "이름"
    },
    "잘_자요.mp3": {
@@ -4795,10 +4813,10 @@
     "licence": "generated locally",
     "word": "죄송합니다"
    },
-   "집.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "집.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-집.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "집"
    },
    "치.mp3": {
@@ -4807,10 +4825,10 @@
     "licence": "generated locally",
     "word": "치"
    },
-   "친구.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "친구.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-친구.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "친구"
    },
    "하나.mp3": {
@@ -4819,10 +4837,10 @@
     "licence": "generated locally",
     "word": "하나"
    },
-   "학교.mp3": {
-    "author": "Edge voice \"ko-KR-HyunsuMultilingualNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "학교.ogg": {
+    "author": "HappyMidnight",
+    "file": "Ko-학교.ogg",
+    "licence": "CC BY-SA 4.0",
     "word": "학교"
    },
    "한.mp3": {
@@ -7519,10 +7537,10 @@
     "licence": "generated locally",
     "word": "ü"
    },
-   "一.mp3": {
-    "author": "Edge voice \"zh-CN-XiaoxiaoNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "一.ogg": {
+    "author": "Wei Gao, Vion Nicolas",
+    "file": "Zh-yī.ogg",
+    "licence": "CC BY 2.0 fr",
     "word": "一"
    },
    "七.mp3": {
@@ -7531,10 +7549,10 @@
     "licence": "generated locally",
     "word": "七"
    },
-   "三.mp3": {
-    "author": "Edge voice \"zh-CN-XiaoxiaoNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "三.ogg": {
+    "author": "Wei Gao, Vion Nicolas",
+    "file": "Zh-sān.ogg",
+    "licence": "CC BY 2.0 fr",
     "word": "三"
    },
    "不客气.mp3": {
@@ -7573,10 +7591,10 @@
     "licence": "generated locally",
     "word": "二"
    },
-   "五.mp3": {
-    "author": "Edge voice \"zh-CN-XiaoxiaoNeural\"",
-    "file": "made by edge-tts (Microsoft Edge, online)",
-    "licence": "generated locally",
+   "五.ogg": {
+    "author": "Wei Gao, Vion Nicolas",
+    "file": "Zh-wǔ.ogg",
+    "licence": "CC BY 2.0 fr",
     "word": "五"
    },
    "人.mp3": {
@@ -7926,8 +7944,8 @@
    "أربعة": "made",
    "ا": "made",
    "اثنان": "made",
-   "اسم": "made",
-   "السلام عليكم": "made",
+   "اسم": "human",
+   "السلام عليكم": "human",
    "ب": "made",
    "بـ": "made",
    "بيت": "made",
@@ -7940,7 +7958,7 @@
    "ث": "made",
    "ثلاثة": "made",
    "ج": "made",
-   "جميل": "made",
+   "جميل": "human",
    "ح": "made",
    "حمام": "made",
    "خ": "made",
@@ -8548,7 +8566,7 @@
    "こんにちは": "human",
    "こんばんは": "made",
    "ご": "made",
-   "ご飯": "made",
+   "ご飯": "human",
    "さ": "made",
    "さようなら": "human",
    "ざ": "made",
@@ -8612,7 +8630,7 @@
    "ウ": "made",
    "エ": "made",
    "オ": "made",
-   "カ": "made",
+   "カ": "human",
    "キ": "made",
    "ク": "made",
    "ケ": "made",
@@ -8672,7 +8690,7 @@
    "十": "made",
    "友達": "made",
    "口": "made",
-   "名前": "made",
+   "名前": "human",
    "四": "made",
    "土": "made",
    "大": "made",
@@ -8691,8 +8709,8 @@
    "楽しい": "made",
    "水": "made",
    "火": "made",
-   "犬": "made",
-   "猫": "made",
+   "犬": "human",
+   "猫": "human",
    "田": "made",
    "目": "made",
    "美味しい": "made",
@@ -8719,10 +8737,10 @@
   },
   "ko": {
    "Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한.": "made",
-   "감사합니다": "made",
+   "감사합니다": "human",
    "고양이": "made",
    "괜찮아요": "made",
-   "글": "made",
+   "글": "human",
    "김": "made",
    "김치": "made",
    "네": "made",
@@ -8732,25 +8750,25 @@
    "랑": "made",
    "맛있어요": "made",
    "몰라요": "made",
-   "물": "made",
+   "물": "human",
    "밥": "made",
    "사": "made",
    "사랑해요": "made",
-   "선생님": "made",
+   "선생님": "human",
    "셋": "made",
    "아니요": "made",
    "안녕하세요": "made",
    "안녕히 가세요": "made",
    "얼마예요": "made",
-   "여기": "made",
-   "이름": "made",
+   "여기": "human",
+   "이름": "human",
    "잘 자요": "made",
    "죄송합니다": "made",
-   "집": "made",
+   "집": "human",
    "치": "made",
-   "친구": "made",
+   "친구": "human",
    "하나": "made",
-   "학교": "made",
+   "학교": "human",
    "한": "made",
    "한국": "made",
    "행복해요": "made",
@@ -9240,16 +9258,16 @@
    "z": "made",
    "zh": "made",
    "ü": "made",
-   "一": "made",
+   "一": "human",
    "七": "made",
-   "三": "made",
+   "三": "human",
    "不客气": "made",
    "不是": "made",
    "中": "made",
    "中国": "made",
    "九": "made",
    "二": "made",
-   "五": "made",
+   "五": "human",
    "人": "made",
    "你好": "made",
    "八": "made",
@@ -9346,8 +9364,8 @@
   "أربعة": "أربعة.mp3",
   "ا": "ا.mp3",
   "اثنان": "اثنان.mp3",
-  "اسم": "اسم.mp3",
-  "السلام عليكم": "السلام_عليكم.mp3",
+  "اسم": "اسم.ogg",
+  "السلام عليكم": "السلام_عليكم.oga",
   "ب": "ب.mp3",
   "بـ": "بـ.mp3",
   "بيت": "بيت.mp3",
@@ -9360,7 +9378,7 @@
   "ث": "ث.mp3",
   "ثلاثة": "ثلاثة.mp3",
   "ج": "ج.mp3",
-  "جميل": "جميل.mp3",
+  "جميل": "جميل.ogg",
   "ح": "ح.mp3",
   "حمام": "حمام.mp3",
   "خ": "خ.mp3",
@@ -9968,7 +9986,7 @@
   "こんにちは": "こんにちは.ogg",
   "こんばんは": "こんばんは.mp3",
   "ご": "ご.mp3",
-  "ご飯": "ご飯.mp3",
+  "ご飯": "ご飯.ogg",
   "さ": "さ.mp3",
   "さようなら": "さようなら.ogg",
   "ざ": "ざ.mp3",
@@ -10032,7 +10050,7 @@
   "ウ": "ウ.mp3",
   "エ": "エ.mp3",
   "オ": "オ.mp3",
-  "カ": "カ.mp3",
+  "カ": "カ.ogg",
   "キ": "キ.mp3",
   "ク": "ク.mp3",
   "ケ": "ケ.mp3",
@@ -10092,7 +10110,7 @@
   "十": "十.mp3",
   "友達": "友達.mp3",
   "口": "口.mp3",
-  "名前": "名前.mp3",
+  "名前": "名前.ogg",
   "四": "四.mp3",
   "土": "土.mp3",
   "大": "大.mp3",
@@ -10111,8 +10129,8 @@
   "楽しい": "楽しい.mp3",
   "水": "水.mp3",
   "火": "火.mp3",
-  "犬": "犬.mp3",
-  "猫": "猫.mp3",
+  "犬": "犬.ogg",
+  "猫": "猫.ogg",
   "田": "田.mp3",
   "目": "目.mp3",
   "美味しい": "美味しい.mp3",
@@ -10139,10 +10157,10 @@
  },
  "ko": {
   "Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한.": "Letters_stack_into_square_blocks_one_block_per_syllable_ㅎ_ㅏ_.mp3",
-  "감사합니다": "감사합니다.mp3",
+  "감사합니다": "감사합니다.oga",
   "고양이": "고양이.mp3",
   "괜찮아요": "괜찮아요.mp3",
-  "글": "글.mp3",
+  "글": "글.ogg",
   "김": "김.mp3",
   "김치": "김치.mp3",
   "네": "네.mp3",
@@ -10152,25 +10170,25 @@
   "랑": "랑.mp3",
   "맛있어요": "맛있어요.mp3",
   "몰라요": "몰라요.mp3",
-  "물": "물.mp3",
+  "물": "물.ogg",
   "밥": "밥.mp3",
   "사": "사.mp3",
   "사랑해요": "사랑해요.mp3",
-  "선생님": "선생님.mp3",
+  "선생님": "선생님.ogg",
   "셋": "셋.mp3",
   "아니요": "아니요.mp3",
   "안녕하세요": "안녕하세요.mp3",
   "안녕히 가세요": "안녕히_가세요.mp3",
   "얼마예요": "얼마예요.mp3",
-  "여기": "여기.mp3",
-  "이름": "이름.mp3",
+  "여기": "여기.ogg",
+  "이름": "이름.ogg",
   "잘 자요": "잘_자요.mp3",
   "죄송합니다": "죄송합니다.mp3",
-  "집": "집.mp3",
+  "집": "집.ogg",
   "치": "치.mp3",
-  "친구": "친구.mp3",
+  "친구": "친구.ogg",
   "하나": "하나.mp3",
-  "학교": "학교.mp3",
+  "학교": "학교.ogg",
   "한": "한.mp3",
   "한국": "한국.mp3",
   "행복해요": "행복해요.mp3",
@@ -10660,16 +10678,16 @@
   "z": "z.mp3",
   "zh": "zh.mp3",
   "ü": "ü.mp3",
-  "一": "一.mp3",
+  "一": "一.ogg",
   "七": "七.mp3",
-  "三": "三.mp3",
+  "三": "三.ogg",
   "不客气": "不客气.mp3",
   "不是": "不是.mp3",
   "中": "中.mp3",
   "中国": "中国.mp3",
   "九": "九.mp3",
   "二": "二.mp3",
-  "五": "五.mp3",
+  "五": "五.ogg",
   "人": "人.mp3",
   "你好": "你好.mp3",
   "八": "八.mp3",
