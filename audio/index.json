@@ -1,0 +1,7374 @@
+{
+ "_credits": {
+  "af": {
+   "asseblief.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "asseblief"
+   },
+   "dankie.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dankie"
+   },
+   "drie.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "drie"
+   },
+   "een.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "een"
+   },
+   "hallo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hallo"
+   },
+   "hoeveel.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hoeveel"
+   },
+   "ja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ja"
+   },
+   "jammer.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jammer"
+   },
+   "kos.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kos"
+   },
+   "liefde.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "liefde"
+   },
+   "nee.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nee"
+   },
+   "toilet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toilet"
+   },
+   "totsiens.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "totsiens"
+   },
+   "twee.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "twee"
+   },
+   "vriend.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vriend"
+   },
+   "water.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "water"
+   }
+  },
+  "am": {
+   "ሁለት.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ሁለት"
+   },
+   "ምግብ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ምግብ"
+   },
+   "ሰላም.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ሰላም"
+   },
+   "ስንት.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ስንት"
+   },
+   "ሶስት.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ሶስት"
+   },
+   "አመሰግናለሁ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "አመሰግናለሁ"
+   },
+   "አንድ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "አንድ"
+   },
+   "አዎ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "አዎ"
+   },
+   "አይደለም.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "አይደለም"
+   },
+   "እባክህ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "እባክህ"
+   },
+   "ውሃ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ውሃ"
+   },
+   "ይቅርታ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ይቅርታ"
+   },
+   "ደህና_ሁን.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ደህና ሁን"
+   },
+   "ጓደኛ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ጓደኛ"
+   },
+   "ፍቅር.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ፍቅር"
+   }
+  },
+  "ar": {
+   "آسف.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "آسف"
+   },
+   "أحبك.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "أحبك"
+   },
+   "أربعة.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "أربعة"
+   },
+   "اثنان.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "اثنان"
+   },
+   "اسم.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "اسم"
+   },
+   "السلام_عليكم.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "السلام عليكم"
+   },
+   "بيت.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "بيت"
+   },
+   "ثلاثة.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ثلاثة"
+   },
+   "جميل.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "جميل"
+   },
+   "حمام.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "حمام"
+   },
+   "خبز.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "خبز"
+   },
+   "خمسة.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "خمسة"
+   },
+   "شاي.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "شاي"
+   },
+   "شكرا.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "شكرا"
+   },
+   "صباح_الخير.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "صباح الخير"
+   },
+   "صديق.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "صديق"
+   },
+   "قطة.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "قطة"
+   },
+   "كم_الثمن.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "كم الثمن"
+   },
+   "لا.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "لا"
+   },
+   "لا_أفهم.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "لا أفهم"
+   },
+   "لذيذ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "لذيذ"
+   },
+   "مدرسة.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "مدرسة"
+   },
+   "مرحبا.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "مرحبا"
+   },
+   "مصر.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "مصر"
+   },
+   "مع_السلامة.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "مع السلامة"
+   },
+   "معلم.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "معلم"
+   },
+   "من_فضلك.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "من فضلك"
+   },
+   "نعم.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "نعم"
+   },
+   "واحد.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "واحد"
+   }
+  },
+  "bg": {
+   "благодаря.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "благодаря"
+   },
+   "вода.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "вода"
+   },
+   "да.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "да"
+   },
+   "две.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "две"
+   },
+   "довиждане.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "довиждане"
+   },
+   "едно.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "едно"
+   },
+   "здравей.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "здравей"
+   },
+   "извинете.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "извинете"
+   },
+   "колко.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "колко"
+   },
+   "любов.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "любов"
+   },
+   "моля.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "моля"
+   },
+   "не.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "не"
+   },
+   "приятел.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "приятел"
+   },
+   "тоалетна.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "тоалетна"
+   },
+   "три.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "три"
+   },
+   "храна.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "храна"
+   }
+  },
+  "bn": {
+   "এক.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "এক"
+   },
+   "কত.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "কত"
+   },
+   "খ_ব_র.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "খাবার"
+   },
+   "জল.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "জল"
+   },
+   "ত_ন.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "তিন"
+   },
+   "দ_ই.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "দুই"
+   },
+   "দ_খ_ত.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "দুঃখিত"
+   },
+   "দয_কর.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "দয়া করে"
+   },
+   "ধন_যব_দ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ধন্যবাদ"
+   },
+   "ন.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "না"
+   },
+   "নমস_ক_র.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "নমস্কার"
+   },
+   "ব_থর_ম.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "বাথরুম"
+   },
+   "ব_দ_য.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "বিদায়"
+   },
+   "বন_ধ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "বন্ধু"
+   },
+   "ভ_ল_ব_স.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ভালোবাসা"
+   },
+   "হ_য.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "হ্যাঁ"
+   }
+  },
+  "ca": {
+   "adéu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "adéu"
+   },
+   "aigua.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "aigua"
+   },
+   "amic.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amic"
+   },
+   "amor.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amor"
+   },
+   "dos.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dos"
+   },
+   "gràcies.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "gràcies"
+   },
+   "hola.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hola"
+   },
+   "lavabo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "lavabo"
+   },
+   "menjar.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "menjar"
+   },
+   "no.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "no"
+   },
+   "perdó.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "perdó"
+   },
+   "quant.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "quant"
+   },
+   "si_us_plau.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "si us plau"
+   },
+   "sí.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "sí"
+   },
+   "tres.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tres"
+   },
+   "un.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "un"
+   }
+  },
+  "cs": {
+   "ahoj.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ahoj"
+   },
+   "ano.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ano"
+   },
+   "dva.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dva"
+   },
+   "děkuji.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "děkuji"
+   },
+   "jeden.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jeden"
+   },
+   "jídlo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jídlo"
+   },
+   "kolik.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kolik"
+   },
+   "láska.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "láska"
+   },
+   "na_shledanou.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "na shledanou"
+   },
+   "ne.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ne"
+   },
+   "promiňte.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "promiňte"
+   },
+   "prosím.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "prosím"
+   },
+   "přítel.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "přítel"
+   },
+   "tři.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tři"
+   },
+   "voda.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "voda"
+   },
+   "záchod.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "záchod"
+   }
+  },
+  "da": {
+   "en.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "en"
+   },
+   "farvel.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "farvel"
+   },
+   "hej.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hej"
+   },
+   "hvor_meget.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hvor meget"
+   },
+   "ja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ja"
+   },
+   "kærlighed.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kærlighed"
+   },
+   "mad.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mad"
+   },
+   "nej.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nej"
+   },
+   "tak.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tak"
+   },
+   "to.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "to"
+   },
+   "toilet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toilet"
+   },
+   "tre.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tre"
+   },
+   "undskyld.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "undskyld"
+   },
+   "vand.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vand"
+   },
+   "ven.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ven"
+   },
+   "vær_så_god.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vær så god"
+   }
+  },
+  "de": {
+   "Essen.ogg": {
+    "author": "Alexandra Poelzlbauers, Vion Nicolas",
+    "file": "De-at-Essen.ogg",
+    "licence": "CC BY 2.0 fr",
+    "word": "Essen"
+   },
+   "Essen.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "Essen"
+   },
+   "Freund.ogg": {
+    "author": "Alexandra Poelzlbauers, Vion Nicolas",
+    "file": "De-at-Freund.ogg",
+    "licence": "CC BY 2.0 fr",
+    "word": "Freund"
+   },
+   "Freund.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "Freund"
+   },
+   "Liebe.ogg": {
+    "author": "Pill",
+    "file": "De-Liebe.ogg",
+    "licence": "CC BY-SA 3.0",
+    "word": "Liebe"
+   },
+   "Liebe.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "Liebe"
+   },
+   "Toilette.ogg": {
+    "author": "Alexandra Poelzlbauers, Vion Nicolas",
+    "file": "De-at-Toilette.ogg",
+    "licence": "CC BY 2.0 fr",
+    "word": "Toilette"
+   },
+   "Toilette.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "Toilette"
+   },
+   "Wasser.ogg": {
+    "author": "Tosca",
+    "file": "De-Wasser.ogg",
+    "licence": "CC BY-SA 3.0",
+    "word": "Wasser"
+   },
+   "Wasser.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "Wasser"
+   },
+   "bitte.ogg": {
+    "author": "Bleibein",
+    "file": "De-bitte.ogg",
+    "licence": "CC BY-SA 3.0",
+    "word": "bitte"
+   },
+   "bitte.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bitte"
+   },
+   "danke.ogg": {
+    "author": "Jeuwre",
+    "file": "De-danke.ogg",
+    "licence": "CC BY-SA 4.0",
+    "word": "danke"
+   },
+   "danke.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "danke"
+   },
+   "drei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "drei"
+   },
+   "eins.ogg": {
+    "author": "",
+    "file": "De-eins.ogg",
+    "licence": "CC BY-SA 3.0",
+    "word": "eins"
+   },
+   "eins.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "eins"
+   },
+   "entschuldigung.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "entschuldigung"
+   },
+   "hallo.ogg": {
+    "author": "Jeuwre",
+    "file": "De-hallo.ogg",
+    "licence": "CC BY-SA 4.0",
+    "word": "hallo"
+   },
+   "hallo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hallo"
+   },
+   "ja.ogg": {
+    "author": "MiER",
+    "file": "De-ja.ogg",
+    "licence": "CC BY-SA 3.0",
+    "word": "ja"
+   },
+   "ja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ja"
+   },
+   "nein.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nein"
+   },
+   "tschüss.ogg": {
+    "author": "Jeuwre",
+    "file": "De-tschüss.ogg",
+    "licence": "CC BY-SA 4.0",
+    "word": "tschüss"
+   },
+   "tschüss.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tschüss"
+   },
+   "wie_viel.oga": {
+    "author": "Timwi at English Wikipedia",
+    "file": "De-wie viel.oga",
+    "licence": "Public domain",
+    "word": "wie viel"
+   },
+   "wie_viel.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "wie viel"
+   },
+   "zwei.ogg": {
+    "author": "joni",
+    "file": "De-zwei.ogg",
+    "licence": "CC BY-SA 3.0",
+    "word": "zwei"
+   },
+   "zwei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "zwei"
+   }
+  },
+  "el": {
+   "Ελλάδα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "Ελλάδα"
+   },
+   "ένα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ένα"
+   },
+   "αντίο.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "αντίο"
+   },
+   "γάτα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "γάτα"
+   },
+   "γεια_σου.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "γεια σου"
+   },
+   "δάσκαλος.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "δάσκαλος"
+   },
+   "δεν_καταλαβαίνω.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "δεν καταλαβαίνω"
+   },
+   "δύο.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "δύο"
+   },
+   "ευχαριστώ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ευχαριστώ"
+   },
+   "καλημέρα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "καλημέρα"
+   },
+   "καλησπέρα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "καλησπέρα"
+   },
+   "καφές.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "καφές"
+   },
+   "ναι.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ναι"
+   },
+   "νερό.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "νερό"
+   },
+   "νόστιμο.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "νόστιμο"
+   },
+   "πέντε.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "πέντε"
+   },
+   "παρακαλώ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "παρακαλώ"
+   },
+   "πόσο_κάνει.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "πόσο κάνει"
+   },
+   "σκύλος.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "σκύλος"
+   },
+   "σπίτι.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "σπίτι"
+   },
+   "συγγνώμη.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "συγγνώμη"
+   },
+   "σχολείο.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "σχολείο"
+   },
+   "τέσσερα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "τέσσερα"
+   },
+   "τουαλέτα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "τουαλέτα"
+   },
+   "τρία.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "τρία"
+   },
+   "φίλος.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "φίλος"
+   },
+   "ψωμί.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ψωμί"
+   },
+   "ωραία.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ωραία"
+   },
+   "όνομα.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "όνομα"
+   },
+   "όχι.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "όχι"
+   }
+  },
+  "en": {
+   "food.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "food"
+   },
+   "friend.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "friend"
+   },
+   "goodbye.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "goodbye"
+   },
+   "hello.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hello"
+   },
+   "how_much.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "how much"
+   },
+   "love.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "love"
+   },
+   "no.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "no"
+   },
+   "one.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "one"
+   },
+   "please.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "please"
+   },
+   "sorry.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "sorry"
+   },
+   "thank_you.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "thank you"
+   },
+   "three.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "three"
+   },
+   "toilet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toilet"
+   },
+   "two.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "two"
+   },
+   "water.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "water"
+   },
+   "yes.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "yes"
+   }
+  },
+  "eo": {
+   "akvo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "akvo"
+   },
+   "amiko.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amiko"
+   },
+   "amo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amo"
+   },
+   "bonvolu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bonvolu"
+   },
+   "dankon.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dankon"
+   },
+   "du.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "du"
+   },
+   "jes.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jes"
+   },
+   "kiom.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kiom"
+   },
+   "manĝaĵo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "manĝaĵo"
+   },
+   "ne.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ne"
+   },
+   "necesejo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "necesejo"
+   },
+   "pardonu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "pardonu"
+   },
+   "saluton.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "saluton"
+   },
+   "tri.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tri"
+   },
+   "unu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "unu"
+   },
+   "ĝis_revido.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ĝis revido"
+   }
+  },
+  "es": {
+   "España.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "España"
+   },
+   "adiós.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "adiós"
+   },
+   "agua.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "agua"
+   },
+   "amigo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amigo"
+   },
+   "baño.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "baño"
+   },
+   "buenos_días.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "buenos días"
+   },
+   "café.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "café"
+   },
+   "casa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "casa"
+   },
+   "cinco.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cinco"
+   },
+   "cuatro.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cuatro"
+   },
+   "cuánto_cuesta.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cuánto cuesta"
+   },
+   "delicioso.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "delicioso"
+   },
+   "dos.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dos"
+   },
+   "escuela.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "escuela"
+   },
+   "feliz.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "feliz"
+   },
+   "gracias.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "gracias"
+   },
+   "hola.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hola"
+   },
+   "lo_siento.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "lo siento"
+   },
+   "maestro.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "maestro"
+   },
+   "no.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "no"
+   },
+   "no_entiendo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "no entiendo"
+   },
+   "nombre.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nombre"
+   },
+   "pan.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "pan"
+   },
+   "perro.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "perro"
+   },
+   "por_favor.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "por favor"
+   },
+   "sí.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "sí"
+   },
+   "te_quiero.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "te quiero"
+   },
+   "tres.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tres"
+   },
+   "uno.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "uno"
+   }
+  },
+  "fa": {
+   "آب.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "آب"
+   },
+   "ببخشید.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ببخشید"
+   },
+   "بله.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "بله"
+   },
+   "خداحافظ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "خداحافظ"
+   },
+   "دستشویی.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "دستشویی"
+   },
+   "دو.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "دو"
+   },
+   "دوست.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "دوست"
+   },
+   "سلام.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "سلام"
+   },
+   "سه.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "سه"
+   },
+   "عشق.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "عشق"
+   },
+   "غذا.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "غذا"
+   },
+   "لطفا.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "لطفا"
+   },
+   "ممنون.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ممنون"
+   },
+   "نه.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "نه"
+   },
+   "چند.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "چند"
+   },
+   "یک.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "یک"
+   }
+  },
+  "fi": {
+   "anteeksi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "anteeksi"
+   },
+   "ei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ei"
+   },
+   "hei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hei"
+   },
+   "kaksi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kaksi"
+   },
+   "kiitos.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kiitos"
+   },
+   "kolme.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kolme"
+   },
+   "kyllä.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kyllä"
+   },
+   "näkemiin.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "näkemiin"
+   },
+   "ole_hyvä.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ole hyvä"
+   },
+   "paljonko.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "paljonko"
+   },
+   "rakkaus.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "rakkaus"
+   },
+   "ruoka.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ruoka"
+   },
+   "vesi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vesi"
+   },
+   "vessa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vessa"
+   },
+   "yksi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "yksi"
+   },
+   "ystävä.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ystävä"
+   }
+  },
+  "fr": {
+   "France.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "France"
+   },
+   "ami.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ami"
+   },
+   "au_revoir.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "au revoir"
+   },
+   "bonjour.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bonjour"
+   },
+   "bonsoir.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bonsoir"
+   },
+   "café.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "café"
+   },
+   "chat.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "chat"
+   },
+   "chien.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "chien"
+   },
+   "cinq.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cinq"
+   },
+   "combien.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "combien"
+   },
+   "deux.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "deux"
+   },
+   "délicieux.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "délicieux"
+   },
+   "eau.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "eau"
+   },
+   "heureux.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "heureux"
+   },
+   "ja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ja"
+   },
+   "je_ne_comprends_pas.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "je ne comprends pas"
+   },
+   "maison.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "maison"
+   },
+   "merci.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "merci"
+   },
+   "nom.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nom"
+   },
+   "non.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "non"
+   },
+   "oui.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "oui"
+   },
+   "pain.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "pain"
+   },
+   "pardon.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "pardon"
+   },
+   "professeur.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "professeur"
+   },
+   "quatre.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "quatre"
+   },
+   "toilettes.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toilettes"
+   },
+   "trois.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "trois"
+   },
+   "un.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "un"
+   },
+   "école.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "école"
+   }
+  },
+  "he": {
+   "אהבה.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "אהבה"
+   },
+   "אוכל.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "אוכל"
+   },
+   "אחד.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "אחד"
+   },
+   "בבקשה.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "בבקשה"
+   },
+   "חבר.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "חבר"
+   },
+   "כמה.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "כמה"
+   },
+   "כן.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "כן"
+   },
+   "לא.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "לא"
+   },
+   "להתראות.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "להתראות"
+   },
+   "מים.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "מים"
+   },
+   "סליחה.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "סליחה"
+   },
+   "שירותים.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "שירותים"
+   },
+   "שלום.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "שלום"
+   },
+   "שלוש.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "שלוש"
+   },
+   "שתיים.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "שתיים"
+   },
+   "תודה.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "תודה"
+   }
+  },
+  "hi": {
+   "अच_छ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "अच्छा"
+   },
+   "एक.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "एक"
+   },
+   "क_त_त.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "कुत्ता"
+   },
+   "क_तन_क_ह.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "कितने का है"
+   },
+   "क_पय.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "कृपया"
+   },
+   "घर.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "घर"
+   },
+   "च_य.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "चाय"
+   },
+   "च_र.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "चार"
+   },
+   "च_वल.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "चावल"
+   },
+   "त_न.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "तीन"
+   },
+   "द.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "दो"
+   },
+   "द_स_त.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "दोस्त"
+   },
+   "धन_यव_द.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "धन्यवाद"
+   },
+   "न_म.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "नाम"
+   },
+   "नमस_त.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "नमस्ते"
+   },
+   "नह.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "नहीं"
+   },
+   "प_च.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "पाँच"
+   },
+   "प_न.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "पानी"
+   },
+   "प_य_र.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "प्यार"
+   },
+   "फ_र_म_ल_ग.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "फिर मिलेंगे"
+   },
+   "ब_ल_ल.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "बिल्ली"
+   },
+   "भ_रत.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "भारत"
+   },
+   "म_फ_क_ज_ए.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "माफ़ कीजिए"
+   },
+   "श_क_षक.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "शिक्षक"
+   },
+   "श_च_लय.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "शौचालय"
+   },
+   "स_क_ल.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "स्कूल"
+   },
+   "स_प_रभ_त.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "सुप्रभात"
+   },
+   "स_व_द_ष_ट.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "स्वादिष्ट"
+   },
+   "समझ_नह_आय.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "समझ नहीं आया"
+   },
+   "ह.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "हाँ"
+   }
+  },
+  "hr": {
+   "bok.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bok"
+   },
+   "da.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "da"
+   },
+   "doviđenja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "doviđenja"
+   },
+   "dva.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dva"
+   },
+   "hrana.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hrana"
+   },
+   "hvala.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hvala"
+   },
+   "jedan.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jedan"
+   },
+   "koliko.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "koliko"
+   },
+   "ljubav.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ljubav"
+   },
+   "molim.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "molim"
+   },
+   "ne.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ne"
+   },
+   "oprostite.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "oprostite"
+   },
+   "prijatelj.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "prijatelj"
+   },
+   "tri.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tri"
+   },
+   "voda.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "voda"
+   },
+   "zahod.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "zahod"
+   }
+  },
+  "ht": {
+   "bonjou.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bonjou"
+   },
+   "de.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "de"
+   },
+   "dlo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dlo"
+   },
+   "eskize_m.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "eskize m"
+   },
+   "konbyen.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "konbyen"
+   },
+   "lanmou.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "lanmou"
+   },
+   "manje.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "manje"
+   },
+   "mèsi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mèsi"
+   },
+   "non.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "non"
+   },
+   "orevwa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "orevwa"
+   },
+   "souple.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "souple"
+   },
+   "twa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "twa"
+   },
+   "twalèt.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "twalèt"
+   },
+   "wi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "wi"
+   },
+   "youn.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "youn"
+   },
+   "zanmi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "zanmi"
+   }
+  },
+  "hu": {
+   "barát.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "barát"
+   },
+   "bocsánat.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bocsánat"
+   },
+   "egy.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "egy"
+   },
+   "három.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "három"
+   },
+   "igen.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "igen"
+   },
+   "kettő.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kettő"
+   },
+   "kérem.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kérem"
+   },
+   "köszönöm.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "köszönöm"
+   },
+   "mennyibe.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mennyibe"
+   },
+   "mosdó.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mosdó"
+   },
+   "nem.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nem"
+   },
+   "szerelem.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "szerelem"
+   },
+   "szia.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "szia"
+   },
+   "viszlát.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "viszlát"
+   },
+   "víz.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "víz"
+   },
+   "étel.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "étel"
+   }
+  },
+  "hy": {
+   "այո.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "այո"
+   },
+   "բարև.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "բարև"
+   },
+   "երեք.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "երեք"
+   },
+   "երկու.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "երկու"
+   },
+   "զուգարան.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "զուգարան"
+   },
+   "ընկեր.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ընկեր"
+   },
+   "ինչքան.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ինչքան"
+   },
+   "խնդրեմ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "խնդրեմ"
+   },
+   "մեկ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "մեկ"
+   },
+   "ներողություն.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ներողություն"
+   },
+   "շնորհակալություն.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "շնորհակալություն"
+   },
+   "ոչ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ոչ"
+   },
+   "ուտելիք.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ուտելիք"
+   },
+   "ջուր.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ջուր"
+   },
+   "սեր.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "սեր"
+   },
+   "ցտեսություն.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ցտեսություն"
+   }
+  },
+  "id": {
+   "air.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "air"
+   },
+   "berapa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "berapa"
+   },
+   "cinta.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cinta"
+   },
+   "dua.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dua"
+   },
+   "halo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "halo"
+   },
+   "maaf.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "maaf"
+   },
+   "makanan.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "makanan"
+   },
+   "satu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "satu"
+   },
+   "selamat_tinggal.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "selamat tinggal"
+   },
+   "teman.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "teman"
+   },
+   "terima_kasih.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "terima kasih"
+   },
+   "tidak.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tidak"
+   },
+   "tiga.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tiga"
+   },
+   "toilet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toilet"
+   },
+   "tolong.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tolong"
+   },
+   "ya.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ya"
+   }
+  },
+  "it": {
+   "acqua.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "acqua"
+   },
+   "amico.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amico"
+   },
+   "amore.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amore"
+   },
+   "arrivederci.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "arrivederci"
+   },
+   "bagno.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bagno"
+   },
+   "ciao.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ciao"
+   },
+   "cibo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cibo"
+   },
+   "due.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "due"
+   },
+   "grazie.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "grazie"
+   },
+   "no.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "no"
+   },
+   "per_favore.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "per favore"
+   },
+   "quanto.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "quanto"
+   },
+   "scusa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "scusa"
+   },
+   "sì.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "sì"
+   },
+   "tre.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tre"
+   },
+   "uno.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "uno"
+   }
+  },
+  "ja": {
+   "ありがとう.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "ありがとう"
+   },
+   "いいえ.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "いいえ"
+   },
+   "いくらですか.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "いくらですか"
+   },
+   "いただきます.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "いただきます"
+   },
+   "おはようございます.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "おはようございます"
+   },
+   "お茶.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "お茶"
+   },
+   "お願いします.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "お願いします"
+   },
+   "こんにちは.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "こんにちは"
+   },
+   "こんばんは.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "こんばんは"
+   },
+   "ご飯.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "ご飯"
+   },
+   "さようなら.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "さようなら"
+   },
+   "すみません.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "すみません"
+   },
+   "はい.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "はい"
+   },
+   "またね.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "またね"
+   },
+   "トイレはどこですか.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "トイレはどこですか"
+   },
+   "一.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "一"
+   },
+   "三.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "三"
+   },
+   "二.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "二"
+   },
+   "五.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "五"
+   },
+   "元気ですか.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "元気ですか"
+   },
+   "先生.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "先生"
+   },
+   "分かりません.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "分かりません"
+   },
+   "友達.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "友達"
+   },
+   "名前.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "名前"
+   },
+   "四.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "四"
+   },
+   "大丈夫.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "大丈夫"
+   },
+   "学校.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "学校"
+   },
+   "愛.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "愛"
+   },
+   "日本.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "日本"
+   },
+   "楽しい.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "楽しい"
+   },
+   "水.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "水"
+   },
+   "犬.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "犬"
+   },
+   "猫.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "猫"
+   },
+   "美味しい.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "美味しい"
+   },
+   "駅.wav": {
+    "author": "tts_models/ja/kokoro/tacotron2-DDC",
+    "file": "made by Coqui TTS",
+    "licence": "generated locally",
+    "word": "駅"
+   }
+  },
+  "ka": {
+   "არა.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "არა"
+   },
+   "ბოდიши.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ბოდიши"
+   },
+   "გამარჯობა.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "გამარჯობა"
+   },
+   "გთხოვთ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "გთხოვთ"
+   },
+   "ერთი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ერთი"
+   },
+   "კი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "კი"
+   },
+   "მადლობა.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "მადლობა"
+   },
+   "მეგობარი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "მეგობარი"
+   },
+   "ნახვამდის.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ნახვამდის"
+   },
+   "ორი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ორი"
+   },
+   "რამდენი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "რამდენი"
+   },
+   "სამი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "სამი"
+   },
+   "საჭმელი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "საჭმელი"
+   },
+   "სიყვარული.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "სიყვარული"
+   },
+   "ტუალეტი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ტუალეტი"
+   },
+   "წყალი.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "წყალი"
+   }
+  },
+  "ko": {
+   "감사합니다.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "감사합니다"
+   },
+   "고양이.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "고양이"
+   },
+   "괜찮아요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "괜찮아요"
+   },
+   "김치.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "김치"
+   },
+   "네.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "네"
+   },
+   "넷.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "넷"
+   },
+   "다섯.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "다섯"
+   },
+   "둘.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "둘"
+   },
+   "맛있어요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "맛있어요"
+   },
+   "몰라요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "몰라요"
+   },
+   "물.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "물"
+   },
+   "밥.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "밥"
+   },
+   "사랑해요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "사랑해요"
+   },
+   "선생님.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "선생님"
+   },
+   "셋.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "셋"
+   },
+   "아니요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "아니요"
+   },
+   "안녕하세요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "안녕하세요"
+   },
+   "안녕히_가세요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "안녕히 가세요"
+   },
+   "얼마예요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "얼마예요"
+   },
+   "여기.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "여기"
+   },
+   "이름.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "이름"
+   },
+   "잘_자요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "잘 자요"
+   },
+   "죄송합니다.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "죄송합니다"
+   },
+   "집.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "집"
+   },
+   "친구.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "친구"
+   },
+   "하나.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "하나"
+   },
+   "학교.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "학교"
+   },
+   "한국.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "한국"
+   },
+   "행복해요.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "행복해요"
+   },
+   "화장실.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "화장실"
+   }
+  },
+  "mr": {
+   "एक.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "एक"
+   },
+   "क_त.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "किती"
+   },
+   "क_पय.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "कृपया"
+   },
+   "ज_वण.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "जेवण"
+   },
+   "त_न.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "तीन"
+   },
+   "द_न.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "दोन"
+   },
+   "धन_यव_द.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "धन्यवाद"
+   },
+   "न_ह.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "नाही"
+   },
+   "नमस_क_र.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "नमस्कार"
+   },
+   "प_ण.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "पाणी"
+   },
+   "प_र_म.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "प्रेम"
+   },
+   "म_त_र.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "मित्र"
+   },
+   "म_फ_कर.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "माफ करा"
+   },
+   "य_त.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "येतो"
+   },
+   "ह_य.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "होय"
+   }
+  },
+  "ne": {
+   "एक.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "एक"
+   },
+   "क_पय.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "कृपया"
+   },
+   "कत.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "कति"
+   },
+   "ख_न.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "खाना"
+   },
+   "त_न.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "तीन"
+   },
+   "द_ई.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "दुई"
+   },
+   "धन_यव_द.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "धन्यवाद"
+   },
+   "नमस_त.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "नमस्ते"
+   },
+   "प_न.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "पानी"
+   },
+   "म_फ_गर_न_ह_स.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "माफ गर्नुहोस्"
+   },
+   "म_य.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "माया"
+   },
+   "श_च_लय.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "शौचालय"
+   },
+   "स_थ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "साथी"
+   },
+   "ह.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "हो"
+   },
+   "ह_इन.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "होइन"
+   }
+  },
+  "nl": {
+   "alsjeblieft.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "alsjeblieft"
+   },
+   "dank_je.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dank je"
+   },
+   "doei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "doei"
+   },
+   "drie.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "drie"
+   },
+   "een.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "een"
+   },
+   "eten.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "eten"
+   },
+   "hallo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hallo"
+   },
+   "hoeveel.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hoeveel"
+   },
+   "ja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ja"
+   },
+   "liefde.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "liefde"
+   },
+   "nee.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nee"
+   },
+   "sorry.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "sorry"
+   },
+   "toilet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toilet"
+   },
+   "twee.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "twee"
+   },
+   "vriend.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vriend"
+   },
+   "water.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "water"
+   }
+  },
+  "no": {
+   "en.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "en"
+   },
+   "ha_det.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ha det"
+   },
+   "hei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hei"
+   },
+   "hvor_mye.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hvor mye"
+   },
+   "ja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ja"
+   },
+   "kjærlighet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kjærlighet"
+   },
+   "mat.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mat"
+   },
+   "nei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nei"
+   },
+   "takk.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "takk"
+   },
+   "to.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "to"
+   },
+   "toalett.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toalett"
+   },
+   "tre.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tre"
+   },
+   "unnskyld.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "unnskyld"
+   },
+   "vann.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vann"
+   },
+   "venn.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "venn"
+   },
+   "vær_så_snill.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vær så snill"
+   }
+  },
+  "pl": {
+   "cześć.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cześć"
+   },
+   "do_widzenia.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "do widzenia"
+   },
+   "dwa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dwa"
+   },
+   "dziękuję.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dziękuję"
+   },
+   "ile.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ile"
+   },
+   "jeden.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jeden"
+   },
+   "jedzenie.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jedzenie"
+   },
+   "miłość.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "miłość"
+   },
+   "nie.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nie"
+   },
+   "proszę.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "proszę"
+   },
+   "przepraszam.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "przepraszam"
+   },
+   "przyjaciel.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "przyjaciel"
+   },
+   "tak.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tak"
+   },
+   "toaleta.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toaleta"
+   },
+   "trzy.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "trzy"
+   },
+   "woda.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "woda"
+   }
+  },
+  "pt": {
+   "amigo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amigo"
+   },
+   "amor.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "amor"
+   },
+   "banheiro.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "banheiro"
+   },
+   "comida.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "comida"
+   },
+   "desculpe.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "desculpe"
+   },
+   "dois.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dois"
+   },
+   "não.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "não"
+   },
+   "obrigado.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "obrigado"
+   },
+   "olá.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "olá"
+   },
+   "por_favor.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "por favor"
+   },
+   "quanto.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "quanto"
+   },
+   "sim.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "sim"
+   },
+   "tchau.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tchau"
+   },
+   "três.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "três"
+   },
+   "um.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "um"
+   },
+   "água.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "água"
+   }
+  },
+  "ro": {
+   "apă.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "apă"
+   },
+   "cât.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cât"
+   },
+   "da.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "da"
+   },
+   "doi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "doi"
+   },
+   "dragoste.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dragoste"
+   },
+   "la_revedere.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "la revedere"
+   },
+   "mulțumesc.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mulțumesc"
+   },
+   "mâncare.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mâncare"
+   },
+   "nu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nu"
+   },
+   "prieten.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "prieten"
+   },
+   "salut.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "salut"
+   },
+   "scuze.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "scuze"
+   },
+   "toaletă.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toaletă"
+   },
+   "trei.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "trei"
+   },
+   "unu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "unu"
+   },
+   "vă_rog.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vă rog"
+   }
+  },
+  "ru": {
+   "Россия.ogg": {
+    "author": "see Commons",
+    "file": "downloaded from Commons",
+    "licence": "see Commons",
+    "word": "Россия"
+   },
+   "вкусно.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "вкусно"
+   },
+   "вода.ogg": {
+    "author": "see Commons",
+    "file": "downloaded from Commons",
+    "licence": "see Commons",
+    "word": "вода"
+   },
+   "вокзал.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "вокзал"
+   },
+   "да.ogg": {
+    "author": "",
+    "file": "Ru-да.ogg",
+    "licence": "CC BY 2.0 fr",
+    "word": "да"
+   },
+   "два.ogg": {
+    "author": "see Commons",
+    "file": "downloaded from Commons",
+    "licence": "see Commons",
+    "word": "два"
+   },
+   "до_свидания.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "до свидания"
+   },
+   "доброе_утро.wav": {
+    "author": "Speaker: DoctorandusManhattan\nRecorder: DoctorandusManhattan",
+    "file": "LL-Q7737 (rus)-DoctorandusManhattan-доброе утро.wav",
+    "licence": "CC BY-SA 4.0",
+    "word": "доброе утро"
+   },
+   "дом.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "дом"
+   },
+   "друг.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "друг"
+   },
+   "здравствуйте.wav": {
+    "author": "Speaker: Tatiana Kerbush\nRecorder: Tatiana Kerbush",
+    "file": "LL-Q7737 (rus)-Tatiana Kerbush-здравствуйте.wav",
+    "licence": "CC BY-SA 4.0",
+    "word": "здравствуйте"
+   },
+   "извините.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "извините"
+   },
+   "имя.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "имя"
+   },
+   "нет.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "нет"
+   },
+   "один.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "один"
+   },
+   "пожалуйста.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "пожалуйста"
+   },
+   "привет.wav": {
+    "author": "Speaker: Tatiana Kerbush\nRecorder: Tatiana Kerbush",
+    "file": "LL-Q7737 (rus)-Tatiana Kerbush-привет.wav",
+    "licence": "CC BY-SA 4.0",
+    "word": "привет"
+   },
+   "пять.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "пять"
+   },
+   "сколько_стоит.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "сколько стоит"
+   },
+   "собака.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "собака"
+   },
+   "спасибо.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "спасибо"
+   },
+   "три.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "три"
+   },
+   "туалет.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "туалет"
+   },
+   "учитель.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "учитель"
+   },
+   "хлеб.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "хлеб"
+   },
+   "хорошо.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "хорошо"
+   },
+   "чай.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "чай"
+   },
+   "четыре.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "четыре"
+   },
+   "школа.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "школа"
+   },
+   "я_не_понимаю.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "я не понимаю"
+   },
+   "я_тебя_люблю.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "я тебя люблю"
+   }
+  },
+  "sk": {
+   "ahoj.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ahoj"
+   },
+   "dovidenia.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dovidenia"
+   },
+   "dva.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dva"
+   },
+   "jeden.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jeden"
+   },
+   "jedlo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jedlo"
+   },
+   "koľko.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "koľko"
+   },
+   "láska.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "láska"
+   },
+   "nie.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nie"
+   },
+   "prepáčte.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "prepáčte"
+   },
+   "priateľ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "priateľ"
+   },
+   "prosím.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "prosím"
+   },
+   "tri.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tri"
+   },
+   "voda.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "voda"
+   },
+   "záchod.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "záchod"
+   },
+   "áno.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "áno"
+   },
+   "ďakujem.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ďakujem"
+   }
+  },
+  "sq": {
+   "banjo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "banjo"
+   },
+   "dashuri.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dashuri"
+   },
+   "dy.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "dy"
+   },
+   "faleminderit.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "faleminderit"
+   },
+   "jo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jo"
+   },
+   "ju_lutem.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ju lutem"
+   },
+   "mik.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mik"
+   },
+   "mirupafshim.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mirupafshim"
+   },
+   "më_fal.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "më fal"
+   },
+   "një.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "një"
+   },
+   "po.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "po"
+   },
+   "përshëndetje.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "përshëndetje"
+   },
+   "sa.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "sa"
+   },
+   "tre.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tre"
+   },
+   "ujë.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ujë"
+   },
+   "ushqim.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ushqim"
+   }
+  },
+  "sr": {
+   "вода.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "вода"
+   },
+   "да.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "да"
+   },
+   "два.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "два"
+   },
+   "довиђења.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "довиђења"
+   },
+   "здраво.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "здраво"
+   },
+   "извините.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "извините"
+   },
+   "колико.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "колико"
+   },
+   "молим.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "молим"
+   },
+   "не.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "не"
+   },
+   "пријатељ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "пријатељ"
+   },
+   "тоалет.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "тоалет"
+   },
+   "три.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "три"
+   },
+   "хвала.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "хвала"
+   },
+   "храна.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "храна"
+   },
+   "један.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "један"
+   },
+   "љубав.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "љубав"
+   }
+  },
+  "sv": {
+   "ett.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ett"
+   },
+   "förlåt.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "förlåt"
+   },
+   "hej.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hej"
+   },
+   "hej_då.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hej då"
+   },
+   "hur_mycket.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hur mycket"
+   },
+   "ja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ja"
+   },
+   "kärlek.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kärlek"
+   },
+   "mat.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mat"
+   },
+   "nej.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nej"
+   },
+   "snälla.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "snälla"
+   },
+   "tack.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tack"
+   },
+   "toalett.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "toalett"
+   },
+   "tre.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tre"
+   },
+   "två.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "två"
+   },
+   "vatten.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vatten"
+   },
+   "vän.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vän"
+   }
+  },
+  "sw": {
+   "asante.flac": {
+    "author": "Waithera Were",
+    "file": "Sw-ke-asante.flac",
+    "licence": "CC BY-SA 4.0",
+    "word": "asante"
+   },
+   "bei_gani.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bei gani"
+   },
+   "chakula.flac": {
+    "author": "Waithera Were",
+    "file": "Sw-ke-chakula.flac",
+    "licence": "CC BY-SA 4.0",
+    "word": "chakula"
+   },
+   "choo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "choo"
+   },
+   "hapana.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hapana"
+   },
+   "jambo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "jambo"
+   },
+   "kwaheri.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "kwaheri"
+   },
+   "maji.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "maji"
+   },
+   "mbili.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "mbili"
+   },
+   "moja.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "moja"
+   },
+   "ndiyo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ndiyo"
+   },
+   "rafiki.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "rafiki"
+   },
+   "samahani.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "samahani"
+   },
+   "tafadhali.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tafadhali"
+   },
+   "tatu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tatu"
+   },
+   "upendo.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "upendo"
+   }
+  },
+  "ta": {
+   "அன_ப.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "அன்பு"
+   },
+   "ஆம.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ஆம்"
+   },
+   "இரண_ட.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "இரண்டு"
+   },
+   "இல_ல.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "இல்லை"
+   },
+   "உணவ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "உணவு"
+   },
+   "எவ_வளவ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "எவ்வளவு"
+   },
+   "ஒன_ற.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ஒன்று"
+   },
+   "தண_ண_ர.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "தண்ணீர்"
+   },
+   "தயவ_ச_ய_த.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "தயவுசெய்து"
+   },
+   "நண_பன.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "நண்பன்"
+   },
+   "நன_ற.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "நன்றி"
+   },
+   "ம_ன_ற.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "மூன்று"
+   },
+   "மன_ன_க_கவ_ம.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "மன்னிக்கவும்"
+   },
+   "வணக_கம.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "வணக்கம்"
+   }
+  },
+  "th": {
+   "กร_ณา.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "กรุณา"
+   },
+   "ขอบค_ณ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ขอบคุณ"
+   },
+   "ขอโทษ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ขอโทษ"
+   },
+   "ความร_ก.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ความรัก"
+   },
+   "น_ำ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "น้ำ"
+   },
+   "ลาก_อน.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ลาก่อน"
+   },
+   "สว_สด.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "สวัสดี"
+   },
+   "สอง.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "สอง"
+   },
+   "สาม.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "สาม"
+   },
+   "ห_องน_ำ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ห้องน้ำ"
+   },
+   "หน_ง.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "หนึ่ง"
+   },
+   "อาหาร.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "อาหาร"
+   },
+   "เท_าไร.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "เท่าไร"
+   },
+   "เพ_อน.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "เพื่อน"
+   },
+   "ใช.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ใช่"
+   },
+   "ไม.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ไม่"
+   }
+  },
+  "tr": {
+   "affedersiniz.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "affedersiniz"
+   },
+   "arkadaş.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "arkadaş"
+   },
+   "aşk.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "aşk"
+   },
+   "bir.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bir"
+   },
+   "evet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "evet"
+   },
+   "hayır.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hayır"
+   },
+   "hoşça_kal.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hoşça kal"
+   },
+   "iki.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "iki"
+   },
+   "lütfen.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "lütfen"
+   },
+   "merhaba.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "merhaba"
+   },
+   "ne_kadar.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ne kadar"
+   },
+   "su.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "su"
+   },
+   "teşekkürler.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "teşekkürler"
+   },
+   "tuvalet.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tuvalet"
+   },
+   "yemek.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "yemek"
+   },
+   "üç.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "üç"
+   }
+  },
+  "uk": {
+   "будь_ласка.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "будь ласка"
+   },
+   "вибачте.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "вибачте"
+   },
+   "вода.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "вода"
+   },
+   "два.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "два"
+   },
+   "до_побачення.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "до побачення"
+   },
+   "друг.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "друг"
+   },
+   "дякую.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "дякую"
+   },
+   "любов.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "любов"
+   },
+   "ні.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ні"
+   },
+   "один.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "один"
+   },
+   "привіт.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "привіт"
+   },
+   "скільки.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "скільки"
+   },
+   "так.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "так"
+   },
+   "три.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "три"
+   },
+   "туалет.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "туалет"
+   },
+   "їжа.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "їжа"
+   }
+  },
+  "ur": {
+   "السلام_علیکم.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "السلام علیکم"
+   },
+   "ایک.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ایک"
+   },
+   "باتھ_روم.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "باتھ روم"
+   },
+   "تین.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "تین"
+   },
+   "خدا_حافظ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "خدا حافظ"
+   },
+   "دو.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "دو"
+   },
+   "دوست.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "دوست"
+   },
+   "شکریہ.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "شکریہ"
+   },
+   "محبت.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "محبت"
+   },
+   "معاف_کیجیے.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "معاف کیجیے"
+   },
+   "مہربانی.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "مہربانی"
+   },
+   "نہیں.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "نہیں"
+   },
+   "پانی.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "پانی"
+   },
+   "کتنا.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "کتنا"
+   },
+   "کھانا.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "کھانا"
+   },
+   "ہاں.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ہاں"
+   }
+  },
+  "vi": {
+   "ba.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "ba"
+   },
+   "bao_nhiêu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bao nhiêu"
+   },
+   "bạn.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "bạn"
+   },
+   "cảm_ơn.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "cảm ơn"
+   },
+   "hai.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "hai"
+   },
+   "không.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "không"
+   },
+   "làm_ơn.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "làm ơn"
+   },
+   "một.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "một"
+   },
+   "nhà_vệ_sinh.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nhà vệ sinh"
+   },
+   "nước.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "nước"
+   },
+   "thức_ăn.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "thức ăn"
+   },
+   "tình_yêu.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tình yêu"
+   },
+   "tạm_biệt.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "tạm biệt"
+   },
+   "vâng.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "vâng"
+   },
+   "xin_chào.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "xin chào"
+   },
+   "xin_lỗi.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "xin lỗi"
+   }
+  },
+  "zh": {
+   "一.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "一"
+   },
+   "三.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "三"
+   },
+   "不客气.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "不客气"
+   },
+   "不是.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "不是"
+   },
+   "中国.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "中国"
+   },
+   "二.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "二"
+   },
+   "五.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "五"
+   },
+   "你好.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "你好"
+   },
+   "再见.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "再见"
+   },
+   "名字.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "名字"
+   },
+   "四.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "四"
+   },
+   "多少钱.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "多少钱"
+   },
+   "好吃.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "好吃"
+   },
+   "学校.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "学校"
+   },
+   "对不起.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "对不起"
+   },
+   "很高兴.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "很高兴"
+   },
+   "我不懂.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "我不懂"
+   },
+   "我爱你.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "我爱你"
+   },
+   "早上好.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "早上好"
+   },
+   "是.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "是"
+   },
+   "朋友.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "朋友"
+   },
+   "水.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "水"
+   },
+   "洗手间.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "洗手间"
+   },
+   "火车站.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "火车站"
+   },
+   "狗.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "狗"
+   },
+   "猫.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "猫"
+   },
+   "米饭.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "米饭"
+   },
+   "老师.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "老师"
+   },
+   "茶.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "茶"
+   },
+   "谢谢.wav": {
+    "author": "",
+    "file": "made locally",
+    "licence": "generated locally",
+    "word": "谢谢"
+   }
+  }
+ },
+ "_source": {
+  "af": {
+   "asseblief": "made",
+   "dankie": "made",
+   "drie": "made",
+   "een": "made",
+   "hallo": "made",
+   "hoeveel": "made",
+   "ja": "made",
+   "jammer": "made",
+   "kos": "made",
+   "liefde": "made",
+   "nee": "made",
+   "toilet": "made",
+   "totsiens": "made",
+   "twee": "made",
+   "vriend": "made",
+   "water": "made"
+  },
+  "am": {
+   "ሁለት": "made",
+   "ምግብ": "made",
+   "ሰላም": "made",
+   "ስንት": "made",
+   "ሶስት": "made",
+   "አመሰግናለሁ": "made",
+   "አንድ": "made",
+   "አዎ": "made",
+   "አይደለም": "made",
+   "እባክህ": "made",
+   "ውሃ": "made",
+   "ይቅርታ": "made",
+   "ደህና ሁን": "made",
+   "ጓደኛ": "made",
+   "ፍቅር": "made"
+  },
+  "ar": {
+   "آسف": "made",
+   "أحبك": "made",
+   "أربعة": "made",
+   "اثنان": "made",
+   "اسم": "made",
+   "السلام عليكم": "made",
+   "بيت": "made",
+   "ثلاثة": "made",
+   "جميل": "made",
+   "حمام": "made",
+   "خبز": "made",
+   "خمسة": "made",
+   "شاي": "made",
+   "شكرا": "made",
+   "صباح الخير": "made",
+   "صديق": "made",
+   "قطة": "made",
+   "كم الثمن": "made",
+   "لا": "made",
+   "لا أفهم": "made",
+   "لذيذ": "made",
+   "مدرسة": "made",
+   "مرحبا": "made",
+   "مصر": "made",
+   "مع السلامة": "made",
+   "معلم": "made",
+   "من فضلك": "made",
+   "نعم": "made",
+   "واحد": "made"
+  },
+  "bg": {
+   "благодаря": "made",
+   "вода": "made",
+   "да": "made",
+   "две": "made",
+   "довиждане": "made",
+   "едно": "made",
+   "здравей": "made",
+   "извинете": "made",
+   "колко": "made",
+   "любов": "made",
+   "моля": "made",
+   "не": "made",
+   "приятел": "made",
+   "тоалетна": "made",
+   "три": "made",
+   "храна": "made"
+  },
+  "bn": {
+   "এক": "made",
+   "কত": "made",
+   "খাবার": "made",
+   "জল": "made",
+   "তিন": "made",
+   "দয়া করে": "made",
+   "দুঃখিত": "made",
+   "দুই": "made",
+   "ধন্যবাদ": "made",
+   "নমস্কার": "made",
+   "না": "made",
+   "বন্ধু": "made",
+   "বাথরুম": "made",
+   "বিদায়": "made",
+   "ভালোবাসা": "made",
+   "হ্যাঁ": "made"
+  },
+  "ca": {
+   "adéu": "made",
+   "aigua": "made",
+   "amic": "made",
+   "amor": "made",
+   "dos": "made",
+   "gràcies": "made",
+   "hola": "made",
+   "lavabo": "made",
+   "menjar": "made",
+   "no": "made",
+   "perdó": "made",
+   "quant": "made",
+   "si us plau": "made",
+   "sí": "made",
+   "tres": "made",
+   "un": "made"
+  },
+  "cs": {
+   "ahoj": "made",
+   "ano": "made",
+   "dva": "made",
+   "děkuji": "made",
+   "jeden": "made",
+   "jídlo": "made",
+   "kolik": "made",
+   "láska": "made",
+   "na shledanou": "made",
+   "ne": "made",
+   "promiňte": "made",
+   "prosím": "made",
+   "přítel": "made",
+   "tři": "made",
+   "voda": "made",
+   "záchod": "made"
+  },
+  "da": {
+   "en": "made",
+   "farvel": "made",
+   "hej": "made",
+   "hvor meget": "made",
+   "ja": "made",
+   "kærlighed": "made",
+   "mad": "made",
+   "nej": "made",
+   "tak": "made",
+   "to": "made",
+   "toilet": "made",
+   "tre": "made",
+   "undskyld": "made",
+   "vand": "made",
+   "ven": "made",
+   "vær så god": "made"
+  },
+  "de": {
+   "Essen": "human",
+   "Freund": "human",
+   "Liebe": "human",
+   "Toilette": "human",
+   "Wasser": "human",
+   "bitte": "human",
+   "danke": "human",
+   "drei": "made",
+   "eins": "human",
+   "entschuldigung": "made",
+   "hallo": "human",
+   "ja": "human",
+   "nein": "made",
+   "tschüss": "human",
+   "wie viel": "human",
+   "zwei": "human"
+  },
+  "el": {
+   "Ελλάδα": "made",
+   "ένα": "made",
+   "αντίο": "made",
+   "γάτα": "made",
+   "γεια σου": "made",
+   "δάσκαλος": "made",
+   "δεν καταλαβαίνω": "made",
+   "δύο": "made",
+   "ευχαριστώ": "made",
+   "καλημέρα": "made",
+   "καλησπέρα": "made",
+   "καφές": "made",
+   "ναι": "made",
+   "νερό": "made",
+   "νόστιμο": "made",
+   "πέντε": "made",
+   "παρακαλώ": "made",
+   "πόσο κάνει": "made",
+   "σκύλος": "made",
+   "σπίτι": "made",
+   "συγγνώμη": "made",
+   "σχολείο": "made",
+   "τέσσερα": "made",
+   "τουαλέτα": "made",
+   "τρία": "made",
+   "φίλος": "made",
+   "ψωμί": "made",
+   "ωραία": "made",
+   "όνομα": "made",
+   "όχι": "made"
+  },
+  "en": {
+   "food": "made",
+   "friend": "made",
+   "goodbye": "made",
+   "hello": "made",
+   "how much": "made",
+   "love": "made",
+   "no": "made",
+   "one": "made",
+   "please": "made",
+   "sorry": "made",
+   "thank you": "made",
+   "three": "made",
+   "toilet": "made",
+   "two": "made",
+   "water": "made",
+   "yes": "made"
+  },
+  "eo": {
+   "akvo": "made",
+   "amiko": "made",
+   "amo": "made",
+   "bonvolu": "made",
+   "dankon": "made",
+   "du": "made",
+   "jes": "made",
+   "kiom": "made",
+   "manĝaĵo": "made",
+   "ne": "made",
+   "necesejo": "made",
+   "pardonu": "made",
+   "saluton": "made",
+   "tri": "made",
+   "unu": "made",
+   "ĝis revido": "made"
+  },
+  "es": {
+   "España": "made",
+   "adiós": "made",
+   "agua": "made",
+   "amigo": "made",
+   "baño": "made",
+   "buenos días": "made",
+   "café": "made",
+   "casa": "made",
+   "cinco": "made",
+   "cuatro": "made",
+   "cuánto cuesta": "made",
+   "delicioso": "made",
+   "dos": "made",
+   "escuela": "made",
+   "feliz": "made",
+   "gracias": "made",
+   "hola": "made",
+   "lo siento": "made",
+   "maestro": "made",
+   "no": "made",
+   "no entiendo": "made",
+   "nombre": "made",
+   "pan": "made",
+   "perro": "made",
+   "por favor": "made",
+   "sí": "made",
+   "te quiero": "made",
+   "tres": "made",
+   "uno": "made"
+  },
+  "fa": {
+   "آب": "made",
+   "ببخشید": "made",
+   "بله": "made",
+   "خداحافظ": "made",
+   "دستشویی": "made",
+   "دو": "made",
+   "دوست": "made",
+   "سلام": "made",
+   "سه": "made",
+   "عشق": "made",
+   "غذا": "made",
+   "لطفا": "made",
+   "ممنون": "made",
+   "نه": "made",
+   "چند": "made",
+   "یک": "made"
+  },
+  "fi": {
+   "anteeksi": "made",
+   "ei": "made",
+   "hei": "made",
+   "kaksi": "made",
+   "kiitos": "made",
+   "kolme": "made",
+   "kyllä": "made",
+   "näkemiin": "made",
+   "ole hyvä": "made",
+   "paljonko": "made",
+   "rakkaus": "made",
+   "ruoka": "made",
+   "vesi": "made",
+   "vessa": "made",
+   "yksi": "made",
+   "ystävä": "made"
+  },
+  "fr": {
+   "France": "made",
+   "ami": "made",
+   "au revoir": "made",
+   "bonjour": "made",
+   "bonsoir": "made",
+   "café": "made",
+   "chat": "made",
+   "chien": "made",
+   "cinq": "made",
+   "combien": "made",
+   "deux": "made",
+   "délicieux": "made",
+   "eau": "made",
+   "heureux": "made",
+   "ja": "made",
+   "je ne comprends pas": "made",
+   "maison": "made",
+   "merci": "made",
+   "nom": "made",
+   "non": "made",
+   "oui": "made",
+   "pain": "made",
+   "pardon": "made",
+   "professeur": "made",
+   "quatre": "made",
+   "toilettes": "made",
+   "trois": "made",
+   "un": "made",
+   "école": "made"
+  },
+  "he": {
+   "אהבה": "made",
+   "אוכל": "made",
+   "אחד": "made",
+   "בבקשה": "made",
+   "חבר": "made",
+   "כמה": "made",
+   "כן": "made",
+   "לא": "made",
+   "להתראות": "made",
+   "מים": "made",
+   "סליחה": "made",
+   "שירותים": "made",
+   "שלום": "made",
+   "שלוש": "made",
+   "שתיים": "made",
+   "תודה": "made"
+  },
+  "hi": {
+   "अच्छा": "made",
+   "एक": "made",
+   "कितने का है": "made",
+   "कुत्ता": "made",
+   "कृपया": "made",
+   "घर": "made",
+   "चाय": "made",
+   "चार": "made",
+   "चावल": "made",
+   "तीन": "made",
+   "दो": "made",
+   "दोस्त": "made",
+   "धन्यवाद": "made",
+   "नमस्ते": "made",
+   "नहीं": "made",
+   "नाम": "made",
+   "पाँच": "made",
+   "पानी": "made",
+   "प्यार": "made",
+   "फिर मिलेंगे": "made",
+   "बिल्ली": "made",
+   "भारत": "made",
+   "माफ़ कीजिए": "made",
+   "शिक्षक": "made",
+   "शौचालय": "made",
+   "समझ नहीं आया": "made",
+   "सुप्रभात": "made",
+   "स्कूल": "made",
+   "स्वादिष्ट": "made",
+   "हाँ": "made"
+  },
+  "hr": {
+   "bok": "made",
+   "da": "made",
+   "doviđenja": "made",
+   "dva": "made",
+   "hrana": "made",
+   "hvala": "made",
+   "jedan": "made",
+   "koliko": "made",
+   "ljubav": "made",
+   "molim": "made",
+   "ne": "made",
+   "oprostite": "made",
+   "prijatelj": "made",
+   "tri": "made",
+   "voda": "made",
+   "zahod": "made"
+  },
+  "ht": {
+   "bonjou": "made",
+   "de": "made",
+   "dlo": "made",
+   "eskize m": "made",
+   "konbyen": "made",
+   "lanmou": "made",
+   "manje": "made",
+   "mèsi": "made",
+   "non": "made",
+   "orevwa": "made",
+   "souple": "made",
+   "twa": "made",
+   "twalèt": "made",
+   "wi": "made",
+   "youn": "made",
+   "zanmi": "made"
+  },
+  "hu": {
+   "barát": "made",
+   "bocsánat": "made",
+   "egy": "made",
+   "három": "made",
+   "igen": "made",
+   "kettő": "made",
+   "kérem": "made",
+   "köszönöm": "made",
+   "mennyibe": "made",
+   "mosdó": "made",
+   "nem": "made",
+   "szerelem": "made",
+   "szia": "made",
+   "viszlát": "made",
+   "víz": "made",
+   "étel": "made"
+  },
+  "hy": {
+   "այո": "made",
+   "բարև": "made",
+   "երեք": "made",
+   "երկու": "made",
+   "զուգարան": "made",
+   "ընկեր": "made",
+   "ինչքան": "made",
+   "խնդրեմ": "made",
+   "մեկ": "made",
+   "ներողություն": "made",
+   "շնորհակալություն": "made",
+   "ոչ": "made",
+   "ուտելիք": "made",
+   "ջուր": "made",
+   "սեր": "made",
+   "ցտեսություն": "made"
+  },
+  "id": {
+   "air": "made",
+   "berapa": "made",
+   "cinta": "made",
+   "dua": "made",
+   "halo": "made",
+   "maaf": "made",
+   "makanan": "made",
+   "satu": "made",
+   "selamat tinggal": "made",
+   "teman": "made",
+   "terima kasih": "made",
+   "tidak": "made",
+   "tiga": "made",
+   "toilet": "made",
+   "tolong": "made",
+   "ya": "made"
+  },
+  "it": {
+   "acqua": "made",
+   "amico": "made",
+   "amore": "made",
+   "arrivederci": "made",
+   "bagno": "made",
+   "ciao": "made",
+   "cibo": "made",
+   "due": "made",
+   "grazie": "made",
+   "no": "made",
+   "per favore": "made",
+   "quanto": "made",
+   "scusa": "made",
+   "sì": "made",
+   "tre": "made",
+   "uno": "made"
+  },
+  "ja": {
+   "ありがとう": "made",
+   "いいえ": "made",
+   "いくらですか": "made",
+   "いただきます": "made",
+   "おはようございます": "made",
+   "お茶": "made",
+   "お願いします": "made",
+   "こんにちは": "made",
+   "こんばんは": "made",
+   "ご飯": "made",
+   "さようなら": "made",
+   "すみません": "made",
+   "はい": "made",
+   "またね": "made",
+   "トイレはどこですか": "made",
+   "一": "made",
+   "三": "made",
+   "二": "made",
+   "五": "made",
+   "元気ですか": "made",
+   "先生": "made",
+   "分かりません": "made",
+   "友達": "made",
+   "名前": "made",
+   "四": "made",
+   "大丈夫": "made",
+   "学校": "made",
+   "愛": "made",
+   "日本": "made",
+   "楽しい": "made",
+   "水": "made",
+   "犬": "made",
+   "猫": "made",
+   "美味しい": "made",
+   "駅": "made"
+  },
+  "ka": {
+   "არა": "made",
+   "ბოდიши": "made",
+   "გამარჯობა": "made",
+   "გთხოვთ": "made",
+   "ერთი": "made",
+   "კი": "made",
+   "მადლობა": "made",
+   "მეგობარი": "made",
+   "ნახვამდის": "made",
+   "ორი": "made",
+   "რამდენი": "made",
+   "სამი": "made",
+   "საჭმელი": "made",
+   "სიყვარული": "made",
+   "ტუალეტი": "made",
+   "წყალი": "made"
+  },
+  "ko": {
+   "감사합니다": "made",
+   "고양이": "made",
+   "괜찮아요": "made",
+   "김치": "made",
+   "네": "made",
+   "넷": "made",
+   "다섯": "made",
+   "둘": "made",
+   "맛있어요": "made",
+   "몰라요": "made",
+   "물": "made",
+   "밥": "made",
+   "사랑해요": "made",
+   "선생님": "made",
+   "셋": "made",
+   "아니요": "made",
+   "안녕하세요": "made",
+   "안녕히 가세요": "made",
+   "얼마예요": "made",
+   "여기": "made",
+   "이름": "made",
+   "잘 자요": "made",
+   "죄송합니다": "made",
+   "집": "made",
+   "친구": "made",
+   "하나": "made",
+   "학교": "made",
+   "한국": "made",
+   "행복해요": "made",
+   "화장실": "made"
+  },
+  "mr": {
+   "एक": "made",
+   "किती": "made",
+   "कृपया": "made",
+   "जेवण": "made",
+   "तीन": "made",
+   "दोन": "made",
+   "धन्यवाद": "made",
+   "नमस्कार": "made",
+   "नाही": "made",
+   "पाणी": "made",
+   "प्रेम": "made",
+   "माफ करा": "made",
+   "मित्र": "made",
+   "येतो": "made",
+   "होय": "made"
+  },
+  "ne": {
+   "एक": "made",
+   "कति": "made",
+   "कृपया": "made",
+   "खाना": "made",
+   "तीन": "made",
+   "दुई": "made",
+   "धन्यवाद": "made",
+   "नमस्ते": "made",
+   "पानी": "made",
+   "माफ गर्नुहोस्": "made",
+   "माया": "made",
+   "शौचालय": "made",
+   "साथी": "made",
+   "हो": "made",
+   "होइन": "made"
+  },
+  "nl": {
+   "alsjeblieft": "made",
+   "dank je": "made",
+   "doei": "made",
+   "drie": "made",
+   "een": "made",
+   "eten": "made",
+   "hallo": "made",
+   "hoeveel": "made",
+   "ja": "made",
+   "liefde": "made",
+   "nee": "made",
+   "sorry": "made",
+   "toilet": "made",
+   "twee": "made",
+   "vriend": "made",
+   "water": "made"
+  },
+  "no": {
+   "en": "made",
+   "ha det": "made",
+   "hei": "made",
+   "hvor mye": "made",
+   "ja": "made",
+   "kjærlighet": "made",
+   "mat": "made",
+   "nei": "made",
+   "takk": "made",
+   "to": "made",
+   "toalett": "made",
+   "tre": "made",
+   "unnskyld": "made",
+   "vann": "made",
+   "venn": "made",
+   "vær så snill": "made"
+  },
+  "pl": {
+   "cześć": "made",
+   "do widzenia": "made",
+   "dwa": "made",
+   "dziękuję": "made",
+   "ile": "made",
+   "jeden": "made",
+   "jedzenie": "made",
+   "miłość": "made",
+   "nie": "made",
+   "proszę": "made",
+   "przepraszam": "made",
+   "przyjaciel": "made",
+   "tak": "made",
+   "toaleta": "made",
+   "trzy": "made",
+   "woda": "made"
+  },
+  "pt": {
+   "amigo": "made",
+   "amor": "made",
+   "banheiro": "made",
+   "comida": "made",
+   "desculpe": "made",
+   "dois": "made",
+   "não": "made",
+   "obrigado": "made",
+   "olá": "made",
+   "por favor": "made",
+   "quanto": "made",
+   "sim": "made",
+   "tchau": "made",
+   "três": "made",
+   "um": "made",
+   "água": "made"
+  },
+  "ro": {
+   "apă": "made",
+   "cât": "made",
+   "da": "made",
+   "doi": "made",
+   "dragoste": "made",
+   "la revedere": "made",
+   "mulțumesc": "made",
+   "mâncare": "made",
+   "nu": "made",
+   "prieten": "made",
+   "salut": "made",
+   "scuze": "made",
+   "toaletă": "made",
+   "trei": "made",
+   "unu": "made",
+   "vă rog": "made"
+  },
+  "ru": {
+   "Россия": "human",
+   "вкусно": "made",
+   "вода": "human",
+   "вокзал": "made",
+   "да": "human",
+   "два": "human",
+   "до свидания": "made",
+   "доброе утро": "human",
+   "дом": "made",
+   "друг": "made",
+   "здравствуйте": "human",
+   "извините": "made",
+   "имя": "made",
+   "нет": "made",
+   "один": "made",
+   "пожалуйста": "made",
+   "привет": "human",
+   "пять": "made",
+   "сколько стоит": "made",
+   "собака": "made",
+   "спасибо": "made",
+   "три": "made",
+   "туалет": "made",
+   "учитель": "made",
+   "хлеб": "made",
+   "хорошо": "made",
+   "чай": "made",
+   "четыре": "made",
+   "школа": "made",
+   "я не понимаю": "made",
+   "я тебя люблю": "made"
+  },
+  "sk": {
+   "ahoj": "made",
+   "dovidenia": "made",
+   "dva": "made",
+   "jeden": "made",
+   "jedlo": "made",
+   "koľko": "made",
+   "láska": "made",
+   "nie": "made",
+   "prepáčte": "made",
+   "priateľ": "made",
+   "prosím": "made",
+   "tri": "made",
+   "voda": "made",
+   "záchod": "made",
+   "áno": "made",
+   "ďakujem": "made"
+  },
+  "sq": {
+   "banjo": "made",
+   "dashuri": "made",
+   "dy": "made",
+   "faleminderit": "made",
+   "jo": "made",
+   "ju lutem": "made",
+   "mik": "made",
+   "mirupafshim": "made",
+   "më fal": "made",
+   "një": "made",
+   "po": "made",
+   "përshëndetje": "made",
+   "sa": "made",
+   "tre": "made",
+   "ujë": "made",
+   "ushqim": "made"
+  },
+  "sr": {
+   "вода": "made",
+   "да": "made",
+   "два": "made",
+   "довиђења": "made",
+   "здраво": "made",
+   "извините": "made",
+   "колико": "made",
+   "молим": "made",
+   "не": "made",
+   "пријатељ": "made",
+   "тоалет": "made",
+   "три": "made",
+   "хвала": "made",
+   "храна": "made",
+   "један": "made",
+   "љубав": "made"
+  },
+  "sv": {
+   "ett": "made",
+   "förlåt": "made",
+   "hej": "made",
+   "hej då": "made",
+   "hur mycket": "made",
+   "ja": "made",
+   "kärlek": "made",
+   "mat": "made",
+   "nej": "made",
+   "snälla": "made",
+   "tack": "made",
+   "toalett": "made",
+   "tre": "made",
+   "två": "made",
+   "vatten": "made",
+   "vän": "made"
+  },
+  "sw": {
+   "asante": "human",
+   "bei gani": "made",
+   "chakula": "human",
+   "choo": "made",
+   "hapana": "made",
+   "jambo": "made",
+   "kwaheri": "made",
+   "maji": "made",
+   "mbili": "made",
+   "moja": "made",
+   "ndiyo": "made",
+   "rafiki": "made",
+   "samahani": "made",
+   "tafadhali": "made",
+   "tatu": "made",
+   "upendo": "made"
+  },
+  "ta": {
+   "அன்பு": "made",
+   "ஆம்": "made",
+   "இரண்டு": "made",
+   "இல்லை": "made",
+   "உணவு": "made",
+   "எவ்வளவு": "made",
+   "ஒன்று": "made",
+   "தண்ணீர்": "made",
+   "தயவுசெய்து": "made",
+   "நண்பன்": "made",
+   "நன்றி": "made",
+   "மன்னிக்கவும்": "made",
+   "மூன்று": "made",
+   "வணக்கம்": "made"
+  },
+  "th": {
+   "กรุณา": "made",
+   "ขอบคุณ": "made",
+   "ขอโทษ": "made",
+   "ความรัก": "made",
+   "น้ำ": "made",
+   "ลาก่อน": "made",
+   "สวัสดี": "made",
+   "สอง": "made",
+   "สาม": "made",
+   "หนึ่ง": "made",
+   "ห้องน้ำ": "made",
+   "อาหาร": "made",
+   "เท่าไร": "made",
+   "เพื่อน": "made",
+   "ใช่": "made",
+   "ไม่": "made"
+  },
+  "tr": {
+   "affedersiniz": "made",
+   "arkadaş": "made",
+   "aşk": "made",
+   "bir": "made",
+   "evet": "made",
+   "hayır": "made",
+   "hoşça kal": "made",
+   "iki": "made",
+   "lütfen": "made",
+   "merhaba": "made",
+   "ne kadar": "made",
+   "su": "made",
+   "teşekkürler": "made",
+   "tuvalet": "made",
+   "yemek": "made",
+   "üç": "made"
+  },
+  "uk": {
+   "будь ласка": "made",
+   "вибачте": "made",
+   "вода": "made",
+   "два": "made",
+   "до побачення": "made",
+   "друг": "made",
+   "дякую": "made",
+   "любов": "made",
+   "ні": "made",
+   "один": "made",
+   "привіт": "made",
+   "скільки": "made",
+   "так": "made",
+   "три": "made",
+   "туалет": "made",
+   "їжа": "made"
+  },
+  "ur": {
+   "السلام علیکم": "made",
+   "ایک": "made",
+   "باتھ روم": "made",
+   "تین": "made",
+   "خدا حافظ": "made",
+   "دو": "made",
+   "دوست": "made",
+   "شکریہ": "made",
+   "محبت": "made",
+   "معاف کیجیے": "made",
+   "مہربانی": "made",
+   "نہیں": "made",
+   "پانی": "made",
+   "کتنا": "made",
+   "کھانا": "made",
+   "ہاں": "made"
+  },
+  "vi": {
+   "ba": "made",
+   "bao nhiêu": "made",
+   "bạn": "made",
+   "cảm ơn": "made",
+   "hai": "made",
+   "không": "made",
+   "làm ơn": "made",
+   "một": "made",
+   "nhà vệ sinh": "made",
+   "nước": "made",
+   "thức ăn": "made",
+   "tình yêu": "made",
+   "tạm biệt": "made",
+   "vâng": "made",
+   "xin chào": "made",
+   "xin lỗi": "made"
+  },
+  "zh": {
+   "一": "made",
+   "三": "made",
+   "不客气": "made",
+   "不是": "made",
+   "中国": "made",
+   "二": "made",
+   "五": "made",
+   "你好": "made",
+   "再见": "made",
+   "名字": "made",
+   "四": "made",
+   "多少钱": "made",
+   "好吃": "made",
+   "学校": "made",
+   "对不起": "made",
+   "很高兴": "made",
+   "我不懂": "made",
+   "我爱你": "made",
+   "早上好": "made",
+   "是": "made",
+   "朋友": "made",
+   "水": "made",
+   "洗手间": "made",
+   "火车站": "made",
+   "狗": "made",
+   "猫": "made",
+   "米饭": "made",
+   "老师": "made",
+   "茶": "made",
+   "谢谢": "made"
+  }
+ },
+ "af": {
+  "asseblief": "asseblief.wav",
+  "dankie": "dankie.wav",
+  "drie": "drie.wav",
+  "een": "een.wav",
+  "hallo": "hallo.wav",
+  "hoeveel": "hoeveel.wav",
+  "ja": "ja.wav",
+  "jammer": "jammer.wav",
+  "kos": "kos.wav",
+  "liefde": "liefde.wav",
+  "nee": "nee.wav",
+  "toilet": "toilet.wav",
+  "totsiens": "totsiens.wav",
+  "twee": "twee.wav",
+  "vriend": "vriend.wav",
+  "water": "water.wav"
+ },
+ "am": {
+  "ሁለት": "ሁለት.wav",
+  "ምግብ": "ምግብ.wav",
+  "ሰላም": "ሰላም.wav",
+  "ስንት": "ስንት.wav",
+  "ሶስት": "ሶስት.wav",
+  "አመሰግናለሁ": "አመሰግናለሁ.wav",
+  "አንድ": "አንድ.wav",
+  "አዎ": "አዎ.wav",
+  "አይደለም": "አይደለም.wav",
+  "እባክህ": "እባክህ.wav",
+  "ውሃ": "ውሃ.wav",
+  "ይቅርታ": "ይቅርታ.wav",
+  "ደህና ሁን": "ደህና_ሁን.wav",
+  "ጓደኛ": "ጓደኛ.wav",
+  "ፍቅር": "ፍቅር.wav"
+ },
+ "ar": {
+  "آسف": "آسف.wav",
+  "أحبك": "أحبك.wav",
+  "أربعة": "أربعة.wav",
+  "اثنان": "اثنان.wav",
+  "اسم": "اسم.wav",
+  "السلام عليكم": "السلام_عليكم.wav",
+  "بيت": "بيت.wav",
+  "ثلاثة": "ثلاثة.wav",
+  "جميل": "جميل.wav",
+  "حمام": "حمام.wav",
+  "خبز": "خبز.wav",
+  "خمسة": "خمسة.wav",
+  "شاي": "شاي.wav",
+  "شكرا": "شكرا.wav",
+  "صباح الخير": "صباح_الخير.wav",
+  "صديق": "صديق.wav",
+  "قطة": "قطة.wav",
+  "كم الثمن": "كم_الثمن.wav",
+  "لا": "لا.wav",
+  "لا أفهم": "لا_أفهم.wav",
+  "لذيذ": "لذيذ.wav",
+  "مدرسة": "مدرسة.wav",
+  "مرحبا": "مرحبا.wav",
+  "مصر": "مصر.wav",
+  "مع السلامة": "مع_السلامة.wav",
+  "معلم": "معلم.wav",
+  "من فضلك": "من_فضلك.wav",
+  "نعم": "نعم.wav",
+  "واحد": "واحد.wav"
+ },
+ "bg": {
+  "благодаря": "благодаря.wav",
+  "вода": "вода.wav",
+  "да": "да.wav",
+  "две": "две.wav",
+  "довиждане": "довиждане.wav",
+  "едно": "едно.wav",
+  "здравей": "здравей.wav",
+  "извинете": "извинете.wav",
+  "колко": "колко.wav",
+  "любов": "любов.wav",
+  "моля": "моля.wav",
+  "не": "не.wav",
+  "приятел": "приятел.wav",
+  "тоалетна": "тоалетна.wav",
+  "три": "три.wav",
+  "храна": "храна.wav"
+ },
+ "bn": {
+  "এক": "এক.wav",
+  "কত": "কত.wav",
+  "খাবার": "খ_ব_র.wav",
+  "জল": "জল.wav",
+  "তিন": "ত_ন.wav",
+  "দয়া করে": "দয_কর.wav",
+  "দুঃখিত": "দ_খ_ত.wav",
+  "দুই": "দ_ই.wav",
+  "ধন্যবাদ": "ধন_যব_দ.wav",
+  "নমস্কার": "নমস_ক_র.wav",
+  "না": "ন.wav",
+  "বন্ধু": "বন_ধ.wav",
+  "বাথরুম": "ব_থর_ম.wav",
+  "বিদায়": "ব_দ_য.wav",
+  "ভালোবাসা": "ভ_ল_ব_স.wav",
+  "হ্যাঁ": "হ_য.wav"
+ },
+ "ca": {
+  "adéu": "adéu.wav",
+  "aigua": "aigua.wav",
+  "amic": "amic.wav",
+  "amor": "amor.wav",
+  "dos": "dos.wav",
+  "gràcies": "gràcies.wav",
+  "hola": "hola.wav",
+  "lavabo": "lavabo.wav",
+  "menjar": "menjar.wav",
+  "no": "no.wav",
+  "perdó": "perdó.wav",
+  "quant": "quant.wav",
+  "si us plau": "si_us_plau.wav",
+  "sí": "sí.wav",
+  "tres": "tres.wav",
+  "un": "un.wav"
+ },
+ "cs": {
+  "ahoj": "ahoj.wav",
+  "ano": "ano.wav",
+  "dva": "dva.wav",
+  "děkuji": "děkuji.wav",
+  "jeden": "jeden.wav",
+  "jídlo": "jídlo.wav",
+  "kolik": "kolik.wav",
+  "láska": "láska.wav",
+  "na shledanou": "na_shledanou.wav",
+  "ne": "ne.wav",
+  "promiňte": "promiňte.wav",
+  "prosím": "prosím.wav",
+  "přítel": "přítel.wav",
+  "tři": "tři.wav",
+  "voda": "voda.wav",
+  "záchod": "záchod.wav"
+ },
+ "da": {
+  "en": "en.wav",
+  "farvel": "farvel.wav",
+  "hej": "hej.wav",
+  "hvor meget": "hvor_meget.wav",
+  "ja": "ja.wav",
+  "kærlighed": "kærlighed.wav",
+  "mad": "mad.wav",
+  "nej": "nej.wav",
+  "tak": "tak.wav",
+  "to": "to.wav",
+  "toilet": "toilet.wav",
+  "tre": "tre.wav",
+  "undskyld": "undskyld.wav",
+  "vand": "vand.wav",
+  "ven": "ven.wav",
+  "vær så god": "vær_så_god.wav"
+ },
+ "de": {
+  "Essen": "Essen.ogg",
+  "Freund": "Freund.ogg",
+  "Liebe": "Liebe.ogg",
+  "Toilette": "Toilette.ogg",
+  "Wasser": "Wasser.ogg",
+  "bitte": "bitte.ogg",
+  "danke": "danke.ogg",
+  "drei": "drei.wav",
+  "eins": "eins.ogg",
+  "entschuldigung": "entschuldigung.wav",
+  "hallo": "hallo.ogg",
+  "ja": "ja.ogg",
+  "nein": "nein.wav",
+  "tschüss": "tschüss.ogg",
+  "wie viel": "wie_viel.oga",
+  "zwei": "zwei.ogg"
+ },
+ "el": {
+  "Ελλάδα": "Ελλάδα.wav",
+  "ένα": "ένα.wav",
+  "αντίο": "αντίο.wav",
+  "γάτα": "γάτα.wav",
+  "γεια σου": "γεια_σου.wav",
+  "δάσκαλος": "δάσκαλος.wav",
+  "δεν καταλαβαίνω": "δεν_καταλαβαίνω.wav",
+  "δύο": "δύο.wav",
+  "ευχαριστώ": "ευχαριστώ.wav",
+  "καλημέρα": "καλημέρα.wav",
+  "καλησπέρα": "καλησπέρα.wav",
+  "καφές": "καφές.wav",
+  "ναι": "ναι.wav",
+  "νερό": "νερό.wav",
+  "νόστιμο": "νόστιμο.wav",
+  "πέντε": "πέντε.wav",
+  "παρακαλώ": "παρακαλώ.wav",
+  "πόσο κάνει": "πόσο_κάνει.wav",
+  "σκύλος": "σκύλος.wav",
+  "σπίτι": "σπίτι.wav",
+  "συγγνώμη": "συγγνώμη.wav",
+  "σχολείο": "σχολείο.wav",
+  "τέσσερα": "τέσσερα.wav",
+  "τουαλέτα": "τουαλέτα.wav",
+  "τρία": "τρία.wav",
+  "φίλος": "φίλος.wav",
+  "ψωμί": "ψωμί.wav",
+  "ωραία": "ωραία.wav",
+  "όνομα": "όνομα.wav",
+  "όχι": "όχι.wav"
+ },
+ "en": {
+  "food": "food.wav",
+  "friend": "friend.wav",
+  "goodbye": "goodbye.wav",
+  "hello": "hello.wav",
+  "how much": "how_much.wav",
+  "love": "love.wav",
+  "no": "no.wav",
+  "one": "one.wav",
+  "please": "please.wav",
+  "sorry": "sorry.wav",
+  "thank you": "thank_you.wav",
+  "three": "three.wav",
+  "toilet": "toilet.wav",
+  "two": "two.wav",
+  "water": "water.wav",
+  "yes": "yes.wav"
+ },
+ "eo": {
+  "akvo": "akvo.wav",
+  "amiko": "amiko.wav",
+  "amo": "amo.wav",
+  "bonvolu": "bonvolu.wav",
+  "dankon": "dankon.wav",
+  "du": "du.wav",
+  "jes": "jes.wav",
+  "kiom": "kiom.wav",
+  "manĝaĵo": "manĝaĵo.wav",
+  "ne": "ne.wav",
+  "necesejo": "necesejo.wav",
+  "pardonu": "pardonu.wav",
+  "saluton": "saluton.wav",
+  "tri": "tri.wav",
+  "unu": "unu.wav",
+  "ĝis revido": "ĝis_revido.wav"
+ },
+ "es": {
+  "España": "España.wav",
+  "adiós": "adiós.wav",
+  "agua": "agua.wav",
+  "amigo": "amigo.wav",
+  "baño": "baño.wav",
+  "buenos días": "buenos_días.wav",
+  "café": "café.wav",
+  "casa": "casa.wav",
+  "cinco": "cinco.wav",
+  "cuatro": "cuatro.wav",
+  "cuánto cuesta": "cuánto_cuesta.wav",
+  "delicioso": "delicioso.wav",
+  "dos": "dos.wav",
+  "escuela": "escuela.wav",
+  "feliz": "feliz.wav",
+  "gracias": "gracias.wav",
+  "hola": "hola.wav",
+  "lo siento": "lo_siento.wav",
+  "maestro": "maestro.wav",
+  "no": "no.wav",
+  "no entiendo": "no_entiendo.wav",
+  "nombre": "nombre.wav",
+  "pan": "pan.wav",
+  "perro": "perro.wav",
+  "por favor": "por_favor.wav",
+  "sí": "sí.wav",
+  "te quiero": "te_quiero.wav",
+  "tres": "tres.wav",
+  "uno": "uno.wav"
+ },
+ "fa": {
+  "آب": "آب.wav",
+  "ببخشید": "ببخشید.wav",
+  "بله": "بله.wav",
+  "خداحافظ": "خداحافظ.wav",
+  "دستشویی": "دستشویی.wav",
+  "دو": "دو.wav",
+  "دوست": "دوست.wav",
+  "سلام": "سلام.wav",
+  "سه": "سه.wav",
+  "عشق": "عشق.wav",
+  "غذا": "غذا.wav",
+  "لطفا": "لطفا.wav",
+  "ممنون": "ممنون.wav",
+  "نه": "نه.wav",
+  "چند": "چند.wav",
+  "یک": "یک.wav"
+ },
+ "fi": {
+  "anteeksi": "anteeksi.wav",
+  "ei": "ei.wav",
+  "hei": "hei.wav",
+  "kaksi": "kaksi.wav",
+  "kiitos": "kiitos.wav",
+  "kolme": "kolme.wav",
+  "kyllä": "kyllä.wav",
+  "näkemiin": "näkemiin.wav",
+  "ole hyvä": "ole_hyvä.wav",
+  "paljonko": "paljonko.wav",
+  "rakkaus": "rakkaus.wav",
+  "ruoka": "ruoka.wav",
+  "vesi": "vesi.wav",
+  "vessa": "vessa.wav",
+  "yksi": "yksi.wav",
+  "ystävä": "ystävä.wav"
+ },
+ "fr": {
+  "France": "France.wav",
+  "ami": "ami.wav",
+  "au revoir": "au_revoir.wav",
+  "bonjour": "bonjour.wav",
+  "bonsoir": "bonsoir.wav",
+  "café": "café.wav",
+  "chat": "chat.wav",
+  "chien": "chien.wav",
+  "cinq": "cinq.wav",
+  "combien": "combien.wav",
+  "deux": "deux.wav",
+  "délicieux": "délicieux.wav",
+  "eau": "eau.wav",
+  "heureux": "heureux.wav",
+  "ja": "ja.wav",
+  "je ne comprends pas": "je_ne_comprends_pas.wav",
+  "maison": "maison.wav",
+  "merci": "merci.wav",
+  "nom": "nom.wav",
+  "non": "non.wav",
+  "oui": "oui.wav",
+  "pain": "pain.wav",
+  "pardon": "pardon.wav",
+  "professeur": "professeur.wav",
+  "quatre": "quatre.wav",
+  "toilettes": "toilettes.wav",
+  "trois": "trois.wav",
+  "un": "un.wav",
+  "école": "école.wav"
+ },
+ "he": {
+  "אהבה": "אהבה.wav",
+  "אוכל": "אוכל.wav",
+  "אחד": "אחד.wav",
+  "בבקשה": "בבקשה.wav",
+  "חבר": "חבר.wav",
+  "כמה": "כמה.wav",
+  "כן": "כן.wav",
+  "לא": "לא.wav",
+  "להתראות": "להתראות.wav",
+  "מים": "מים.wav",
+  "סליחה": "סליחה.wav",
+  "שירותים": "שירותים.wav",
+  "שלום": "שלום.wav",
+  "שלוש": "שלוש.wav",
+  "שתיים": "שתיים.wav",
+  "תודה": "תודה.wav"
+ },
+ "hi": {
+  "अच्छा": "अच_छ.wav",
+  "एक": "एक.wav",
+  "कितने का है": "क_तन_क_ह.wav",
+  "कुत्ता": "क_त_त.wav",
+  "कृपया": "क_पय.wav",
+  "घर": "घर.wav",
+  "चाय": "च_य.wav",
+  "चार": "च_र.wav",
+  "चावल": "च_वल.wav",
+  "तीन": "त_न.wav",
+  "दो": "द.wav",
+  "दोस्त": "द_स_त.wav",
+  "धन्यवाद": "धन_यव_द.wav",
+  "नमस्ते": "नमस_त.wav",
+  "नहीं": "नह.wav",
+  "नाम": "न_म.wav",
+  "पाँच": "प_च.wav",
+  "पानी": "प_न.wav",
+  "प्यार": "प_य_र.wav",
+  "फिर मिलेंगे": "फ_र_म_ल_ग.wav",
+  "बिल्ली": "ब_ल_ल.wav",
+  "भारत": "भ_रत.wav",
+  "माफ़ कीजिए": "म_फ_क_ज_ए.wav",
+  "शिक्षक": "श_क_षक.wav",
+  "शौचालय": "श_च_लय.wav",
+  "समझ नहीं आया": "समझ_नह_आय.wav",
+  "सुप्रभात": "स_प_रभ_त.wav",
+  "स्कूल": "स_क_ल.wav",
+  "स्वादिष्ट": "स_व_द_ष_ट.wav",
+  "हाँ": "ह.wav"
+ },
+ "hr": {
+  "bok": "bok.wav",
+  "da": "da.wav",
+  "doviđenja": "doviđenja.wav",
+  "dva": "dva.wav",
+  "hrana": "hrana.wav",
+  "hvala": "hvala.wav",
+  "jedan": "jedan.wav",
+  "koliko": "koliko.wav",
+  "ljubav": "ljubav.wav",
+  "molim": "molim.wav",
+  "ne": "ne.wav",
+  "oprostite": "oprostite.wav",
+  "prijatelj": "prijatelj.wav",
+  "tri": "tri.wav",
+  "voda": "voda.wav",
+  "zahod": "zahod.wav"
+ },
+ "ht": {
+  "bonjou": "bonjou.wav",
+  "de": "de.wav",
+  "dlo": "dlo.wav",
+  "eskize m": "eskize_m.wav",
+  "konbyen": "konbyen.wav",
+  "lanmou": "lanmou.wav",
+  "manje": "manje.wav",
+  "mèsi": "mèsi.wav",
+  "non": "non.wav",
+  "orevwa": "orevwa.wav",
+  "souple": "souple.wav",
+  "twa": "twa.wav",
+  "twalèt": "twalèt.wav",
+  "wi": "wi.wav",
+  "youn": "youn.wav",
+  "zanmi": "zanmi.wav"
+ },
+ "hu": {
+  "barát": "barát.wav",
+  "bocsánat": "bocsánat.wav",
+  "egy": "egy.wav",
+  "három": "három.wav",
+  "igen": "igen.wav",
+  "kettő": "kettő.wav",
+  "kérem": "kérem.wav",
+  "köszönöm": "köszönöm.wav",
+  "mennyibe": "mennyibe.wav",
+  "mosdó": "mosdó.wav",
+  "nem": "nem.wav",
+  "szerelem": "szerelem.wav",
+  "szia": "szia.wav",
+  "viszlát": "viszlát.wav",
+  "víz": "víz.wav",
+  "étel": "étel.wav"
+ },
+ "hy": {
+  "այո": "այո.wav",
+  "բարև": "բարև.wav",
+  "երեք": "երեք.wav",
+  "երկու": "երկու.wav",
+  "զուգարան": "զուգարան.wav",
+  "ընկեր": "ընկեր.wav",
+  "ինչքան": "ինչքան.wav",
+  "խնդրեմ": "խնդրեմ.wav",
+  "մեկ": "մեկ.wav",
+  "ներողություն": "ներողություն.wav",
+  "շնորհակալություն": "շնորհակալություն.wav",
+  "ոչ": "ոչ.wav",
+  "ուտելիք": "ուտելիք.wav",
+  "ջուր": "ջուր.wav",
+  "սեր": "սեր.wav",
+  "ցտեսություն": "ցտեսություն.wav"
+ },
+ "id": {
+  "air": "air.wav",
+  "berapa": "berapa.wav",
+  "cinta": "cinta.wav",
+  "dua": "dua.wav",
+  "halo": "halo.wav",
+  "maaf": "maaf.wav",
+  "makanan": "makanan.wav",
+  "satu": "satu.wav",
+  "selamat tinggal": "selamat_tinggal.wav",
+  "teman": "teman.wav",
+  "terima kasih": "terima_kasih.wav",
+  "tidak": "tidak.wav",
+  "tiga": "tiga.wav",
+  "toilet": "toilet.wav",
+  "tolong": "tolong.wav",
+  "ya": "ya.wav"
+ },
+ "it": {
+  "acqua": "acqua.wav",
+  "amico": "amico.wav",
+  "amore": "amore.wav",
+  "arrivederci": "arrivederci.wav",
+  "bagno": "bagno.wav",
+  "ciao": "ciao.wav",
+  "cibo": "cibo.wav",
+  "due": "due.wav",
+  "grazie": "grazie.wav",
+  "no": "no.wav",
+  "per favore": "per_favore.wav",
+  "quanto": "quanto.wav",
+  "scusa": "scusa.wav",
+  "sì": "sì.wav",
+  "tre": "tre.wav",
+  "uno": "uno.wav"
+ },
+ "ja": {
+  "ありがとう": "ありがとう.wav",
+  "いいえ": "いいえ.wav",
+  "いくらですか": "いくらですか.wav",
+  "いただきます": "いただきます.wav",
+  "おはようございます": "おはようございます.wav",
+  "お茶": "お茶.wav",
+  "お願いします": "お願いします.wav",
+  "こんにちは": "こんにちは.wav",
+  "こんばんは": "こんばんは.wav",
+  "ご飯": "ご飯.wav",
+  "さようなら": "さようなら.wav",
+  "すみません": "すみません.wav",
+  "はい": "はい.wav",
+  "またね": "またね.wav",
+  "トイレはどこですか": "トイレはどこですか.wav",
+  "一": "一.wav",
+  "三": "三.wav",
+  "二": "二.wav",
+  "五": "五.wav",
+  "元気ですか": "元気ですか.wav",
+  "先生": "先生.wav",
+  "分かりません": "分かりません.wav",
+  "友達": "友達.wav",
+  "名前": "名前.wav",
+  "四": "四.wav",
+  "大丈夫": "大丈夫.wav",
+  "学校": "学校.wav",
+  "愛": "愛.wav",
+  "日本": "日本.wav",
+  "楽しい": "楽しい.wav",
+  "水": "水.wav",
+  "犬": "犬.wav",
+  "猫": "猫.wav",
+  "美味しい": "美味しい.wav",
+  "駅": "駅.wav"
+ },
+ "ka": {
+  "არა": "არა.wav",
+  "ბოდიши": "ბოდიши.wav",
+  "გამარჯობა": "გამარჯობა.wav",
+  "გთხოვთ": "გთხოვთ.wav",
+  "ერთი": "ერთი.wav",
+  "კი": "კი.wav",
+  "მადლობა": "მადლობა.wav",
+  "მეგობარი": "მეგობარი.wav",
+  "ნახვამდის": "ნახვამდის.wav",
+  "ორი": "ორი.wav",
+  "რამდენი": "რამდენი.wav",
+  "სამი": "სამი.wav",
+  "საჭმელი": "საჭმელი.wav",
+  "სიყვარული": "სიყვარული.wav",
+  "ტუალეტი": "ტუალეტი.wav",
+  "წყალი": "წყალი.wav"
+ },
+ "ko": {
+  "감사합니다": "감사합니다.wav",
+  "고양이": "고양이.wav",
+  "괜찮아요": "괜찮아요.wav",
+  "김치": "김치.wav",
+  "네": "네.wav",
+  "넷": "넷.wav",
+  "다섯": "다섯.wav",
+  "둘": "둘.wav",
+  "맛있어요": "맛있어요.wav",
+  "몰라요": "몰라요.wav",
+  "물": "물.wav",
+  "밥": "밥.wav",
+  "사랑해요": "사랑해요.wav",
+  "선생님": "선생님.wav",
+  "셋": "셋.wav",
+  "아니요": "아니요.wav",
+  "안녕하세요": "안녕하세요.wav",
+  "안녕히 가세요": "안녕히_가세요.wav",
+  "얼마예요": "얼마예요.wav",
+  "여기": "여기.wav",
+  "이름": "이름.wav",
+  "잘 자요": "잘_자요.wav",
+  "죄송합니다": "죄송합니다.wav",
+  "집": "집.wav",
+  "친구": "친구.wav",
+  "하나": "하나.wav",
+  "학교": "학교.wav",
+  "한국": "한국.wav",
+  "행복해요": "행복해요.wav",
+  "화장실": "화장실.wav"
+ },
+ "mr": {
+  "एक": "एक.wav",
+  "किती": "क_त.wav",
+  "कृपया": "क_पय.wav",
+  "जेवण": "ज_वण.wav",
+  "तीन": "त_न.wav",
+  "दोन": "द_न.wav",
+  "धन्यवाद": "धन_यव_द.wav",
+  "नमस्कार": "नमस_क_र.wav",
+  "नाही": "न_ह.wav",
+  "पाणी": "प_ण.wav",
+  "प्रेम": "प_र_म.wav",
+  "माफ करा": "म_फ_कर.wav",
+  "मित्र": "म_त_र.wav",
+  "येतो": "य_त.wav",
+  "होय": "ह_य.wav"
+ },
+ "ne": {
+  "एक": "एक.wav",
+  "कति": "कत.wav",
+  "कृपया": "क_पय.wav",
+  "खाना": "ख_न.wav",
+  "तीन": "त_न.wav",
+  "दुई": "द_ई.wav",
+  "धन्यवाद": "धन_यव_द.wav",
+  "नमस्ते": "नमस_त.wav",
+  "पानी": "प_न.wav",
+  "माफ गर्नुहोस्": "म_फ_गर_न_ह_स.wav",
+  "माया": "म_य.wav",
+  "शौचालय": "श_च_लय.wav",
+  "साथी": "स_थ.wav",
+  "हो": "ह.wav",
+  "होइन": "ह_इन.wav"
+ },
+ "nl": {
+  "alsjeblieft": "alsjeblieft.wav",
+  "dank je": "dank_je.wav",
+  "doei": "doei.wav",
+  "drie": "drie.wav",
+  "een": "een.wav",
+  "eten": "eten.wav",
+  "hallo": "hallo.wav",
+  "hoeveel": "hoeveel.wav",
+  "ja": "ja.wav",
+  "liefde": "liefde.wav",
+  "nee": "nee.wav",
+  "sorry": "sorry.wav",
+  "toilet": "toilet.wav",
+  "twee": "twee.wav",
+  "vriend": "vriend.wav",
+  "water": "water.wav"
+ },
+ "no": {
+  "en": "en.wav",
+  "ha det": "ha_det.wav",
+  "hei": "hei.wav",
+  "hvor mye": "hvor_mye.wav",
+  "ja": "ja.wav",
+  "kjærlighet": "kjærlighet.wav",
+  "mat": "mat.wav",
+  "nei": "nei.wav",
+  "takk": "takk.wav",
+  "to": "to.wav",
+  "toalett": "toalett.wav",
+  "tre": "tre.wav",
+  "unnskyld": "unnskyld.wav",
+  "vann": "vann.wav",
+  "venn": "venn.wav",
+  "vær så snill": "vær_så_snill.wav"
+ },
+ "pl": {
+  "cześć": "cześć.wav",
+  "do widzenia": "do_widzenia.wav",
+  "dwa": "dwa.wav",
+  "dziękuję": "dziękuję.wav",
+  "ile": "ile.wav",
+  "jeden": "jeden.wav",
+  "jedzenie": "jedzenie.wav",
+  "miłość": "miłość.wav",
+  "nie": "nie.wav",
+  "proszę": "proszę.wav",
+  "przepraszam": "przepraszam.wav",
+  "przyjaciel": "przyjaciel.wav",
+  "tak": "tak.wav",
+  "toaleta": "toaleta.wav",
+  "trzy": "trzy.wav",
+  "woda": "woda.wav"
+ },
+ "pt": {
+  "amigo": "amigo.wav",
+  "amor": "amor.wav",
+  "banheiro": "banheiro.wav",
+  "comida": "comida.wav",
+  "desculpe": "desculpe.wav",
+  "dois": "dois.wav",
+  "não": "não.wav",
+  "obrigado": "obrigado.wav",
+  "olá": "olá.wav",
+  "por favor": "por_favor.wav",
+  "quanto": "quanto.wav",
+  "sim": "sim.wav",
+  "tchau": "tchau.wav",
+  "três": "três.wav",
+  "um": "um.wav",
+  "água": "água.wav"
+ },
+ "ro": {
+  "apă": "apă.wav",
+  "cât": "cât.wav",
+  "da": "da.wav",
+  "doi": "doi.wav",
+  "dragoste": "dragoste.wav",
+  "la revedere": "la_revedere.wav",
+  "mulțumesc": "mulțumesc.wav",
+  "mâncare": "mâncare.wav",
+  "nu": "nu.wav",
+  "prieten": "prieten.wav",
+  "salut": "salut.wav",
+  "scuze": "scuze.wav",
+  "toaletă": "toaletă.wav",
+  "trei": "trei.wav",
+  "unu": "unu.wav",
+  "vă rog": "vă_rog.wav"
+ },
+ "ru": {
+  "Россия": "Россия.ogg",
+  "вкусно": "вкусно.wav",
+  "вода": "вода.ogg",
+  "вокзал": "вокзал.wav",
+  "да": "да.ogg",
+  "два": "два.ogg",
+  "до свидания": "до_свидания.wav",
+  "доброе утро": "доброе_утро.wav",
+  "дом": "дом.wav",
+  "друг": "друг.wav",
+  "здравствуйте": "здравствуйте.wav",
+  "извините": "извините.wav",
+  "имя": "имя.wav",
+  "нет": "нет.wav",
+  "один": "один.wav",
+  "пожалуйста": "пожалуйста.wav",
+  "привет": "привет.wav",
+  "пять": "пять.wav",
+  "сколько стоит": "сколько_стоит.wav",
+  "собака": "собака.wav",
+  "спасибо": "спасибо.wav",
+  "три": "три.wav",
+  "туалет": "туалет.wav",
+  "учитель": "учитель.wav",
+  "хлеб": "хлеб.wav",
+  "хорошо": "хорошо.wav",
+  "чай": "чай.wav",
+  "четыре": "четыре.wav",
+  "школа": "школа.wav",
+  "я не понимаю": "я_не_понимаю.wav",
+  "я тебя люблю": "я_тебя_люблю.wav"
+ },
+ "sk": {
+  "ahoj": "ahoj.wav",
+  "dovidenia": "dovidenia.wav",
+  "dva": "dva.wav",
+  "jeden": "jeden.wav",
+  "jedlo": "jedlo.wav",
+  "koľko": "koľko.wav",
+  "láska": "láska.wav",
+  "nie": "nie.wav",
+  "prepáčte": "prepáčte.wav",
+  "priateľ": "priateľ.wav",
+  "prosím": "prosím.wav",
+  "tri": "tri.wav",
+  "voda": "voda.wav",
+  "záchod": "záchod.wav",
+  "áno": "áno.wav",
+  "ďakujem": "ďakujem.wav"
+ },
+ "sq": {
+  "banjo": "banjo.wav",
+  "dashuri": "dashuri.wav",
+  "dy": "dy.wav",
+  "faleminderit": "faleminderit.wav",
+  "jo": "jo.wav",
+  "ju lutem": "ju_lutem.wav",
+  "mik": "mik.wav",
+  "mirupafshim": "mirupafshim.wav",
+  "më fal": "më_fal.wav",
+  "një": "një.wav",
+  "po": "po.wav",
+  "përshëndetje": "përshëndetje.wav",
+  "sa": "sa.wav",
+  "tre": "tre.wav",
+  "ujë": "ujë.wav",
+  "ushqim": "ushqim.wav"
+ },
+ "sr": {
+  "вода": "вода.wav",
+  "да": "да.wav",
+  "два": "два.wav",
+  "довиђења": "довиђења.wav",
+  "здраво": "здраво.wav",
+  "извините": "извините.wav",
+  "колико": "колико.wav",
+  "молим": "молим.wav",
+  "не": "не.wav",
+  "пријатељ": "пријатељ.wav",
+  "тоалет": "тоалет.wav",
+  "три": "три.wav",
+  "хвала": "хвала.wav",
+  "храна": "храна.wav",
+  "један": "један.wav",
+  "љубав": "љубав.wav"
+ },
+ "sv": {
+  "ett": "ett.wav",
+  "förlåt": "förlåt.wav",
+  "hej": "hej.wav",
+  "hej då": "hej_då.wav",
+  "hur mycket": "hur_mycket.wav",
+  "ja": "ja.wav",
+  "kärlek": "kärlek.wav",
+  "mat": "mat.wav",
+  "nej": "nej.wav",
+  "snälla": "snälla.wav",
+  "tack": "tack.wav",
+  "toalett": "toalett.wav",
+  "tre": "tre.wav",
+  "två": "två.wav",
+  "vatten": "vatten.wav",
+  "vän": "vän.wav"
+ },
+ "sw": {
+  "asante": "asante.flac",
+  "bei gani": "bei_gani.wav",
+  "chakula": "chakula.flac",
+  "choo": "choo.wav",
+  "hapana": "hapana.wav",
+  "jambo": "jambo.wav",
+  "kwaheri": "kwaheri.wav",
+  "maji": "maji.wav",
+  "mbili": "mbili.wav",
+  "moja": "moja.wav",
+  "ndiyo": "ndiyo.wav",
+  "rafiki": "rafiki.wav",
+  "samahani": "samahani.wav",
+  "tafadhali": "tafadhali.wav",
+  "tatu": "tatu.wav",
+  "upendo": "upendo.wav"
+ },
+ "ta": {
+  "அன்பு": "அன_ப.wav",
+  "ஆம்": "ஆம.wav",
+  "இரண்டு": "இரண_ட.wav",
+  "இல்லை": "இல_ல.wav",
+  "உணவு": "உணவ.wav",
+  "எவ்வளவு": "எவ_வளவ.wav",
+  "ஒன்று": "ஒன_ற.wav",
+  "தண்ணீர்": "தண_ண_ர.wav",
+  "தயவுசெய்து": "தயவ_ச_ய_த.wav",
+  "நண்பன்": "நண_பன.wav",
+  "நன்றி": "நன_ற.wav",
+  "மன்னிக்கவும்": "மன_ன_க_கவ_ம.wav",
+  "மூன்று": "ம_ன_ற.wav",
+  "வணக்கம்": "வணக_கம.wav"
+ },
+ "th": {
+  "กรุณา": "กร_ณา.wav",
+  "ขอบคุณ": "ขอบค_ณ.wav",
+  "ขอโทษ": "ขอโทษ.wav",
+  "ความรัก": "ความร_ก.wav",
+  "น้ำ": "น_ำ.wav",
+  "ลาก่อน": "ลาก_อน.wav",
+  "สวัสดี": "สว_สด.wav",
+  "สอง": "สอง.wav",
+  "สาม": "สาม.wav",
+  "หนึ่ง": "หน_ง.wav",
+  "ห้องน้ำ": "ห_องน_ำ.wav",
+  "อาหาร": "อาหาร.wav",
+  "เท่าไร": "เท_าไร.wav",
+  "เพื่อน": "เพ_อน.wav",
+  "ใช่": "ใช.wav",
+  "ไม่": "ไม.wav"
+ },
+ "tr": {
+  "affedersiniz": "affedersiniz.wav",
+  "arkadaş": "arkadaş.wav",
+  "aşk": "aşk.wav",
+  "bir": "bir.wav",
+  "evet": "evet.wav",
+  "hayır": "hayır.wav",
+  "hoşça kal": "hoşça_kal.wav",
+  "iki": "iki.wav",
+  "lütfen": "lütfen.wav",
+  "merhaba": "merhaba.wav",
+  "ne kadar": "ne_kadar.wav",
+  "su": "su.wav",
+  "teşekkürler": "teşekkürler.wav",
+  "tuvalet": "tuvalet.wav",
+  "yemek": "yemek.wav",
+  "üç": "üç.wav"
+ },
+ "uk": {
+  "будь ласка": "будь_ласка.wav",
+  "вибачте": "вибачте.wav",
+  "вода": "вода.wav",
+  "два": "два.wav",
+  "до побачення": "до_побачення.wav",
+  "друг": "друг.wav",
+  "дякую": "дякую.wav",
+  "любов": "любов.wav",
+  "ні": "ні.wav",
+  "один": "один.wav",
+  "привіт": "привіт.wav",
+  "скільки": "скільки.wav",
+  "так": "так.wav",
+  "три": "три.wav",
+  "туалет": "туалет.wav",
+  "їжа": "їжа.wav"
+ },
+ "ur": {
+  "السلام علیکم": "السلام_علیکم.wav",
+  "ایک": "ایک.wav",
+  "باتھ روم": "باتھ_روم.wav",
+  "تین": "تین.wav",
+  "خدا حافظ": "خدا_حافظ.wav",
+  "دو": "دو.wav",
+  "دوست": "دوست.wav",
+  "شکریہ": "شکریہ.wav",
+  "محبت": "محبت.wav",
+  "معاف کیجیے": "معاف_کیجیے.wav",
+  "مہربانی": "مہربانی.wav",
+  "نہیں": "نہیں.wav",
+  "پانی": "پانی.wav",
+  "کتنا": "کتنا.wav",
+  "کھانا": "کھانا.wav",
+  "ہاں": "ہاں.wav"
+ },
+ "vi": {
+  "ba": "ba.wav",
+  "bao nhiêu": "bao_nhiêu.wav",
+  "bạn": "bạn.wav",
+  "cảm ơn": "cảm_ơn.wav",
+  "hai": "hai.wav",
+  "không": "không.wav",
+  "làm ơn": "làm_ơn.wav",
+  "một": "một.wav",
+  "nhà vệ sinh": "nhà_vệ_sinh.wav",
+  "nước": "nước.wav",
+  "thức ăn": "thức_ăn.wav",
+  "tình yêu": "tình_yêu.wav",
+  "tạm biệt": "tạm_biệt.wav",
+  "vâng": "vâng.wav",
+  "xin chào": "xin_chào.wav",
+  "xin lỗi": "xin_lỗi.wav"
+ },
+ "zh": {
+  "一": "一.wav",
+  "三": "三.wav",
+  "不客气": "不客气.wav",
+  "不是": "不是.wav",
+  "中国": "中国.wav",
+  "二": "二.wav",
+  "五": "五.wav",
+  "你好": "你好.wav",
+  "再见": "再见.wav",
+  "名字": "名字.wav",
+  "四": "四.wav",
+  "多少钱": "多少钱.wav",
+  "好吃": "好吃.wav",
+  "学校": "学校.wav",
+  "对不起": "对不起.wav",
+  "很高兴": "很高兴.wav",
+  "我不懂": "我不懂.wav",
+  "我爱你": "我爱你.wav",
+  "早上好": "早上好.wav",
+  "是": "是.wav",
+  "朋友": "朋友.wav",
+  "水": "水.wav",
+  "洗手间": "洗手间.wav",
+  "火车站": "火车站.wav",
+  "狗": "狗.wav",
+  "猫": "猫.wav",
+  "米饭": "米饭.wav",
+  "老师": "老师.wav",
+  "茶": "茶.wav",
+  "谢谢": "谢谢.wav"
+ }
+}

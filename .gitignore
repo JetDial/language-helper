@@ -4,8 +4,7 @@ Thumbs.db
 node_modules/
 my-spellings.json
 
-# Downloaded pronunciation clips — recreate with tools/get-recordings.py.
-# They are other people's recordings, they can run to hundreds of megabytes,
-# and they are specific to whichever languages you chose.
-audio/
+# Piper's voice model cache — recreate with tools/make-voices.py --engine piper.
+# These are just inputs for generating audio/, not needed to serve the site,
+# and can run to hundreds of megabytes.
 tools/piper-voices/
