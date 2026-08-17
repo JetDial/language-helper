@@ -603,6 +603,23 @@ was published under, listed below with the speaker.
 - **행복해요** — made locally · see Commons · generated locally
 - **화장실** — made locally · see Commons · generated locally
 
+## mn
+- **баярлалаа** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **баяртай** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **гуйя** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **гурав** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **найз** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **нэг** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **сайн байна уу** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **тийм** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **ус** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **уучлаарай** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **хайр** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **хоол** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **хоёр** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **хэд** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+- **үгүй** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
+
 ## mr
 - **एक** — made locally · see Commons · generated locally
 - **किती** — made locally · see Commons · generated locally
@@ -780,6 +797,24 @@ Recorder: Tatiana Kerbush · CC BY-SA 4.0
 - **záchod** — made locally · see Commons · generated locally
 - **áno** — made locally · see Commons · generated locally
 - **ďakujem** — made locally · see Commons · generated locally
+
+## so
+- **biyo** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **cunto** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **fadlan** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **haa** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **immisa** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **jacayl** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **kow** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **laba** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **mahadsanid** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **maya** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **musqul** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **nabadgelyo** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **raali ahow** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **saaxiib** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **saddex** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
+- **salaan** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
 
 ## sq
 - **banjo** — made locally · see Commons · generated locally

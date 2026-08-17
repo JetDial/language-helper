@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Speak every word, into the same audio/ folder the site reads.
 
-Two free engines, both running entirely on your own machine with no account, no
-key and nothing sent anywhere:
+Four engines. Three run entirely on your own machine with no account, no key
+and nothing sent anywhere:
 
-  eSpeak NG  (default)  pip install espeakng-loader
+  eSpeak NG  --engine espeak, pip install espeakng-loader
       Tiny and covers every language on this site, Japanese included. It sounds
       robotic — it builds speech out of formants rather than recorded human
       sound — but it says the right sounds, which is what you need when you are
@@ -14,10 +14,24 @@ key and nothing sent anywhere:
       A neural engine that sounds close to a real person, for 47 of the
       languages here. Not Japanese. Downloads a 40-70 MB voice per language.
 
+  Coqui      --engine coqui, pip install coqui-tts
+      The best-sounding fully offline engine. Heaviest to install (pulls in
+      PyTorch); see tools/coqui_engine.py.
+
+The fourth is not offline — it is a free online service, not a download:
+
+  edge-tts   --engine edge, pip install edge-tts
+      Microsoft Edge's own online neural voices: the most natural-sounding of
+      the four, and the only one that covers Mongolian, Somali,
+      Tagalog/Filipino and Zulu. No account, no key, but each word is a
+      network call while this tool runs — the clip it saves then plays back
+      offline from audio/ forever after, same as the other three.
+
     python tools/make-voices.py --check           # what each engine can do
     python tools/make-voices.py ja ko ru          # a few languages
     python tools/make-voices.py --all             # every language at once
     python tools/make-voices.py es --engine piper
+    python tools/make-voices.py yo ha --engine edge
 
 This fills the same audio/ folder as get-recordings.py, so the two work
 together: recordings of real people are kept and never overwritten, and the
@@ -53,6 +67,7 @@ _spec.loader.exec_module(getrec)
 sys.path.insert(0, HERE)
 import espeak_engine                                     # noqa: E402
 import coqui_engine                                      # noqa: E402
+import edge_engine                                       # noqa: E402
 
 # One good default voice per language. Any other name from --voices works too.
 DEFAULT_VOICE = {
@@ -143,6 +158,11 @@ def check(args):
         best = sorted(set(coqui_engine.XTTS_LANGS) & set(words))
         print('Coqui can speak %d of the %d languages here.' % (len(can), len(words)))
         print('Its best model, XTTS, covers %d of them: %s\n' % (len(best), ' '.join(best)))
+    elif args.engine == 'edge':
+        can = sorted(l for l in words if edge_engine.voice_for(l))
+        cannot = sorted(set(words) - set(can))
+        print('edge-tts can speak %d of the %d languages here (checked online).\n'
+              % (len(can), len(words)))
     else:
         engine = espeak_engine.Espeak(rate=args.rate)
         can, cannot = [], []
@@ -268,13 +288,60 @@ def run_espeak(args, words, targets):
     return 0
 
 
+def run_edge(args, words, targets):
+    engine = edge_engine.Edge()
+    index_path, index, credits = open_index()
+
+    for lang in targets:
+        if lang not in words:
+            print('%s: not a language here' % lang)
+            continue
+        voice = engine.set_language(lang)
+        if not voice:
+            print('\n%s - edge-tts has no voice for this one, skipping' % lang)
+            continue
+
+        print('\n%s - Edge voice "%s"' % (lang, voice))
+        folder = os.path.join(AUDIO, lang)
+        os.makedirs(folder, exist_ok=True)
+        index.setdefault(lang, {})
+        made = kept = 0
+
+        for written, _roman in words[lang]:
+            if index[lang].get(written) and not args.replace:
+                kept += 1
+                continue
+            name = getrec.safe_name(written, '.mp3')
+            ok, info = engine.say(written, os.path.join(folder, name))
+            if not ok:
+                print('  FAIL %-24s %s' % (written[:24], info))
+                continue
+            index[lang][written] = name
+            credits.setdefault(lang, {})[name] = {
+                'word': written, 'file': 'made by edge-tts (Microsoft Edge, online)',
+                'author': 'Edge voice "%s"' % voice,
+                'licence': 'generated locally',
+            }
+            made += 1
+
+        getrec.save_all(index_path, index, credits)
+        print('  %d spoken, %d already had audio, %d of %d words covered'
+              % (made, kept, len(index[lang]), len(words[lang])))
+
+    total = sum(len(v) for k, v in index.items() if not k.startswith('_'))
+    print('\nDone. %d clips in audio/. Reload the site.' % total)
+    return 0
+
+
 def main():
     ap = argparse.ArgumentParser(description=__doc__,
                                  formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('languages', nargs='*', help='language codes, e.g. es ru de')
-    ap.add_argument('--engine', choices=['coqui', 'espeak', 'piper'], default='coqui',
-                    help='coqui sounds best and covers the most; espeak is tiny and '
-                         'instant; piper is in between (default: coqui)')
+    ap.add_argument('--engine', choices=['coqui', 'espeak', 'piper', 'edge'], default='coqui',
+                    help='coqui sounds best offline and covers the most; espeak is '
+                         'tiny and instant; piper is in between; edge sounds the most '
+                         'natural of all but needs the internet while it runs '
+                         '(default: coqui)')
     ap.add_argument('--accept-licence', '--accept-license', action='store_true',
                     dest='accept_licence',
                     help='accept the Coqui Public Model License for XTTS, which '
@@ -308,6 +375,9 @@ def main():
     if args.engine == 'piper' and not have_piper():
         print('Piper is not installed. Run:\n\n    pip install piper-tts\n')
         return 1
+    if args.engine == 'edge' and not edge_engine.available():
+        print('edge-tts is not installed. Run:\n\n    pip install edge-tts\n')
+        return 1
 
     if args.check:
         return check(args)
@@ -326,6 +396,8 @@ def main():
             targets = sorted(set(espeak_engine.LANG_CANDIDATES) & set(words))
         elif args.engine == 'coqui':
             targets = sorted(set(coqui_engine.ISO3) & set(words))
+        elif args.engine == 'edge':
+            targets = sorted(l for l in words if edge_engine.voice_for(l))
         else:
             targets = sorted(set(DEFAULT_VOICE) & set(words))
     if not targets:
@@ -336,6 +408,8 @@ def main():
         return run_espeak(args, words, targets)
     if args.engine == 'coqui':
         return run_coqui(args, words, targets)
+    if args.engine == 'edge':
+        return run_edge(args, words, targets)
 
     os.makedirs(AUDIO, exist_ok=True)
     index_path = os.path.join(AUDIO, 'index.json')

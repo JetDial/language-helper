@@ -101,7 +101,7 @@ accents, Devanagari conjuncts and the dropped final vowel, and Arabic roots.
 
 ## Sound
 
-There are three ways this site can say a word, best first.
+There are several ways this site can say a word, roughly best first.
 
 ### 1. A recording of a real person
 
@@ -201,7 +201,27 @@ speech pack, use Chrome's built-in Google voice, or try
 Also worth knowing: **RHVoice** installs as a Windows voice, so it turns up in
 the browser by itself — good for Russian, Ukrainian, Georgian and Esperanto.
 
-### 5. A real voice for the language
+### 5. edge-tts, the most natural of all — but not offline
+
+[edge-tts](https://github.com/rany2/edge-tts) is a free, unofficial way to call
+the same online neural voices behind Microsoft Edge's "Read aloud" feature. No
+account, no key, and the most natural-sounding of the four engines — but
+unlike the other three, generating a clip is a network call, not something
+that happens on your own machine. Once a word is generated, it is saved into
+`audio/` and played back offline forever after, same as any other engine here.
+
+```
+pip install edge-tts
+python tools/make-voices.py --check --engine edge   # what it can speak
+python tools/make-voices.py --all --engine edge      # every language it covers
+```
+
+It covers **49 of the 53 languages here**, including Mongolian, Somali,
+Tagalog/Filipino and Zulu — four of the six eSpeak and Piper cannot speak at
+all. It has no voice for Hausa, Yoruba or Esperanto either, so those three
+stay silent under every engine unless a human recording exists.
+
+### 6. A real voice for the language
 
 **A web page can only use voices the computer already has.** This is the one
 part the site genuinely cannot do for itself: there is no way to synthesise a
@@ -220,7 +240,7 @@ Free, and it takes a minute:
 * **Chrome** — ships Google voices for dozens of languages with nothing to
   install. If a language looks missing, try the page in Chrome first.
 
-### 6. Sounding it out
+### 7. Sounding it out
 
 When there is no recording and no voice for the language, the app does **not** read the respelling on the screen out
 loud — that spelling was written for your eyes, and an English voice handed
@@ -259,8 +279,9 @@ js/mywords.js        your own spellings and meanings
 js/recordings.js     real human clips from the audio/ folder
 js/speech.js         speaking, and the fallback voice
 tools/get-recordings.py  downloads human recordings from Wikimedia Commons
-tools/make-voices.py     speaks every word with eSpeak NG or Piper
+tools/make-voices.py     speaks every word with eSpeak NG, Piper, Coqui or edge-tts
 tools/espeak_engine.py   drives the eSpeak NG library directly
 tools/coqui_engine.py    picks and drives Coqui's models
+tools/edge_engine.py     picks and drives Microsoft Edge's online voices
 js/app.js            the interface
 ```

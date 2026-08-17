@@ -3,6 +3,7 @@ Thumbs.db
 *.log
 node_modules/
 my-spellings.json
+__pycache__/
 
 # Piper's voice model cache — recreate with tools/make-voices.py --engine piper.
 # These are just inputs for generating audio/, not needed to serve the site,

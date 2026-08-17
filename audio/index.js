@@ -585,6 +585,23 @@ window.RECORDINGS = {
   "행복해요": "행복해요.wav",
   "화장실": "화장실.wav"
  },
+ "mn": {
+  "баярлалаа": "баярлалаа.mp3",
+  "баяртай": "баяртай.mp3",
+  "гуйя": "гуйя.mp3",
+  "гурав": "гурав.mp3",
+  "найз": "найз.mp3",
+  "нэг": "нэг.mp3",
+  "сайн байна уу": "сайн_байна_уу.mp3",
+  "тийм": "тийм.mp3",
+  "ус": "ус.mp3",
+  "уучлаарай": "уучлаарай.mp3",
+  "хайр": "хайр.mp3",
+  "хоол": "хоол.mp3",
+  "хоёр": "хоёр.mp3",
+  "хэд": "хэд.mp3",
+  "үгүй": "үгүй.mp3"
+ },
  "mr": {
   "एक": "एक.wav",
   "किती": "क_त.wav",
@@ -759,6 +776,24 @@ window.RECORDINGS = {
   "záchod": "záchod.wav",
   "áno": "áno.wav",
   "ďakujem": "ďakujem.wav"
+ },
+ "so": {
+  "biyo": "biyo.mp3",
+  "cunto": "cunto.mp3",
+  "fadlan": "fadlan.mp3",
+  "haa": "haa.mp3",
+  "immisa": "immisa.mp3",
+  "jacayl": "jacayl.mp3",
+  "kow": "kow.mp3",
+  "laba": "laba.mp3",
+  "mahadsanid": "mahadsanid.mp3",
+  "maya": "maya.mp3",
+  "musqul": "musqul.mp3",
+  "nabadgelyo": "nabadgelyo.mp3",
+  "raali ahow": "raali_ahow.mp3",
+  "saaxiib": "saaxiib.mp3",
+  "saddex": "saddex.mp3",
+  "salaan": "salaan.mp3"
  },
  "sq": {
   "banjo": "banjo.wav",
@@ -1557,6 +1592,23 @@ window.RECORDINGS_SOURCE = {
   "행복해요": "made",
   "화장실": "made"
  },
+ "mn": {
+  "баярлалаа": "made",
+  "баяртай": "made",
+  "гуйя": "made",
+  "гурав": "made",
+  "найз": "made",
+  "нэг": "made",
+  "сайн байна уу": "made",
+  "тийм": "made",
+  "ус": "made",
+  "уучлаарай": "made",
+  "хайр": "made",
+  "хоол": "made",
+  "хоёр": "made",
+  "хэд": "made",
+  "үгүй": "made"
+ },
  "mr": {
   "एक": "made",
   "किती": "made",
@@ -1731,6 +1783,24 @@ window.RECORDINGS_SOURCE = {
   "záchod": "made",
   "áno": "made",
   "ďakujem": "made"
+ },
+ "so": {
+  "biyo": "made",
+  "cunto": "made",
+  "fadlan": "made",
+  "haa": "made",
+  "immisa": "made",
+  "jacayl": "made",
+  "kow": "made",
+  "laba": "made",
+  "mahadsanid": "made",
+  "maya": "made",
+  "musqul": "made",
+  "nabadgelyo": "made",
+  "raali ahow": "made",
+  "saaxiib": "made",
+  "saddex": "made",
+  "salaan": "made"
  },
  "sq": {
   "banjo": "made",
