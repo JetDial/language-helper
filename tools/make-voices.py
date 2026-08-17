@@ -72,25 +72,25 @@ import edge_engine                                       # noqa: E402
 # One good default voice per language. Any other name from --voices works too.
 DEFAULT_VOICE = {
     'ar': 'ar_JO-kareem-medium', 'bg': 'bg_BG-dimitar-medium',
-    'bn': 'bn_BD-multi-medium', 'ca': 'ca_ES-upc_ona-medium',
+    'bn': 'bn_BD-google-medium', 'ca': 'ca_ES-upc_ona-medium',
     'cs': 'cs_CZ-jirka-medium', 'da': 'da_DK-talesyntese-medium',
     'de': 'de_DE-thorsten-medium', 'el': 'el_GR-rapunzelina-low',
     'en': 'en_US-lessac-medium', 'es': 'es_ES-davefx-medium',
     'fa': 'fa_IR-amir-medium', 'fi': 'fi_FI-harri-medium',
     'fr': 'fr_FR-siwis-medium', 'he': 'he_IL-saspeech-medium',
     'hi': 'hi_IN-pratham-medium', 'hu': 'hu_HU-anna-medium',
-    'hy': 'hy_AM-hyvox-medium', 'id': 'id_ID-yudhistira-medium',
+    'hy': 'hy_AM-gor-medium', 'id': 'id_ID-news_tts-medium',
     'is': 'is_IS-salka-medium', 'it': 'it_IT-paola-medium',
     'ka': 'ka_GE-natia-medium', 'ko': 'ko_KR-kss-medium',
-    'ml': 'ml_IN-arjun-medium', 'mr': 'mr_IN-priyamvada-medium',
+    'ml': 'ml_IN-arjun-medium', 'mr': 'mr_IN-google-medium',
     'ne': 'ne_NP-chitwan-medium', 'nl': 'nl_NL-mls-medium',
     'no': 'no_NO-talesyntese-medium', 'pl': 'pl_PL-gosia-medium',
     'pt': 'pt_BR-faber-medium', 'ro': 'ro_RO-mihai-medium',
     'ru': 'ru_RU-irina-medium', 'sk': 'sk_SK-lili-medium',
-    'sl': 'sl_SI-artur-medium', 'sq': 'sq_AL-vocalstudio-medium',
+    'sl': 'sl_SI-artur-medium', 'sq': 'sq_AL-edon-medium',
     'sr': 'sr_RS-serbski_institut-medium', 'sv': 'sv_SE-nst-medium',
     'sw': 'sw_CD-lanfrica-medium', 'tr': 'tr_TR-dfki-medium',
-    'uk': 'uk_UA-tetiana-high', 'ur': 'ur_PK-multi-medium',
+    'uk': 'uk_UA-tetiana-high', 'ur': 'ur_PK-fasih-medium',
     'vi': 'vi_VN-vais1000-medium', 'zh': 'zh_CN-huayan-medium',
 }
 
@@ -143,6 +143,20 @@ def open_index():
     credits = index.pop('_credits', {})
     index.pop('_source', None)
     return index_path, index, credits
+
+
+def is_human(credits, lang, index, written):
+    """True if the clip already on file for this word is a real recording.
+
+    --replace exists to let a better *synthetic* engine redo a worse one's
+    work, never to paint over an actual person -- so this is checked before
+    any engine is allowed to overwrite something that is already there.
+    """
+    name = index.get(lang, {}).get(written)
+    if not name:
+        return False
+    c = credits.get(lang, {}).get(name)
+    return bool(c) and c.get('licence') != 'generated locally'
 
 
 def check(args):
@@ -211,7 +225,7 @@ def run_coqui(args, words, targets):
         made = kept = 0
 
         for written, _roman in words[lang]:
-            if index[lang].get(written) and not args.replace:
+            if index[lang].get(written) and (is_human(credits, lang, index, written) or not args.replace):
                 kept += 1
                 continue
             name = getrec.safe_name(written, '.wav')
@@ -263,7 +277,7 @@ def run_espeak(args, words, targets):
         for written, _roman in words[lang]:
             # Anything already there is either a recording of a person or a
             # better engine's work, so leave it alone unless asked not to.
-            if index[lang].get(written) and not args.replace:
+            if index[lang].get(written) and (is_human(credits, lang, index, written) or not args.replace):
                 kept += 1
                 continue
             name = getrec.safe_name(written, '.wav')
@@ -308,7 +322,7 @@ def run_edge(args, words, targets):
         made = kept = 0
 
         for written, _roman in words[lang]:
-            if index[lang].get(written) and not args.replace:
+            if index[lang].get(written) and (is_human(credits, lang, index, written) or not args.replace):
                 kept += 1
                 continue
             name = getrec.safe_name(written, '.mp3')
@@ -411,14 +425,7 @@ def main():
     if args.engine == 'edge':
         return run_edge(args, words, targets)
 
-    os.makedirs(AUDIO, exist_ok=True)
-    index_path = os.path.join(AUDIO, 'index.json')
-    index = {}
-    if os.path.exists(index_path):
-        with open(index_path, encoding='utf-8') as fh:
-            index = json.load(fh)
-    credits = index.pop('_credits', {})
-    index.pop('_source', None)
+    index_path, index, credits = open_index()
 
     for lang in targets:
         if lang not in words:
@@ -441,7 +448,7 @@ def main():
         made = 0
 
         for written, _roman in words[lang]:
-            if written in index[lang] and not args.replace:
+            if written in index[lang] and (is_human(credits, lang, index, written) or not args.replace):
                 continue                       # a real recording beats a synthetic one
             name = getrec.safe_name(written, '.wav')
             ok, err = say(model, written, os.path.join(folder, name))

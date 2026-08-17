@@ -6,241 +6,228 @@ record their own language word by word. Each file keeps the licence it
 was published under, listed below with the speaker.
 
 ## af
-- **asseblief** — made locally · see Commons · generated locally
-- **dankie** — made locally · see Commons · generated locally
-- **drie** — made locally · see Commons · generated locally
-- **een** — made locally · see Commons · generated locally
-- **hallo** — made locally · see Commons · generated locally
-- **hoeveel** — made locally · see Commons · generated locally
-- **ja** — made locally · see Commons · generated locally
-- **jammer** — made locally · see Commons · generated locally
-- **kos** — made locally · see Commons · generated locally
-- **liefde** — made locally · see Commons · generated locally
-- **nee** — made locally · see Commons · generated locally
-- **toilet** — made locally · see Commons · generated locally
-- **totsiens** — made locally · see Commons · generated locally
-- **twee** — made locally · see Commons · generated locally
-- **vriend** — made locally · see Commons · generated locally
-- **water** — made locally · see Commons · generated locally
+- **asseblief** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **dankie** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **drie** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **een** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **hallo** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **hoeveel** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **ja** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **jammer** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **kos** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **liefde** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **nee** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **toilet** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **totsiens** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **twee** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **vriend** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
+- **water** — made by edge-tts (Microsoft Edge, online) · Edge voice "af-ZA-AdriNeural" · generated locally
 
 ## am
-- **ሁለት** — made locally · see Commons · generated locally
-- **ምግብ** — made locally · see Commons · generated locally
-- **ሰላም** — made locally · see Commons · generated locally
-- **ስንት** — made locally · see Commons · generated locally
-- **ሶስት** — made locally · see Commons · generated locally
-- **አመሰግናለሁ** — made locally · see Commons · generated locally
-- **አንድ** — made locally · see Commons · generated locally
-- **አዎ** — made locally · see Commons · generated locally
-- **አይደለም** — made locally · see Commons · generated locally
-- **እባክህ** — made locally · see Commons · generated locally
-- **ውሃ** — made locally · see Commons · generated locally
-- **ይቅርታ** — made locally · see Commons · generated locally
-- **ደህና ሁን** — made locally · see Commons · generated locally
-- **ጓደኛ** — made locally · see Commons · generated locally
-- **ፍቅር** — made locally · see Commons · generated locally
+- **ሁለት** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ምግብ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ሰላም** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ስንት** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ሶስት** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **አመሰግናለሁ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **አንድ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **አዎ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **አይደለም** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **እባክህ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ውሃ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ይቅርታ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ደህና ሁን** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ጓደኛ** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
+- **ፍቅር** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
 
 ## ar
-- **آسف** — made locally · see Commons · generated locally
-- **أحبك** — made locally · see Commons · generated locally
-- **أربعة** — made locally · see Commons · generated locally
-- **اثنان** — made locally · see Commons · generated locally
-- **اسم** — made locally · see Commons · generated locally
-- **السلام عليكم** — made locally · see Commons · generated locally
-- **بيت** — made locally · see Commons · generated locally
-- **ثلاثة** — made locally · see Commons · generated locally
-- **جميل** — made locally · see Commons · generated locally
-- **حمام** — made locally · see Commons · generated locally
-- **خبز** — made locally · see Commons · generated locally
-- **خمسة** — made locally · see Commons · generated locally
-- **شاي** — made locally · see Commons · generated locally
-- **شكرا** — made locally · see Commons · generated locally
-- **صباح الخير** — made locally · see Commons · generated locally
-- **صديق** — made locally · see Commons · generated locally
-- **قطة** — made locally · see Commons · generated locally
-- **كم الثمن** — made locally · see Commons · generated locally
-- **لا** — made locally · see Commons · generated locally
-- **لا أفهم** — made locally · see Commons · generated locally
-- **لذيذ** — made locally · see Commons · generated locally
-- **مدرسة** — made locally · see Commons · generated locally
-- **مرحبا** — made locally · see Commons · generated locally
-- **مصر** — made locally · see Commons · generated locally
-- **مع السلامة** — made locally · see Commons · generated locally
-- **معلم** — made locally · see Commons · generated locally
-- **من فضلك** — made locally · see Commons · generated locally
-- **نعم** — made locally · see Commons · generated locally
-- **واحد** — made locally · see Commons · generated locally
+- **آسف** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **أحبك** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **أربعة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **اثنان** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **اسم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **السلام عليكم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **بيت** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ثلاثة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **جميل** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **حمام** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **خبز** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **خمسة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **شاي** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **شكرا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **صباح الخير** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **صديق** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **قطة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **كم الثمن** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **لا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **لا أفهم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **لذيذ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **مدرسة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **مرحبا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **مصر** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **مع السلامة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **معلم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **من فضلك** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **نعم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **واحد** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 
 ## bg
-- **благодаря** — made locally · see Commons · generated locally
-- **вода** — made locally · see Commons · generated locally
-- **да** — made locally · see Commons · generated locally
-- **две** — made locally · see Commons · generated locally
-- **довиждане** — made locally · see Commons · generated locally
-- **едно** — made locally · see Commons · generated locally
-- **здравей** — made locally · see Commons · generated locally
-- **извинете** — made locally · see Commons · generated locally
-- **колко** — made locally · see Commons · generated locally
-- **любов** — made locally · see Commons · generated locally
-- **моля** — made locally · see Commons · generated locally
-- **не** — made locally · see Commons · generated locally
-- **приятел** — made locally · see Commons · generated locally
-- **тоалетна** — made locally · see Commons · generated locally
-- **три** — made locally · see Commons · generated locally
-- **храна** — made locally · see Commons · generated locally
+- **благодаря** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **вода** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **да** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **две** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **довиждане** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **едно** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **здравей** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **извинете** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **колко** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **любов** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **моля** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **не** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **приятел** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **тоалетна** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **три** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
+- **храна** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
 
 ## bn
-- **এক** — made locally · see Commons · generated locally
-- **কত** — made locally · see Commons · generated locally
-- **খাবার** — made locally · see Commons · generated locally
-- **জল** — made locally · see Commons · generated locally
-- **তিন** — made locally · see Commons · generated locally
-- **দুই** — made locally · see Commons · generated locally
-- **দুঃখিত** — made locally · see Commons · generated locally
-- **দয়া করে** — made locally · see Commons · generated locally
-- **ধন্যবাদ** — made locally · see Commons · generated locally
-- **না** — made locally · see Commons · generated locally
-- **নমস্কার** — made locally · see Commons · generated locally
-- **বাথরুম** — made locally · see Commons · generated locally
-- **বিদায়** — made locally · see Commons · generated locally
-- **বন্ধু** — made locally · see Commons · generated locally
-- **ভালোবাসা** — made locally · see Commons · generated locally
-- **হ্যাঁ** — made locally · see Commons · generated locally
+- **এক** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **কত** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **খাবার** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **জল** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **তিন** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **দুই** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **দুঃখিত** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **দয়া করে** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **ধন্যবাদ** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **না** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **নমস্কার** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **বাথরুম** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **বিদায়** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **বন্ধু** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **ভালোবাসা** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
+- **হ্যাঁ** — made by edge-tts (Microsoft Edge, online) · Edge voice "bn-BD-NabanitaNeural" · generated locally
 
 ## ca
-- **adéu** — made locally · see Commons · generated locally
-- **aigua** — made locally · see Commons · generated locally
-- **amic** — made locally · see Commons · generated locally
-- **amor** — made locally · see Commons · generated locally
-- **dos** — made locally · see Commons · generated locally
-- **gràcies** — made locally · see Commons · generated locally
-- **hola** — made locally · see Commons · generated locally
-- **lavabo** — made locally · see Commons · generated locally
-- **menjar** — made locally · see Commons · generated locally
-- **no** — made locally · see Commons · generated locally
-- **perdó** — made locally · see Commons · generated locally
-- **quant** — made locally · see Commons · generated locally
-- **si us plau** — made locally · see Commons · generated locally
-- **sí** — made locally · see Commons · generated locally
-- **tres** — made locally · see Commons · generated locally
-- **un** — made locally · see Commons · generated locally
+- **adéu** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **aigua** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **amic** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **amor** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **dos** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **gràcies** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **hola** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **lavabo** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **menjar** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **no** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **perdó** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **quant** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **si us plau** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **sí** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **tres** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
+- **un** — made by edge-tts (Microsoft Edge, online) · Edge voice "ca-ES-EnricNeural" · generated locally
 
 ## cs
-- **ahoj** — made locally · see Commons · generated locally
-- **ano** — made locally · see Commons · generated locally
-- **dva** — made locally · see Commons · generated locally
-- **děkuji** — made locally · see Commons · generated locally
-- **jeden** — made locally · see Commons · generated locally
-- **jídlo** — made locally · see Commons · generated locally
-- **kolik** — made locally · see Commons · generated locally
-- **láska** — made locally · see Commons · generated locally
-- **na shledanou** — made locally · see Commons · generated locally
-- **ne** — made locally · see Commons · generated locally
-- **promiňte** — made locally · see Commons · generated locally
-- **prosím** — made locally · see Commons · generated locally
-- **přítel** — made locally · see Commons · generated locally
-- **tři** — made locally · see Commons · generated locally
-- **voda** — made locally · see Commons · generated locally
-- **záchod** — made locally · see Commons · generated locally
+- **ahoj** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **ano** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **dva** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **děkuji** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **jeden** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **jídlo** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **kolik** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **láska** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **na shledanou** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **ne** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **promiňte** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **prosím** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **přítel** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **tři** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **voda** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
+- **záchod** — made by edge-tts (Microsoft Edge, online) · Edge voice "cs-CZ-AntoninNeural" · generated locally
 
 ## da
-- **en** — made locally · see Commons · generated locally
-- **farvel** — made locally · see Commons · generated locally
-- **hej** — made locally · see Commons · generated locally
-- **hvor meget** — made locally · see Commons · generated locally
-- **ja** — made locally · see Commons · generated locally
-- **kærlighed** — made locally · see Commons · generated locally
-- **mad** — made locally · see Commons · generated locally
-- **nej** — made locally · see Commons · generated locally
-- **tak** — made locally · see Commons · generated locally
-- **to** — made locally · see Commons · generated locally
-- **toilet** — made locally · see Commons · generated locally
-- **tre** — made locally · see Commons · generated locally
-- **undskyld** — made locally · see Commons · generated locally
-- **vand** — made locally · see Commons · generated locally
-- **ven** — made locally · see Commons · generated locally
-- **vær så god** — made locally · see Commons · generated locally
+- **en** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **farvel** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **hej** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **hvor meget** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **ja** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **kærlighed** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **mad** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **nej** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **tak** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **to** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **toilet** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **tre** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **undskyld** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **vand** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **ven** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
+- **vær så god** — made by edge-tts (Microsoft Edge, online) · Edge voice "da-DK-ChristelNeural" · generated locally
 
 ## de
 - **Essen** — De-at-Essen.ogg · Alexandra Poelzlbauers, Vion Nicolas · CC BY 2.0 fr
-- **Essen** — made locally · see Commons · generated locally
 - **Freund** — De-at-Freund.ogg · Alexandra Poelzlbauers, Vion Nicolas · CC BY 2.0 fr
-- **Freund** — made locally · see Commons · generated locally
 - **Liebe** — De-Liebe.ogg · Pill · CC BY-SA 3.0
-- **Liebe** — made locally · see Commons · generated locally
 - **Toilette** — De-at-Toilette.ogg · Alexandra Poelzlbauers, Vion Nicolas · CC BY 2.0 fr
-- **Toilette** — made locally · see Commons · generated locally
 - **Wasser** — De-Wasser.ogg · Tosca · CC BY-SA 3.0
-- **Wasser** — made locally · see Commons · generated locally
 - **bitte** — De-bitte.ogg · Bleibein · CC BY-SA 3.0
-- **bitte** — made locally · see Commons · generated locally
 - **danke** — De-danke.ogg · Jeuwre · CC BY-SA 4.0
-- **danke** — made locally · see Commons · generated locally
-- **drei** — made locally · see Commons · generated locally
+- **drei** — made by edge-tts (Microsoft Edge, online) · Edge voice "de-AT-IngridNeural" · generated locally
 - **eins** — De-eins.ogg · see Commons · CC BY-SA 3.0
-- **eins** — made locally · see Commons · generated locally
-- **entschuldigung** — made locally · see Commons · generated locally
+- **entschuldigung** — made by edge-tts (Microsoft Edge, online) · Edge voice "de-AT-IngridNeural" · generated locally
 - **hallo** — De-hallo.ogg · Jeuwre · CC BY-SA 4.0
-- **hallo** — made locally · see Commons · generated locally
 - **ja** — De-ja.ogg · MiER · CC BY-SA 3.0
-- **ja** — made locally · see Commons · generated locally
-- **nein** — made locally · see Commons · generated locally
+- **nein** — made by edge-tts (Microsoft Edge, online) · Edge voice "de-AT-IngridNeural" · generated locally
 - **tschüss** — De-tschüss.ogg · Jeuwre · CC BY-SA 4.0
-- **tschüss** — made locally · see Commons · generated locally
 - **wie viel** — De-wie viel.oga · Timwi at English Wikipedia · Public domain
-- **wie viel** — made locally · see Commons · generated locally
 - **zwei** — De-zwei.ogg · joni · CC BY-SA 3.0
-- **zwei** — made locally · see Commons · generated locally
 
 ## el
-- **Ελλάδα** — made locally · see Commons · generated locally
-- **ένα** — made locally · see Commons · generated locally
-- **αντίο** — made locally · see Commons · generated locally
-- **γάτα** — made locally · see Commons · generated locally
-- **γεια σου** — made locally · see Commons · generated locally
-- **δάσκαλος** — made locally · see Commons · generated locally
-- **δεν καταλαβαίνω** — made locally · see Commons · generated locally
-- **δύο** — made locally · see Commons · generated locally
-- **ευχαριστώ** — made locally · see Commons · generated locally
-- **καλημέρα** — made locally · see Commons · generated locally
-- **καλησπέρα** — made locally · see Commons · generated locally
-- **καφές** — made locally · see Commons · generated locally
-- **ναι** — made locally · see Commons · generated locally
-- **νερό** — made locally · see Commons · generated locally
-- **νόστιμο** — made locally · see Commons · generated locally
-- **πέντε** — made locally · see Commons · generated locally
-- **παρακαλώ** — made locally · see Commons · generated locally
-- **πόσο κάνει** — made locally · see Commons · generated locally
-- **σκύλος** — made locally · see Commons · generated locally
-- **σπίτι** — made locally · see Commons · generated locally
-- **συγγνώμη** — made locally · see Commons · generated locally
-- **σχολείο** — made locally · see Commons · generated locally
-- **τέσσερα** — made locally · see Commons · generated locally
-- **τουαλέτα** — made locally · see Commons · generated locally
-- **τρία** — made locally · see Commons · generated locally
-- **φίλος** — made locally · see Commons · generated locally
-- **ψωμί** — made locally · see Commons · generated locally
-- **ωραία** — made locally · see Commons · generated locally
-- **όνομα** — made locally · see Commons · generated locally
-- **όχι** — made locally · see Commons · generated locally
+- **Ελλάδα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ένα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **αντίο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **γάτα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **γεια σου** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **δάσκαλος** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **δεν καταλαβαίνω** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **δύο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ευχαριστώ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **καλημέρα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **καλησπέρα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **καφές** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ναι** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **νερό** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **νόστιμο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **πέντε** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **παρακαλώ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **πόσο κάνει** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **σκύλος** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **σπίτι** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **συγγνώμη** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **σχολείο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **τέσσερα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **τουαλέτα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **τρία** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **φίλος** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ψωμί** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ωραία** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **όνομα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **όχι** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 
 ## en
-- **food** — made locally · see Commons · generated locally
-- **friend** — made locally · see Commons · generated locally
-- **goodbye** — made locally · see Commons · generated locally
-- **hello** — made locally · see Commons · generated locally
-- **how much** — made locally · see Commons · generated locally
-- **love** — made locally · see Commons · generated locally
-- **no** — made locally · see Commons · generated locally
-- **one** — made locally · see Commons · generated locally
-- **please** — made locally · see Commons · generated locally
-- **sorry** — made locally · see Commons · generated locally
-- **thank you** — made locally · see Commons · generated locally
-- **three** — made locally · see Commons · generated locally
-- **toilet** — made locally · see Commons · generated locally
-- **two** — made locally · see Commons · generated locally
-- **water** — made locally · see Commons · generated locally
-- **yes** — made locally · see Commons · generated locally
+- **food** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **friend** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **goodbye** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **hello** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **how much** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **love** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **no** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **one** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **please** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **sorry** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **thank you** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **three** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **toilet** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **two** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **water** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
+- **yes** — made by edge-tts (Microsoft Edge, online) · Edge voice "en-AU-WilliamMultilingualNeural" · generated locally
 
 ## eo
 - **akvo** — made locally · see Commons · generated locally
@@ -261,347 +248,365 @@ was published under, listed below with the speaker.
 - **ĝis revido** — made locally · see Commons · generated locally
 
 ## es
-- **España** — made locally · see Commons · generated locally
-- **adiós** — made locally · see Commons · generated locally
-- **agua** — made locally · see Commons · generated locally
-- **amigo** — made locally · see Commons · generated locally
-- **baño** — made locally · see Commons · generated locally
-- **buenos días** — made locally · see Commons · generated locally
-- **café** — made locally · see Commons · generated locally
-- **casa** — made locally · see Commons · generated locally
-- **cinco** — made locally · see Commons · generated locally
-- **cuatro** — made locally · see Commons · generated locally
-- **cuánto cuesta** — made locally · see Commons · generated locally
-- **delicioso** — made locally · see Commons · generated locally
-- **dos** — made locally · see Commons · generated locally
-- **escuela** — made locally · see Commons · generated locally
-- **feliz** — made locally · see Commons · generated locally
-- **gracias** — made locally · see Commons · generated locally
-- **hola** — made locally · see Commons · generated locally
-- **lo siento** — made locally · see Commons · generated locally
-- **maestro** — made locally · see Commons · generated locally
-- **no** — made locally · see Commons · generated locally
-- **no entiendo** — made locally · see Commons · generated locally
-- **nombre** — made locally · see Commons · generated locally
-- **pan** — made locally · see Commons · generated locally
-- **perro** — made locally · see Commons · generated locally
-- **por favor** — made locally · see Commons · generated locally
-- **sí** — made locally · see Commons · generated locally
-- **te quiero** — made locally · see Commons · generated locally
-- **tres** — made locally · see Commons · generated locally
-- **uno** — made locally · see Commons · generated locally
+- **España** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **adiós** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **agua** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **amigo** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **baño** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **buenos días** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **café** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **casa** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **cinco** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **cuatro** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **cuánto cuesta** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **delicioso** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **dos** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **escuela** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **feliz** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **gracias** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **hola** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **lo siento** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **maestro** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **no** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **no entiendo** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **nombre** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **pan** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **perro** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **por favor** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **sí** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **te quiero** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **tres** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
+- **uno** — made by edge-tts (Microsoft Edge, online) · Edge voice "es-AR-ElenaNeural" · generated locally
 
 ## fa
-- **آب** — made locally · see Commons · generated locally
-- **ببخشید** — made locally · see Commons · generated locally
-- **بله** — made locally · see Commons · generated locally
-- **خداحافظ** — made locally · see Commons · generated locally
-- **دستشویی** — made locally · see Commons · generated locally
-- **دو** — made locally · see Commons · generated locally
-- **دوست** — made locally · see Commons · generated locally
-- **سلام** — made locally · see Commons · generated locally
-- **سه** — made locally · see Commons · generated locally
-- **عشق** — made locally · see Commons · generated locally
-- **غذا** — made locally · see Commons · generated locally
-- **لطفا** — made locally · see Commons · generated locally
-- **ممنون** — made locally · see Commons · generated locally
-- **نه** — made locally · see Commons · generated locally
-- **چند** — made locally · see Commons · generated locally
-- **یک** — made locally · see Commons · generated locally
+- **آب** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **ببخشید** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **بله** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **خداحافظ** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **دستشویی** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **دو** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **دوست** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **سلام** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **سه** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **عشق** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **غذا** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **لطفا** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **ممنون** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **نه** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **چند** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
+- **یک** — made by edge-tts (Microsoft Edge, online) · Edge voice "fa-IR-DilaraNeural" · generated locally
 
 ## fi
-- **anteeksi** — made locally · see Commons · generated locally
-- **ei** — made locally · see Commons · generated locally
-- **hei** — made locally · see Commons · generated locally
-- **kaksi** — made locally · see Commons · generated locally
-- **kiitos** — made locally · see Commons · generated locally
-- **kolme** — made locally · see Commons · generated locally
-- **kyllä** — made locally · see Commons · generated locally
-- **näkemiin** — made locally · see Commons · generated locally
-- **ole hyvä** — made locally · see Commons · generated locally
-- **paljonko** — made locally · see Commons · generated locally
-- **rakkaus** — made locally · see Commons · generated locally
-- **ruoka** — made locally · see Commons · generated locally
-- **vesi** — made locally · see Commons · generated locally
-- **vessa** — made locally · see Commons · generated locally
-- **yksi** — made locally · see Commons · generated locally
-- **ystävä** — made locally · see Commons · generated locally
+- **anteeksi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **ei** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **hei** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **kaksi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **kiitos** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **kolme** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **kyllä** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **näkemiin** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **ole hyvä** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **paljonko** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **rakkaus** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **ruoka** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **vesi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **vessa** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **yksi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
+- **ystävä** — made by edge-tts (Microsoft Edge, online) · Edge voice "fi-FI-HarriNeural" · generated locally
 
 ## fr
-- **France** — made locally · see Commons · generated locally
-- **ami** — made locally · see Commons · generated locally
-- **au revoir** — made locally · see Commons · generated locally
-- **bonjour** — made locally · see Commons · generated locally
-- **bonsoir** — made locally · see Commons · generated locally
-- **café** — made locally · see Commons · generated locally
-- **chat** — made locally · see Commons · generated locally
-- **chien** — made locally · see Commons · generated locally
-- **cinq** — made locally · see Commons · generated locally
-- **combien** — made locally · see Commons · generated locally
-- **deux** — made locally · see Commons · generated locally
-- **délicieux** — made locally · see Commons · generated locally
-- **eau** — made locally · see Commons · generated locally
-- **heureux** — made locally · see Commons · generated locally
-- **ja** — made locally · see Commons · generated locally
-- **je ne comprends pas** — made locally · see Commons · generated locally
-- **maison** — made locally · see Commons · generated locally
-- **merci** — made locally · see Commons · generated locally
-- **nom** — made locally · see Commons · generated locally
-- **non** — made locally · see Commons · generated locally
-- **oui** — made locally · see Commons · generated locally
-- **pain** — made locally · see Commons · generated locally
-- **pardon** — made locally · see Commons · generated locally
-- **professeur** — made locally · see Commons · generated locally
-- **quatre** — made locally · see Commons · generated locally
-- **toilettes** — made locally · see Commons · generated locally
-- **trois** — made locally · see Commons · generated locally
-- **un** — made locally · see Commons · generated locally
-- **école** — made locally · see Commons · generated locally
+- **France** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **ami** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **au revoir** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **bonjour** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **bonsoir** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **café** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **chat** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **chien** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **cinq** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **combien** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **deux** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **délicieux** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **eau** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **heureux** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **ja** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **je ne comprends pas** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **maison** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **merci** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **nom** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **non** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **oui** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **pain** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **pardon** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **professeur** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **quatre** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **toilettes** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **trois** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **un** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+- **école** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-BE-CharlineNeural" · generated locally
+
+## ha
+- **a'a** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **abinci** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **aboki** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **bayan gida** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **biyu** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **don Allah** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **eh** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **na gode** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **nawa** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **ruwa** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **sai anjima** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **sannu** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **soyayya** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **uku** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **yi hakuri** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
+- **ɗaya** — made by Coqui TTS · tts_models/hau/openbible/vits · generated locally
 
 ## he
-- **אהבה** — made locally · see Commons · generated locally
-- **אוכל** — made locally · see Commons · generated locally
-- **אחד** — made locally · see Commons · generated locally
-- **בבקשה** — made locally · see Commons · generated locally
-- **חבר** — made locally · see Commons · generated locally
-- **כמה** — made locally · see Commons · generated locally
-- **כן** — made locally · see Commons · generated locally
-- **לא** — made locally · see Commons · generated locally
-- **להתראות** — made locally · see Commons · generated locally
-- **מים** — made locally · see Commons · generated locally
-- **סליחה** — made locally · see Commons · generated locally
-- **שירותים** — made locally · see Commons · generated locally
-- **שלום** — made locally · see Commons · generated locally
-- **שלוש** — made locally · see Commons · generated locally
-- **שתיים** — made locally · see Commons · generated locally
-- **תודה** — made locally · see Commons · generated locally
+- **אהבה** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **אוכל** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **אחד** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **בבקשה** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **חבר** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **כמה** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **כן** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **לא** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **להתראות** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **מים** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **סליחה** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **שירותים** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **שלום** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **שלוש** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **שתיים** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
+- **תודה** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
 
 ## hi
-- **अच्छा** — made locally · see Commons · generated locally
-- **एक** — made locally · see Commons · generated locally
-- **कुत्ता** — made locally · see Commons · generated locally
-- **कितने का है** — made locally · see Commons · generated locally
-- **कृपया** — made locally · see Commons · generated locally
-- **घर** — made locally · see Commons · generated locally
-- **चाय** — made locally · see Commons · generated locally
-- **चार** — made locally · see Commons · generated locally
-- **चावल** — made locally · see Commons · generated locally
-- **तीन** — made locally · see Commons · generated locally
-- **दो** — made locally · see Commons · generated locally
-- **दोस्त** — made locally · see Commons · generated locally
-- **धन्यवाद** — made locally · see Commons · generated locally
-- **नाम** — made locally · see Commons · generated locally
-- **नमस्ते** — made locally · see Commons · generated locally
-- **नहीं** — made locally · see Commons · generated locally
-- **पाँच** — made locally · see Commons · generated locally
-- **पानी** — made locally · see Commons · generated locally
-- **प्यार** — made locally · see Commons · generated locally
-- **फिर मिलेंगे** — made locally · see Commons · generated locally
-- **बिल्ली** — made locally · see Commons · generated locally
-- **भारत** — made locally · see Commons · generated locally
-- **माफ़ कीजिए** — made locally · see Commons · generated locally
-- **शिक्षक** — made locally · see Commons · generated locally
-- **शौचालय** — made locally · see Commons · generated locally
-- **स्कूल** — made locally · see Commons · generated locally
-- **सुप्रभात** — made locally · see Commons · generated locally
-- **स्वादिष्ट** — made locally · see Commons · generated locally
-- **समझ नहीं आया** — made locally · see Commons · generated locally
-- **हाँ** — made locally · see Commons · generated locally
+- **अच्छा** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **एक** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **कुत्ता** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **कितने का है** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **कृपया** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **घर** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **चाय** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **चार** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **चावल** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **तीन** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **दो** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **दोस्त** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **धन्यवाद** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **नाम** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **नमस्ते** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **नहीं** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **पाँच** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **पानी** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **प्यार** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **फिर मिलेंगे** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **बिल्ली** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **भारत** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **माफ़ कीजिए** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **शिक्षक** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **शौचालय** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **स्कूल** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **सुप्रभात** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **स्वादिष्ट** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **समझ नहीं आया** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **हाँ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 
 ## hr
-- **bok** — made locally · see Commons · generated locally
-- **da** — made locally · see Commons · generated locally
-- **doviđenja** — made locally · see Commons · generated locally
-- **dva** — made locally · see Commons · generated locally
-- **hrana** — made locally · see Commons · generated locally
-- **hvala** — made locally · see Commons · generated locally
-- **jedan** — made locally · see Commons · generated locally
-- **koliko** — made locally · see Commons · generated locally
-- **ljubav** — made locally · see Commons · generated locally
-- **molim** — made locally · see Commons · generated locally
-- **ne** — made locally · see Commons · generated locally
-- **oprostite** — made locally · see Commons · generated locally
-- **prijatelj** — made locally · see Commons · generated locally
-- **tri** — made locally · see Commons · generated locally
-- **voda** — made locally · see Commons · generated locally
-- **zahod** — made locally · see Commons · generated locally
+- **bok** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **da** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **doviđenja** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **dva** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **hrana** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **hvala** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **jedan** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **koliko** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **ljubav** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **molim** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **ne** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **oprostite** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **prijatelj** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **tri** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **voda** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
+- **zahod** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
 
 ## ht
-- **bonjou** — made locally · see Commons · generated locally
-- **de** — made locally · see Commons · generated locally
-- **dlo** — made locally · see Commons · generated locally
-- **eskize m** — made locally · see Commons · generated locally
-- **konbyen** — made locally · see Commons · generated locally
-- **lanmou** — made locally · see Commons · generated locally
-- **manje** — made locally · see Commons · generated locally
-- **mèsi** — made locally · see Commons · generated locally
-- **non** — made locally · see Commons · generated locally
-- **orevwa** — made locally · see Commons · generated locally
-- **souple** — made locally · see Commons · generated locally
-- **twa** — made locally · see Commons · generated locally
-- **twalèt** — made locally · see Commons · generated locally
-- **wi** — made locally · see Commons · generated locally
-- **youn** — made locally · see Commons · generated locally
-- **zanmi** — made locally · see Commons · generated locally
+- **bonjou** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **de** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **dlo** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **eskize m** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **konbyen** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **lanmou** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **manje** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **mèsi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **non** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **orevwa** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **souple** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **twa** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **twalèt** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **wi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **youn** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
+- **zanmi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fr-FR-VivienneMultilingualNeural" · generated locally
 
 ## hu
-- **barát** — made locally · see Commons · generated locally
-- **bocsánat** — made locally · see Commons · generated locally
-- **egy** — made locally · see Commons · generated locally
-- **három** — made locally · see Commons · generated locally
-- **igen** — made locally · see Commons · generated locally
-- **kettő** — made locally · see Commons · generated locally
-- **kérem** — made locally · see Commons · generated locally
-- **köszönöm** — made locally · see Commons · generated locally
-- **mennyibe** — made locally · see Commons · generated locally
-- **mosdó** — made locally · see Commons · generated locally
-- **nem** — made locally · see Commons · generated locally
-- **szerelem** — made locally · see Commons · generated locally
-- **szia** — made locally · see Commons · generated locally
-- **viszlát** — made locally · see Commons · generated locally
-- **víz** — made locally · see Commons · generated locally
-- **étel** — made locally · see Commons · generated locally
+- **barát** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **bocsánat** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **egy** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **három** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **igen** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **kettő** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **kérem** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **köszönöm** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **mennyibe** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **mosdó** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **nem** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **szerelem** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **szia** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **viszlát** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **víz** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
+- **étel** — made by edge-tts (Microsoft Edge, online) · Edge voice "hu-HU-NoemiNeural" · generated locally
 
 ## hy
-- **այո** — made locally · see Commons · generated locally
-- **բարև** — made locally · see Commons · generated locally
-- **երեք** — made locally · see Commons · generated locally
-- **երկու** — made locally · see Commons · generated locally
-- **զուգարան** — made locally · see Commons · generated locally
-- **ընկեր** — made locally · see Commons · generated locally
-- **ինչքան** — made locally · see Commons · generated locally
-- **խնդրեմ** — made locally · see Commons · generated locally
-- **մեկ** — made locally · see Commons · generated locally
-- **ներողություն** — made locally · see Commons · generated locally
-- **շնորհակալություն** — made locally · see Commons · generated locally
-- **ոչ** — made locally · see Commons · generated locally
-- **ուտելիք** — made locally · see Commons · generated locally
-- **ջուր** — made locally · see Commons · generated locally
-- **սեր** — made locally · see Commons · generated locally
+- **այո** — made by Piper · hy_AM-gor-medium · generated locally
+- **բարև** — made by Piper · hy_AM-gor-medium · generated locally
+- **երեք** — made by Piper · hy_AM-gor-medium · generated locally
+- **երկու** — made by Piper · hy_AM-gor-medium · generated locally
+- **զուգարան** — made by Piper · hy_AM-gor-medium · generated locally
+- **ընկեր** — made by Piper · hy_AM-gor-medium · generated locally
+- **ինչքան** — made by Piper · hy_AM-gor-medium · generated locally
+- **խնդրեմ** — made by Piper · hy_AM-gor-medium · generated locally
+- **մեկ** — made by Piper · hy_AM-gor-medium · generated locally
+- **ներողություն** — made by Piper · hy_AM-gor-medium · generated locally
+- **շնորհակալություն** — made by Piper · hy_AM-gor-medium · generated locally
+- **ոչ** — made by Piper · hy_AM-gor-medium · generated locally
+- **ուտելիք** — made by Piper · hy_AM-gor-medium · generated locally
+- **ջուր** — made by Piper · hy_AM-gor-medium · generated locally
+- **սեր** — made by Piper · hy_AM-gor-medium · generated locally
 - **ցտեսություն** — made locally · see Commons · generated locally
 
 ## id
-- **air** — made locally · see Commons · generated locally
-- **berapa** — made locally · see Commons · generated locally
-- **cinta** — made locally · see Commons · generated locally
-- **dua** — made locally · see Commons · generated locally
-- **halo** — made locally · see Commons · generated locally
-- **maaf** — made locally · see Commons · generated locally
-- **makanan** — made locally · see Commons · generated locally
-- **satu** — made locally · see Commons · generated locally
-- **selamat tinggal** — made locally · see Commons · generated locally
-- **teman** — made locally · see Commons · generated locally
-- **terima kasih** — made locally · see Commons · generated locally
-- **tidak** — made locally · see Commons · generated locally
-- **tiga** — made locally · see Commons · generated locally
-- **toilet** — made locally · see Commons · generated locally
-- **tolong** — made locally · see Commons · generated locally
-- **ya** — made locally · see Commons · generated locally
+- **air** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **berapa** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **cinta** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **dua** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **halo** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **maaf** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **makanan** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **satu** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **selamat tinggal** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **teman** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **terima kasih** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **tidak** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **tiga** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **toilet** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **tolong** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
+- **ya** — made by edge-tts (Microsoft Edge, online) · Edge voice "id-ID-ArdiNeural" · generated locally
 
 ## it
-- **acqua** — made locally · see Commons · generated locally
-- **amico** — made locally · see Commons · generated locally
-- **amore** — made locally · see Commons · generated locally
-- **arrivederci** — made locally · see Commons · generated locally
-- **bagno** — made locally · see Commons · generated locally
-- **ciao** — made locally · see Commons · generated locally
-- **cibo** — made locally · see Commons · generated locally
-- **due** — made locally · see Commons · generated locally
-- **grazie** — made locally · see Commons · generated locally
-- **no** — made locally · see Commons · generated locally
-- **per favore** — made locally · see Commons · generated locally
-- **quanto** — made locally · see Commons · generated locally
-- **scusa** — made locally · see Commons · generated locally
-- **sì** — made locally · see Commons · generated locally
-- **tre** — made locally · see Commons · generated locally
-- **uno** — made locally · see Commons · generated locally
+- **acqua** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **amico** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **amore** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **arrivederci** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **bagno** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **ciao** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **cibo** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **due** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **grazie** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **no** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **per favore** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **quanto** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **scusa** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **sì** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **tre** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
+- **uno** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
 
 ## ja
-- **ありがとう** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **いいえ** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **いくらですか** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **いただきます** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **おはようございます** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **お茶** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **お願いします** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **こんにちは** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **こんばんは** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **ご飯** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **さようなら** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **すみません** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **はい** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **またね** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **トイレはどこですか** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **一** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **三** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **二** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **五** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **元気ですか** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **先生** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **分かりません** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **友達** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **名前** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **四** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **大丈夫** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **学校** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **愛** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **日本** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **楽しい** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **水** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **犬** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **猫** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **美味しい** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
-- **駅** — made by Coqui TTS · tts_models/ja/kokoro/tacotron2-DDC · generated locally
+- **ありがとう** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **いいえ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **いくらですか** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **いただきます** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **おはようございます** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **お茶** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **お願いします** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **こんにちは** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **こんばんは** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ご飯** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **さようなら** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **すみません** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **はい** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **またね** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **トイレはどこですか** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **一** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **三** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **二** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **五** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **元気ですか** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **先生** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **分かりません** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **友達** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **名前** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **四** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **大丈夫** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **学校** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **愛** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **日本** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **楽しい** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **水** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **犬** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **猫** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **美味しい** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **駅** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 
 ## ka
-- **არა** — made locally · see Commons · generated locally
-- **ბოდიши** — made locally · see Commons · generated locally
-- **გამარჯობა** — made locally · see Commons · generated locally
-- **გთხოვთ** — made locally · see Commons · generated locally
-- **ერთი** — made locally · see Commons · generated locally
-- **კი** — made locally · see Commons · generated locally
-- **მადლობა** — made locally · see Commons · generated locally
-- **მეგობარი** — made locally · see Commons · generated locally
-- **ნახვამდის** — made locally · see Commons · generated locally
-- **ორი** — made locally · see Commons · generated locally
-- **რამდენი** — made locally · see Commons · generated locally
-- **სამი** — made locally · see Commons · generated locally
-- **საჭმელი** — made locally · see Commons · generated locally
-- **სიყვარული** — made locally · see Commons · generated locally
-- **ტუალეტი** — made locally · see Commons · generated locally
-- **წყალი** — made locally · see Commons · generated locally
+- **არა** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **ბოდიши** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **გამარჯობა** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **გთხოვთ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **ერთი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **კი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **მადლობა** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **მეგობარი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **ნახვამდის** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **ორი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **რამდენი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **სამი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **საჭმელი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **სიყვარული** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **ტუალეტი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
+- **წყალი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
 
 ## ko
-- **감사합니다** — made locally · see Commons · generated locally
-- **고양이** — made locally · see Commons · generated locally
-- **괜찮아요** — made locally · see Commons · generated locally
-- **김치** — made locally · see Commons · generated locally
-- **네** — made locally · see Commons · generated locally
-- **넷** — made locally · see Commons · generated locally
-- **다섯** — made locally · see Commons · generated locally
-- **둘** — made locally · see Commons · generated locally
-- **맛있어요** — made locally · see Commons · generated locally
-- **몰라요** — made locally · see Commons · generated locally
-- **물** — made locally · see Commons · generated locally
-- **밥** — made locally · see Commons · generated locally
-- **사랑해요** — made locally · see Commons · generated locally
-- **선생님** — made locally · see Commons · generated locally
-- **셋** — made locally · see Commons · generated locally
-- **아니요** — made locally · see Commons · generated locally
-- **안녕하세요** — made locally · see Commons · generated locally
-- **안녕히 가세요** — made locally · see Commons · generated locally
-- **얼마예요** — made locally · see Commons · generated locally
-- **여기** — made locally · see Commons · generated locally
-- **이름** — made locally · see Commons · generated locally
-- **잘 자요** — made locally · see Commons · generated locally
-- **죄송합니다** — made locally · see Commons · generated locally
-- **집** — made locally · see Commons · generated locally
-- **친구** — made locally · see Commons · generated locally
-- **하나** — made locally · see Commons · generated locally
-- **학교** — made locally · see Commons · generated locally
-- **한국** — made locally · see Commons · generated locally
-- **행복해요** — made locally · see Commons · generated locally
-- **화장실** — made locally · see Commons · generated locally
+- **감사합니다** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **고양이** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **괜찮아요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **김치** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **네** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **넷** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **다섯** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **둘** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **맛있어요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **몰라요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **물** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **밥** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **사랑해요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **선생님** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **셋** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **아니요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **안녕하세요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **안녕히 가세요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **얼마예요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **여기** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **이름** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **잘 자요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **죄송합니다** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **집** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **친구** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **하나** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **학교** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **한국** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **행복해요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **화장실** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 
 ## mn
 - **баярлалаа** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
@@ -621,182 +626,182 @@ was published under, listed below with the speaker.
 - **үгүй** — made by edge-tts (Microsoft Edge, online) · Edge voice "mn-MN-BataaNeural" · generated locally
 
 ## mr
-- **एक** — made locally · see Commons · generated locally
-- **किती** — made locally · see Commons · generated locally
-- **कृपया** — made locally · see Commons · generated locally
-- **जेवण** — made locally · see Commons · generated locally
-- **तीन** — made locally · see Commons · generated locally
-- **दोन** — made locally · see Commons · generated locally
-- **धन्यवाद** — made locally · see Commons · generated locally
-- **नाही** — made locally · see Commons · generated locally
-- **नमस्कार** — made locally · see Commons · generated locally
-- **पाणी** — made locally · see Commons · generated locally
-- **प्रेम** — made locally · see Commons · generated locally
-- **मित्र** — made locally · see Commons · generated locally
-- **माफ करा** — made locally · see Commons · generated locally
-- **येतो** — made locally · see Commons · generated locally
-- **होय** — made locally · see Commons · generated locally
+- **एक** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **किती** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **कृपया** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **जेवण** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **तीन** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **दोन** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **धन्यवाद** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **नाही** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **नमस्कार** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **पाणी** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **प्रेम** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **मित्र** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **माफ करा** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **येतो** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
+- **होय** — made by edge-tts (Microsoft Edge, online) · Edge voice "mr-IN-AarohiNeural" · generated locally
 
 ## ne
-- **एक** — made locally · see Commons · generated locally
-- **कृपया** — made locally · see Commons · generated locally
-- **कति** — made locally · see Commons · generated locally
-- **खाना** — made locally · see Commons · generated locally
-- **तीन** — made locally · see Commons · generated locally
-- **दुई** — made locally · see Commons · generated locally
-- **धन्यवाद** — made locally · see Commons · generated locally
-- **नमस्ते** — made locally · see Commons · generated locally
-- **पानी** — made locally · see Commons · generated locally
-- **माफ गर्नुहोस्** — made locally · see Commons · generated locally
-- **माया** — made locally · see Commons · generated locally
-- **शौचालय** — made locally · see Commons · generated locally
-- **साथी** — made locally · see Commons · generated locally
-- **हो** — made locally · see Commons · generated locally
-- **होइन** — made locally · see Commons · generated locally
+- **एक** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **कृपया** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **कति** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **खाना** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **तीन** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **दुई** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **धन्यवाद** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **नमस्ते** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **पानी** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **माफ गर्नुहोस्** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **माया** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **शौचालय** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **साथी** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **हो** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
+- **होइन** — made by edge-tts (Microsoft Edge, online) · Edge voice "ne-NP-HemkalaNeural" · generated locally
 
 ## nl
-- **alsjeblieft** — made locally · see Commons · generated locally
-- **dank je** — made locally · see Commons · generated locally
-- **doei** — made locally · see Commons · generated locally
-- **drie** — made locally · see Commons · generated locally
-- **een** — made locally · see Commons · generated locally
-- **eten** — made locally · see Commons · generated locally
-- **hallo** — made locally · see Commons · generated locally
-- **hoeveel** — made locally · see Commons · generated locally
-- **ja** — made locally · see Commons · generated locally
-- **liefde** — made locally · see Commons · generated locally
-- **nee** — made locally · see Commons · generated locally
-- **sorry** — made locally · see Commons · generated locally
-- **toilet** — made locally · see Commons · generated locally
-- **twee** — made locally · see Commons · generated locally
-- **vriend** — made locally · see Commons · generated locally
-- **water** — made locally · see Commons · generated locally
+- **alsjeblieft** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **dank je** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **doei** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **drie** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **een** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **eten** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **hallo** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **hoeveel** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **ja** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **liefde** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **nee** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **sorry** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **toilet** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **twee** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **vriend** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
+- **water** — made by edge-tts (Microsoft Edge, online) · Edge voice "nl-BE-ArnaudNeural" · generated locally
 
 ## no
-- **en** — made locally · see Commons · generated locally
-- **ha det** — made locally · see Commons · generated locally
-- **hei** — made locally · see Commons · generated locally
-- **hvor mye** — made locally · see Commons · generated locally
-- **ja** — made locally · see Commons · generated locally
-- **kjærlighet** — made locally · see Commons · generated locally
-- **mat** — made locally · see Commons · generated locally
-- **nei** — made locally · see Commons · generated locally
-- **takk** — made locally · see Commons · generated locally
-- **to** — made locally · see Commons · generated locally
-- **toalett** — made locally · see Commons · generated locally
-- **tre** — made locally · see Commons · generated locally
-- **unnskyld** — made locally · see Commons · generated locally
-- **vann** — made locally · see Commons · generated locally
-- **venn** — made locally · see Commons · generated locally
-- **vær så snill** — made locally · see Commons · generated locally
+- **en** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **ha det** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **hei** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **hvor mye** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **ja** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **kjærlighet** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **mat** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **nei** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **takk** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **to** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **toalett** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **tre** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **unnskyld** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **vann** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **venn** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
+- **vær så snill** — made by edge-tts (Microsoft Edge, online) · Edge voice "nb-NO-FinnNeural" · generated locally
 
 ## pl
-- **cześć** — made locally · see Commons · generated locally
-- **do widzenia** — made locally · see Commons · generated locally
-- **dwa** — made locally · see Commons · generated locally
-- **dziękuję** — made locally · see Commons · generated locally
-- **ile** — made locally · see Commons · generated locally
-- **jeden** — made locally · see Commons · generated locally
-- **jedzenie** — made locally · see Commons · generated locally
-- **miłość** — made locally · see Commons · generated locally
-- **nie** — made locally · see Commons · generated locally
-- **proszę** — made locally · see Commons · generated locally
-- **przepraszam** — made locally · see Commons · generated locally
-- **przyjaciel** — made locally · see Commons · generated locally
-- **tak** — made locally · see Commons · generated locally
-- **toaleta** — made locally · see Commons · generated locally
-- **trzy** — made locally · see Commons · generated locally
-- **woda** — made locally · see Commons · generated locally
+- **cześć** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **do widzenia** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **dwa** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **dziękuję** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **ile** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **jeden** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **jedzenie** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **miłość** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **nie** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **proszę** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **przepraszam** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **przyjaciel** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **tak** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **toaleta** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **trzy** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
+- **woda** — made by edge-tts (Microsoft Edge, online) · Edge voice "pl-PL-MarekNeural" · generated locally
 
 ## pt
-- **amigo** — made locally · see Commons · generated locally
-- **amor** — made locally · see Commons · generated locally
-- **banheiro** — made locally · see Commons · generated locally
-- **comida** — made locally · see Commons · generated locally
-- **desculpe** — made locally · see Commons · generated locally
-- **dois** — made locally · see Commons · generated locally
-- **não** — made locally · see Commons · generated locally
-- **obrigado** — made locally · see Commons · generated locally
-- **olá** — made locally · see Commons · generated locally
-- **por favor** — made locally · see Commons · generated locally
-- **quanto** — made locally · see Commons · generated locally
-- **sim** — made locally · see Commons · generated locally
-- **tchau** — made locally · see Commons · generated locally
-- **três** — made locally · see Commons · generated locally
-- **um** — made locally · see Commons · generated locally
-- **água** — made locally · see Commons · generated locally
+- **amigo** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **amor** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **banheiro** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **comida** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **desculpe** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **dois** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **não** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **obrigado** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **olá** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **por favor** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **quanto** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **sim** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **tchau** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **três** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **um** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
+- **água** — made by edge-tts (Microsoft Edge, online) · Edge voice "pt-BR-ThalitaMultilingualNeural" · generated locally
 
 ## ro
-- **apă** — made locally · see Commons · generated locally
-- **cât** — made locally · see Commons · generated locally
-- **da** — made locally · see Commons · generated locally
-- **doi** — made locally · see Commons · generated locally
-- **dragoste** — made locally · see Commons · generated locally
-- **la revedere** — made locally · see Commons · generated locally
-- **mulțumesc** — made locally · see Commons · generated locally
-- **mâncare** — made locally · see Commons · generated locally
-- **nu** — made locally · see Commons · generated locally
-- **prieten** — made locally · see Commons · generated locally
-- **salut** — made locally · see Commons · generated locally
-- **scuze** — made locally · see Commons · generated locally
-- **toaletă** — made locally · see Commons · generated locally
-- **trei** — made locally · see Commons · generated locally
-- **unu** — made locally · see Commons · generated locally
-- **vă rog** — made locally · see Commons · generated locally
+- **apă** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **cât** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **da** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **doi** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **dragoste** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **la revedere** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **mulțumesc** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **mâncare** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **nu** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **prieten** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **salut** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **scuze** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **toaletă** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **trei** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **unu** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
+- **vă rog** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
 
 ## ru
 - **Россия** — downloaded from Commons · see Commons · see Commons
-- **вкусно** — made locally · see Commons · generated locally
+- **вкусно** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **вода** — downloaded from Commons · see Commons · see Commons
-- **вокзал** — made locally · see Commons · generated locally
+- **вокзал** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **да** — Ru-да.ogg · see Commons · CC BY 2.0 fr
 - **два** — downloaded from Commons · see Commons · see Commons
-- **до свидания** — made locally · see Commons · generated locally
+- **до свидания** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **доброе утро** — LL-Q7737 (rus)-DoctorandusManhattan-доброе утро.wav · Speaker: DoctorandusManhattan
 Recorder: DoctorandusManhattan · CC BY-SA 4.0
-- **дом** — made locally · see Commons · generated locally
-- **друг** — made locally · see Commons · generated locally
+- **дом** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **друг** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **здравствуйте** — LL-Q7737 (rus)-Tatiana Kerbush-здравствуйте.wav · Speaker: Tatiana Kerbush
 Recorder: Tatiana Kerbush · CC BY-SA 4.0
-- **извините** — made locally · see Commons · generated locally
-- **имя** — made locally · see Commons · generated locally
-- **нет** — made locally · see Commons · generated locally
-- **один** — made locally · see Commons · generated locally
-- **пожалуйста** — made locally · see Commons · generated locally
+- **извините** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **имя** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **нет** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **один** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **пожалуйста** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **привет** — LL-Q7737 (rus)-Tatiana Kerbush-привет.wav · Speaker: Tatiana Kerbush
 Recorder: Tatiana Kerbush · CC BY-SA 4.0
-- **пять** — made locally · see Commons · generated locally
-- **сколько стоит** — made locally · see Commons · generated locally
-- **собака** — made locally · see Commons · generated locally
-- **спасибо** — made locally · see Commons · generated locally
-- **три** — made locally · see Commons · generated locally
-- **туалет** — made locally · see Commons · generated locally
-- **учитель** — made locally · see Commons · generated locally
-- **хлеб** — made locally · see Commons · generated locally
-- **хорошо** — made locally · see Commons · generated locally
-- **чай** — made locally · see Commons · generated locally
-- **четыре** — made locally · see Commons · generated locally
-- **школа** — made locally · see Commons · generated locally
-- **я не понимаю** — made locally · see Commons · generated locally
-- **я тебя люблю** — made locally · see Commons · generated locally
+- **пять** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **сколько стоит** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **собака** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **спасибо** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **три** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **туалет** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **учитель** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **хлеб** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **хорошо** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **чай** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **четыре** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **школа** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **я не понимаю** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **я тебя люблю** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 
 ## sk
-- **ahoj** — made locally · see Commons · generated locally
-- **dovidenia** — made locally · see Commons · generated locally
-- **dva** — made locally · see Commons · generated locally
-- **jeden** — made locally · see Commons · generated locally
-- **jedlo** — made locally · see Commons · generated locally
-- **koľko** — made locally · see Commons · generated locally
-- **láska** — made locally · see Commons · generated locally
-- **nie** — made locally · see Commons · generated locally
-- **prepáčte** — made locally · see Commons · generated locally
-- **priateľ** — made locally · see Commons · generated locally
-- **prosím** — made locally · see Commons · generated locally
-- **tri** — made locally · see Commons · generated locally
-- **voda** — made locally · see Commons · generated locally
-- **záchod** — made locally · see Commons · generated locally
-- **áno** — made locally · see Commons · generated locally
-- **ďakujem** — made locally · see Commons · generated locally
+- **ahoj** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **dovidenia** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **dva** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **jeden** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **jedlo** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **koľko** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **láska** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **nie** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **prepáčte** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **priateľ** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **prosím** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **tri** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **voda** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **záchod** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **áno** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
+- **ďakujem** — made by edge-tts (Microsoft Edge, online) · Edge voice "sk-SK-LukasNeural" · generated locally
 
 ## so
 - **biyo** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
@@ -817,211 +822,262 @@ Recorder: Tatiana Kerbush · CC BY-SA 4.0
 - **salaan** — made by edge-tts (Microsoft Edge, online) · Edge voice "so-SO-MuuseNeural" · generated locally
 
 ## sq
-- **banjo** — made locally · see Commons · generated locally
-- **dashuri** — made locally · see Commons · generated locally
-- **dy** — made locally · see Commons · generated locally
-- **faleminderit** — made locally · see Commons · generated locally
-- **jo** — made locally · see Commons · generated locally
-- **ju lutem** — made locally · see Commons · generated locally
-- **mik** — made locally · see Commons · generated locally
-- **mirupafshim** — made locally · see Commons · generated locally
-- **më fal** — made locally · see Commons · generated locally
-- **një** — made locally · see Commons · generated locally
-- **po** — made locally · see Commons · generated locally
-- **përshëndetje** — made locally · see Commons · generated locally
-- **sa** — made locally · see Commons · generated locally
-- **tre** — made locally · see Commons · generated locally
-- **ujë** — made locally · see Commons · generated locally
-- **ushqim** — made locally · see Commons · generated locally
+- **banjo** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **dashuri** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **dy** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **faleminderit** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **jo** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **ju lutem** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **mik** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **mirupafshim** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **më fal** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **një** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **po** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **përshëndetje** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **sa** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **tre** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **ujë** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
+- **ushqim** — made by edge-tts (Microsoft Edge, online) · Edge voice "sq-AL-AnilaNeural" · generated locally
 
 ## sr
-- **вода** — made locally · see Commons · generated locally
-- **да** — made locally · see Commons · generated locally
-- **два** — made locally · see Commons · generated locally
-- **довиђења** — made locally · see Commons · generated locally
-- **здраво** — made locally · see Commons · generated locally
-- **извините** — made locally · see Commons · generated locally
-- **колико** — made locally · see Commons · generated locally
-- **молим** — made locally · see Commons · generated locally
-- **не** — made locally · see Commons · generated locally
-- **пријатељ** — made locally · see Commons · generated locally
-- **тоалет** — made locally · see Commons · generated locally
-- **три** — made locally · see Commons · generated locally
-- **хвала** — made locally · see Commons · generated locally
-- **храна** — made locally · see Commons · generated locally
-- **један** — made locally · see Commons · generated locally
-- **љубав** — made locally · see Commons · generated locally
+- **вода** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **да** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **два** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **довиђења** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **здраво** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **извините** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **колико** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **молим** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **не** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **пријатељ** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **тоалет** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **три** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **хвала** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **храна** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **један** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
+- **љубав** — made by edge-tts (Microsoft Edge, online) · Edge voice "sr-RS-NicholasNeural" · generated locally
 
 ## sv
-- **ett** — made locally · see Commons · generated locally
-- **förlåt** — made locally · see Commons · generated locally
-- **hej** — made locally · see Commons · generated locally
-- **hej då** — made locally · see Commons · generated locally
-- **hur mycket** — made locally · see Commons · generated locally
-- **ja** — made locally · see Commons · generated locally
-- **kärlek** — made locally · see Commons · generated locally
-- **mat** — made locally · see Commons · generated locally
-- **nej** — made locally · see Commons · generated locally
-- **snälla** — made locally · see Commons · generated locally
-- **tack** — made locally · see Commons · generated locally
-- **toalett** — made locally · see Commons · generated locally
-- **tre** — made locally · see Commons · generated locally
-- **två** — made locally · see Commons · generated locally
-- **vatten** — made locally · see Commons · generated locally
-- **vän** — made locally · see Commons · generated locally
+- **ett** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **förlåt** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **hej** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **hej då** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **hur mycket** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **ja** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **kärlek** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **mat** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **nej** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **snälla** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **tack** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **toalett** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **tre** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **två** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **vatten** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
+- **vän** — made by edge-tts (Microsoft Edge, online) · Edge voice "sv-SE-MattiasNeural" · generated locally
 
 ## sw
 - **asante** — Sw-ke-asante.flac · Waithera Were · CC BY-SA 4.0
-- **bei gani** — made locally · see Commons · generated locally
+- **bei gani** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
 - **chakula** — Sw-ke-chakula.flac · Waithera Were · CC BY-SA 4.0
-- **choo** — made locally · see Commons · generated locally
-- **hapana** — made locally · see Commons · generated locally
-- **jambo** — made locally · see Commons · generated locally
-- **kwaheri** — made locally · see Commons · generated locally
-- **maji** — made locally · see Commons · generated locally
-- **mbili** — made locally · see Commons · generated locally
-- **moja** — made locally · see Commons · generated locally
-- **ndiyo** — made locally · see Commons · generated locally
-- **rafiki** — made locally · see Commons · generated locally
-- **samahani** — made locally · see Commons · generated locally
-- **tafadhali** — made locally · see Commons · generated locally
-- **tatu** — made locally · see Commons · generated locally
-- **upendo** — made locally · see Commons · generated locally
+- **choo** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **hapana** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **jambo** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **kwaheri** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **maji** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **mbili** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **moja** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **ndiyo** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **rafiki** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **samahani** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **tafadhali** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **tatu** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
+- **upendo** — made by edge-tts (Microsoft Edge, online) · Edge voice "sw-KE-RafikiNeural" · generated locally
 
 ## ta
-- **அன்பு** — made locally · see Commons · generated locally
-- **ஆம்** — made locally · see Commons · generated locally
-- **இரண்டு** — made locally · see Commons · generated locally
-- **இல்லை** — made locally · see Commons · generated locally
-- **உணவு** — made locally · see Commons · generated locally
-- **எவ்வளவு** — made locally · see Commons · generated locally
-- **ஒன்று** — made locally · see Commons · generated locally
-- **தண்ணீர்** — made locally · see Commons · generated locally
-- **தயவுசெய்து** — made locally · see Commons · generated locally
-- **நண்பன்** — made locally · see Commons · generated locally
-- **நன்றி** — made locally · see Commons · generated locally
-- **மூன்று** — made locally · see Commons · generated locally
-- **மன்னிக்கவும்** — made locally · see Commons · generated locally
-- **வணக்கம்** — made locally · see Commons · generated locally
+- **அன்பு** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **ஆம்** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **இரண்டு** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **இல்லை** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **உணவு** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **எவ்வளவு** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **ஒன்று** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **தண்ணீர்** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **தயவுசெய்து** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **நண்பன்** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **நன்றி** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **மூன்று** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **மன்னிக்கவும்** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
+- **வணக்கம்** — made by edge-tts (Microsoft Edge, online) · Edge voice "ta-IN-PallaviNeural" · generated locally
 
 ## th
-- **กรุณา** — made locally · see Commons · generated locally
-- **ขอบคุณ** — made locally · see Commons · generated locally
-- **ขอโทษ** — made locally · see Commons · generated locally
-- **ความรัก** — made locally · see Commons · generated locally
-- **น้ำ** — made locally · see Commons · generated locally
-- **ลาก่อน** — made locally · see Commons · generated locally
-- **สวัสดี** — made locally · see Commons · generated locally
-- **สอง** — made locally · see Commons · generated locally
-- **สาม** — made locally · see Commons · generated locally
-- **ห้องน้ำ** — made locally · see Commons · generated locally
-- **หนึ่ง** — made locally · see Commons · generated locally
-- **อาหาร** — made locally · see Commons · generated locally
-- **เท่าไร** — made locally · see Commons · generated locally
-- **เพื่อน** — made locally · see Commons · generated locally
-- **ใช่** — made locally · see Commons · generated locally
-- **ไม่** — made locally · see Commons · generated locally
+- **กรุณา** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **ขอบคุณ** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **ขอโทษ** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **ความรัก** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **น้ำ** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **ลาก่อน** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **สวัสดี** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **สอง** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **สาม** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **ห้องน้ำ** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **หนึ่ง** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **อาหาร** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **เท่าไร** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **เพื่อน** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **ใช่** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+- **ไม่** — made by edge-tts (Microsoft Edge, online) · Edge voice "th-TH-NiwatNeural" · generated locally
+
+## tl
+- **banyo** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **dalawa** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **hindi** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **isa** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **kaibigan** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **kumusta** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **magkano** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **oo** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **paalam** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **pag-ibig** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **pagkain** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **pakiusap** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **pasensya** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **salamat** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **tatlo** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
+- **tubig** — made by edge-tts (Microsoft Edge, online) · Edge voice "fil-PH-AngeloNeural" · generated locally
 
 ## tr
-- **affedersiniz** — made locally · see Commons · generated locally
-- **arkadaş** — made locally · see Commons · generated locally
-- **aşk** — made locally · see Commons · generated locally
-- **bir** — made locally · see Commons · generated locally
-- **evet** — made locally · see Commons · generated locally
-- **hayır** — made locally · see Commons · generated locally
-- **hoşça kal** — made locally · see Commons · generated locally
-- **iki** — made locally · see Commons · generated locally
-- **lütfen** — made locally · see Commons · generated locally
-- **merhaba** — made locally · see Commons · generated locally
-- **ne kadar** — made locally · see Commons · generated locally
-- **su** — made locally · see Commons · generated locally
-- **teşekkürler** — made locally · see Commons · generated locally
-- **tuvalet** — made locally · see Commons · generated locally
-- **yemek** — made locally · see Commons · generated locally
-- **üç** — made locally · see Commons · generated locally
+- **affedersiniz** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **arkadaş** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **aşk** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **bir** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **evet** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **hayır** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **hoşça kal** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **iki** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **lütfen** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **merhaba** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **ne kadar** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **su** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **teşekkürler** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **tuvalet** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **yemek** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
+- **üç** — made by edge-tts (Microsoft Edge, online) · Edge voice "tr-TR-EmelNeural" · generated locally
 
 ## uk
-- **будь ласка** — made locally · see Commons · generated locally
-- **вибачте** — made locally · see Commons · generated locally
-- **вода** — made locally · see Commons · generated locally
-- **два** — made locally · see Commons · generated locally
-- **до побачення** — made locally · see Commons · generated locally
-- **друг** — made locally · see Commons · generated locally
-- **дякую** — made locally · see Commons · generated locally
-- **любов** — made locally · see Commons · generated locally
-- **ні** — made locally · see Commons · generated locally
-- **один** — made locally · see Commons · generated locally
-- **привіт** — made locally · see Commons · generated locally
-- **скільки** — made locally · see Commons · generated locally
-- **так** — made locally · see Commons · generated locally
-- **три** — made locally · see Commons · generated locally
-- **туалет** — made locally · see Commons · generated locally
-- **їжа** — made locally · see Commons · generated locally
+- **будь ласка** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **вибачте** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **вода** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **два** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **до побачення** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **друг** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **дякую** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **любов** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **ні** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **один** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **привіт** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **скільки** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **так** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **три** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **туалет** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
+- **їжа** — made by edge-tts (Microsoft Edge, online) · Edge voice "uk-UA-OstapNeural" · generated locally
 
 ## ur
-- **السلام علیکم** — made locally · see Commons · generated locally
-- **ایک** — made locally · see Commons · generated locally
-- **باتھ روم** — made locally · see Commons · generated locally
-- **تین** — made locally · see Commons · generated locally
-- **خدا حافظ** — made locally · see Commons · generated locally
-- **دو** — made locally · see Commons · generated locally
-- **دوست** — made locally · see Commons · generated locally
-- **شکریہ** — made locally · see Commons · generated locally
-- **محبت** — made locally · see Commons · generated locally
-- **معاف کیجیے** — made locally · see Commons · generated locally
-- **مہربانی** — made locally · see Commons · generated locally
-- **نہیں** — made locally · see Commons · generated locally
-- **پانی** — made locally · see Commons · generated locally
-- **کتنا** — made locally · see Commons · generated locally
-- **کھانا** — made locally · see Commons · generated locally
-- **ہاں** — made locally · see Commons · generated locally
+- **السلام علیکم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **ایک** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **باتھ روم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **تین** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **خدا حافظ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **دو** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **دوست** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **شکریہ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **محبت** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **معاف کیجیے** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **مہربانی** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **نہیں** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **پانی** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **کتنا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **کھانا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
+- **ہاں** — made by edge-tts (Microsoft Edge, online) · Edge voice "ur-IN-GulNeural" · generated locally
 
 ## vi
-- **ba** — made locally · see Commons · generated locally
-- **bao nhiêu** — made locally · see Commons · generated locally
-- **bạn** — made locally · see Commons · generated locally
-- **cảm ơn** — made locally · see Commons · generated locally
-- **hai** — made locally · see Commons · generated locally
-- **không** — made locally · see Commons · generated locally
-- **làm ơn** — made locally · see Commons · generated locally
-- **một** — made locally · see Commons · generated locally
-- **nhà vệ sinh** — made locally · see Commons · generated locally
-- **nước** — made locally · see Commons · generated locally
-- **thức ăn** — made locally · see Commons · generated locally
-- **tình yêu** — made locally · see Commons · generated locally
-- **tạm biệt** — made locally · see Commons · generated locally
-- **vâng** — made locally · see Commons · generated locally
-- **xin chào** — made locally · see Commons · generated locally
-- **xin lỗi** — made locally · see Commons · generated locally
+- **ba** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **bao nhiêu** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **bạn** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **cảm ơn** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **hai** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **không** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **làm ơn** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **một** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **nhà vệ sinh** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **nước** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **thức ăn** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **tình yêu** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **tạm biệt** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **vâng** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **xin chào** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+- **xin lỗi** — made by edge-tts (Microsoft Edge, online) · Edge voice "vi-VN-HoaiMyNeural" · generated locally
+
+## yo
+- **báwo ni** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **bẹ́ẹ̀ ni** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **e ṣé** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **jọ̀wọ́** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **mà bínú** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **mélòó** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **omi** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **oúnjẹ** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **rárá** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **èjì** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **ìfẹ́** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **ó dàbọ̀** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **ẹ̀ta** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **ọ̀kan** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
+- **ọ̀rẹ́** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
 
 ## zh
-- **一** — made locally · see Commons · generated locally
-- **三** — made locally · see Commons · generated locally
-- **不客气** — made locally · see Commons · generated locally
-- **不是** — made locally · see Commons · generated locally
-- **中国** — made locally · see Commons · generated locally
-- **二** — made locally · see Commons · generated locally
-- **五** — made locally · see Commons · generated locally
-- **你好** — made locally · see Commons · generated locally
-- **再见** — made locally · see Commons · generated locally
-- **名字** — made locally · see Commons · generated locally
-- **四** — made locally · see Commons · generated locally
-- **多少钱** — made locally · see Commons · generated locally
-- **好吃** — made locally · see Commons · generated locally
-- **学校** — made locally · see Commons · generated locally
-- **对不起** — made locally · see Commons · generated locally
-- **很高兴** — made locally · see Commons · generated locally
-- **我不懂** — made locally · see Commons · generated locally
-- **我爱你** — made locally · see Commons · generated locally
-- **早上好** — made locally · see Commons · generated locally
-- **是** — made locally · see Commons · generated locally
-- **朋友** — made locally · see Commons · generated locally
-- **水** — made locally · see Commons · generated locally
-- **洗手间** — made locally · see Commons · generated locally
-- **火车站** — made locally · see Commons · generated locally
-- **狗** — made locally · see Commons · generated locally
-- **猫** — made locally · see Commons · generated locally
-- **米饭** — made locally · see Commons · generated locally
-- **老师** — made locally · see Commons · generated locally
-- **茶** — made locally · see Commons · generated locally
-- **谢谢** — made locally · see Commons · generated locally
+- **一** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **三** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **不客气** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **不是** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **中国** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **二** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **五** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **你好** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **再见** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **名字** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **四** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **多少钱** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **好吃** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **学校** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **对不起** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **很高兴** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **我不懂** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **我爱你** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **早上好** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **是** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **朋友** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **水** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **洗手间** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **火车站** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **狗** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **猫** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **米饭** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **老师** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **茶** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **谢谢** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+
+## zu
+- **amanzi** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **kubili** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **kunye** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **kuthathu** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **malini** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **ngicela** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **ngiyabonga** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **sala kahle** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **sawubona** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **ukudla** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **umngane** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **uthando** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **uxolo** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
+- **yebo** — made by edge-tts (Microsoft Edge, online) · Edge voice "zu-ZA-ThandoNeural" · generated locally
