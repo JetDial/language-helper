@@ -87,7 +87,8 @@ def read(path):
 
 ROW3 = re.compile(r"\[\s*'((?:[^'\\]|\\.)*)'\s*,\s*'((?:[^'\\]|\\.)*)'\s*,\s*'((?:[^'\\]|\\.)*)'")
 ROW2 = re.compile(r"\[\s*'((?:[^'\\]|\\.)*)'\s*,\s*'((?:[^'\\]|\\.)*)'\s*\]")
-LANG_KEY = re.compile(r"^  ([a-z_]{2,8}): \{", re.M)
+LANG_KEY = re.compile(r"^  ([a-z_]{2,20}): \{", re.M)
+LANG_FIELD = re.compile(r"lang:\s*'([a-z]{2,8})'")
 
 
 def unescape(s):
@@ -125,6 +126,23 @@ def word_lists():
         body = block[start:]
         rows = [(unescape(a), unescape(b)) for a, b, _ in ROW3.findall(body)]
         rows += [(unescape(a), unescape(a)) for a, _ in ROW2.findall(body)]
+        if rows:
+            out.setdefault(code, []).extend(rows)
+
+    # the alphabets themselves, for the Write tab: rows are
+    # [character, romanisation, pronunciation, strokes, note]. A voice reads
+    # the bare character the same way it reads any other word here, so these
+    # go into the very same per-language lists.
+    src = read(os.path.join(JS, 'data-scripts.js'))
+    for m in LANG_KEY.finditer(src):
+        block = src[m.end():]
+        end = block.find('\n  },')
+        block = block[:end if end != -1 else len(block)]
+        lang_m = LANG_FIELD.search(block)
+        if not lang_m:
+            continue
+        code = lang_m.group(1)
+        rows = [(unescape(a), unescape(b)) for a, b, _ in ROW3.findall(block)]
         if rows:
             out.setdefault(code, []).extend(rows)
 

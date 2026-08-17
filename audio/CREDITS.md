@@ -41,35 +41,67 @@ was published under, listed below with the speaker.
 - **ፍቅር** — made by edge-tts (Microsoft Edge, online) · Edge voice "am-ET-AmehaNeural" · generated locally
 
 ## ar
+- **Six letters (ا د ذ ر ز و) never join to the left — the word breaks after them.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **آسف** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **أحبك** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **أربعة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **اثنان** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **اسم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **السلام عليكم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **بّ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **بـ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **بيت** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ت** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ث** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **ثلاثة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ج** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **جميل** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ح** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **حمام** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **خ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **خبز** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **خمسة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **د** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ذ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ر** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ز** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **س** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ش** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **شاي** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **شكرا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ص** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **صباح الخير** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **صديق** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ض** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ط** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ظ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ع** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **غ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ـب** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ـبـ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ف** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ق** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **قطة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ك** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **كم الثمن** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ل** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **لا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **لا أفهم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **لذيذ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **م** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **مدرسة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **مرحبا** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **مصر** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **مع السلامة** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **معلم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **من فضلك** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ن** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **نعم** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ه** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **و** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 - **واحد** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
+- **ي** — made by edge-tts (Microsoft Edge, online) · Edge voice "ar-DZ-AminaNeural" · generated locally
 
 ## bg
 - **благодаря** — made by edge-tts (Microsoft Edge, online) · Edge voice "bg-BG-BorislavNeural" · generated locally
@@ -180,21 +212,53 @@ was published under, listed below with the speaker.
 - **zwei** — De-zwei.ogg · joni · CC BY-SA 3.0
 
 ## el
+- **Α α** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Β β** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Γ γ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Δ δ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ε ε** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **Ελλάδα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ζ ζ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Η η** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Θ θ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ι ι** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Κ κ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Λ λ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Μ μ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ν ν** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ξ ξ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ο ο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Π π** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ρ ρ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Σ is written ς at the end of a word — same letter, different tail.** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Σ σ/ς** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Τ τ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Υ υ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Φ φ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Χ χ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ψ ψ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **Ω ω** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **ένα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **αι** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **αντίο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **γάτα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **γεια σου** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **γκ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **δάσκαλος** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **δεν καταλαβαίνω** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **δύο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ει** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **ευχαριστώ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **καλημέρα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **καλησπέρα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **καφές** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **μπ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **ναι** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **νερό** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ντ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **νόστιμο** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **οι** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **ου** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **πέντε** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **παρακαλώ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **πόσο κάνει** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
@@ -205,6 +269,7 @@ was published under, listed below with the speaker.
 - **τέσσερα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **τουαλέτα** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **τρία** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
+- **τσ** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **φίλος** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **ψωμί** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
 - **ωραία** — made by edge-tts (Microsoft Edge, online) · Edge voice "el-GR-AthinaNeural" · generated locally
@@ -382,36 +447,75 @@ was published under, listed below with the speaker.
 - **תודה** — made by edge-tts (Microsoft Edge, online) · Edge voice "he-IL-AvriNeural" · generated locally
 
 ## hi
+- **अ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **अच्छा** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **आ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **इ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ई** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **उ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ऊ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ए** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **एक** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ऐ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ओ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **औ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **क्** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **क is "ka", not "k". To get other vowels, add a sign: का ki की कु कू के को.** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **कुत्ता** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **कितने का है** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **कृपया** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ख** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ग** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **घ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **घर** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **च** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **चाय** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **चार** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **चावल** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **छ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ज** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **झ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ट** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ठ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ड** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ढ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **त** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **तीन** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
-- **दो** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **थ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **द** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **दोस्त** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ध** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **धन्यवाद** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **न** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **नाम** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **नमस्ते** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **नहीं** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **प** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **पाँच** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **पानी** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **प्यार** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **फ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **फिर मिलेंगे** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ब** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **बिल्ली** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **भ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **भारत** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **म** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **माफ़ कीजिए** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **य** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **र** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ल** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **व** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **श** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **शिक्षक** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **शौचालय** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ष** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **स** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **स्कूल** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **सुप्रभात** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **स्वादिष्ट** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 - **समझ नहीं आया** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
-- **हाँ** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
+- **ह** — made by edge-tts (Microsoft Edge, online) · Edge voice "hi-IN-MadhurNeural" · generated locally
 
 ## hr
 - **bok** — made by edge-tts (Microsoft Edge, online) · Edge voice "hr-HR-GabrijelaNeural" · generated locally
@@ -522,40 +626,182 @@ was published under, listed below with the speaker.
 - **uno** — made by edge-tts (Microsoft Edge, online) · Edge voice "it-IT-GiuseppeMultilingualNeural" · generated locally
 
 ## ja
+- **Shapes are angular and made of short, straight strokes.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **Strokes always go left to right, top to bottom.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **Write top to bottom, left to right, horizontal before vertical.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **あ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ありがとう** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **い** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **いいえ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **いくらですか** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **いただきます** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **う** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **え** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **お** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **おはようございます** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **お茶** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **お願いします** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **か** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **が** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **き** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぎ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **く** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぐ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **け** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **げ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **こ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **こんにちは** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **こんばんは** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ご** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **ご飯** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **さ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **さようなら** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ざ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **し** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **じ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **す** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **すみません** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ず** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **せ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぜ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **そ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぞ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **た** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **だ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ち** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **つ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **て** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **で** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **と** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ど** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **な** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **に** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぬ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ね** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **の** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **は** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **はい** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ば** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぱ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ひ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **び** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぴ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ふ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぶ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぷ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **へ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **べ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぺ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ほ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぼ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ぽ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ま** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **またね** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **み** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **む** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **め** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **も** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **や** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ゆ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **よ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ら** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **り** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **る** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **れ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ろ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **わ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **を** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ん** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ア** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **イ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ウ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **エ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **オ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **カ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **キ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ク** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ケ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **コ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **サ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **シ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ス** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **セ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ソ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **タ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **チ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ツ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **テ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ト** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **トイレはどこですか** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ナ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ニ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ヌ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ネ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ノ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ハ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ヒ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **フ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ヘ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ホ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **マ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ミ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ム** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **メ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **モ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ヤ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ユ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ヨ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ラ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **リ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ル** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **レ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ロ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ワ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ヲ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **ン** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **一** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **七** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **三** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **上** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **下** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **中** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **九** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **二** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **五** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **人** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **元気ですか** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **先生** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **八** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **六** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **分かりません** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **十** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **友達** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **口** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **名前** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **四** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **土** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **大** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **大丈夫** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **学校** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **小** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **山** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **川** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **愛** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **手** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **日** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **日本** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **月** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **木** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **本** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **楽しい** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **水** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **火** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **犬** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **猫** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **田** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **目** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **美味しい** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
+- **金** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 - **駅** — made by edge-tts (Microsoft Edge, online) · Edge voice "ja-JP-KeitaNeural" · generated locally
 
 ## ka
@@ -577,18 +823,59 @@ was published under, listed below with the speaker.
 - **წყალი** — made by edge-tts (Microsoft Edge, online) · Edge voice "ka-GE-EkaNeural" · generated locally
 
 ## ko
+- **Letters stack into square blocks, one block per syllable: ㅎ+ㅏ+ㄴ = 한.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㄱ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㄲ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㄴ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㄷ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㄸ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㄹ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅁ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅂ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅃ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅅ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅆ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅇ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅈ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅉ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅊ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅋ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅌ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅍ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅎ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅏ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅐ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅑ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅓ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅔ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅕ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅗ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅘ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅚ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅛ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅜ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅝ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅟ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅠ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅡ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅢ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **ㅣ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **감사합니다** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **고양이** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **괜찮아요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **글** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **김** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **김치** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **네** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **넷** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **다섯** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **둘** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **랑** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **맛있어요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **몰라요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **물** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **밥** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **사** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **사랑해요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **선생님** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **셋** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
@@ -601,9 +888,11 @@ was published under, listed below with the speaker.
 - **잘 자요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **죄송합니다** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **집** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **치** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **친구** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **하나** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **학교** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
+- **한** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **한국** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **행복해요** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
 - **화장실** — made by edge-tts (Microsoft Edge, online) · Edge voice "ko-KR-HyunsuMultilingualNeural" · generated locally
@@ -750,7 +1039,41 @@ was published under, listed below with the speaker.
 - **vă rog** — made by edge-tts (Microsoft Edge, online) · Edge voice "ro-RO-AlinaNeural" · generated locally
 
 ## ru
+- **Watch the false friends: В=v, Н=n, Р=r, С=s, У=u, Х=kh.** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ё ё** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **А а** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Б б** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **В в** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Г г** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Д д** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Е е** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ж ж** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **З з** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **И и** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Й й** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **К к** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Л л** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **М м** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Н н** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **О о** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **П п** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Р р** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **Россия** — downloaded from Commons · see Commons · see Commons
+- **С с** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Т т** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **У у** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ф ф** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Х х** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ц ц** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ч ч** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ш ш** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Щ щ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ъ ъ** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ы ы** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ь ь** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Э э** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Ю ю** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
+- **Я я** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **вкусно** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
 - **вода** — downloaded from Commons · see Commons · see Commons
 - **вокзал** — made by edge-tts (Microsoft Edge, online) · Edge voice "ru-RU-DmitryNeural" · generated locally
@@ -1035,29 +1358,70 @@ Recorder: Tatiana Kerbush · CC BY-SA 4.0
 - **ọ̀rẹ́** — made by Coqui TTS · tts_models/yor/openbible/vits · generated locally
 
 ## zh
+- **Stroke order: top to bottom, left to right, horizontal before vertical.** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **The tone mark sits on the vowel: mā má mǎ mà are four different words.** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **b** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **c** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **ch** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **e** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **hiragana** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **-i (after zh ch sh r z c s)** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **ian** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **iu** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **j** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **ma 吗** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **mà 骂** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **má 麻** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **mā 妈** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **mǎ 马** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **ong** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **p** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **q** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **r** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **sh** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **ui** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **x** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **z** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **zh** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **一** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **七** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **三** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **不客气** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **不是** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **中** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **中国** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **九** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **二** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **五** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **人** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **你好** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **八** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **六** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **再见** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **十** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **名字** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **四** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **国** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **多少钱** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **大** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **好** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **好吃** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **学校** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **对不起** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **小** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **山** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **很高兴** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **我** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **我不懂** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **我爱你** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **日** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **早上好** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **是** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **月** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **朋友** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **水** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **洗手间** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
+- **火** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **火车站** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **狗** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
 - **猫** — made by edge-tts (Microsoft Edge, online) · Edge voice "zh-CN-XiaoxiaoNeural" · generated locally
